@@ -77,7 +77,16 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 4. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 4. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+
+##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
+
+- Colors: Fruit fly, glo white, gold, woodtick
+- Lowest price: $6.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
+
+#### 5. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
@@ -107,6 +116,33 @@
 - Lowest price: $4.24
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
+
+#### 3. [Bernie](https://www.rapala.com/us_en/bernie)
+
+##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
+
+- Colors: White No. 1, bubblegum, panfish whiskey sour
+- Lowest price: $3.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
+
+#### 4. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
+
+##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
+
+- Colors: White No. 1, bubblegum, panfish whiskey sour, radioactive pickle, snozberry
+- Lowest price: $3.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
+
+#### 5. [Slab Slanger](https://www.mrcrappie.com/products/Strike-King/slab-slanger.php)
+
+##### ![Slab Slanger](https://www.mrcrappie.com/images/Strike-King/landing-slab-slanger.png)
+
+- Colors: Pumpkinseed/chartreuse, refrigerator white, HotChicken.com
+- Lowest price: $3.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
 
 ---
 
