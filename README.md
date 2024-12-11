@@ -30,6 +30,46 @@
 
 - Lowest price: $50.00
 - Retrieved 12/11/2024
-- [YakAttack.us](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-battleship-grey/)
+- [YakAttack.us](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+
+---
+
+## Fishing tackle
+
+### $20 - $25
+
+#### 1. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
+
+##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
+
+- Lowest price: $24.99
+- Retrieved 12/11/2024
+- [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
+
+---
+
+### Under $5 - $10
+
+#### 1. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+
+##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
+
+- Colors: GP black flake, pature fire, rodeo clown
+- Lowest price: $5.49
+- Retrieved 12/11/2024
+- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+
+---
+
+### Under $5
+
+#### 1. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+
+##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
+
+- Colors: Chartreuse, white, fire red, pink, green pumpkin
+- Lowest price: $4.29
+- Retrieved 12/11/2024
+- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
 ---
