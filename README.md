@@ -112,7 +112,17 @@
 
 ## Grilling
 
-### $20 - $10
+### $50 - $25
+
+#### 1. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
+
+##### ![Griddle Keep Warm Rack](https://product-images.weber.com/accessory-images/6784A_Rev1_1800x1800.png?w=400&h=400&auto=compress%2cformat)
+
+- Lowest price: $31.99
+- Retrieved 12/11/2024
+- [Amazon.com](https://www.amazon.com/Weber-6784-Griddle-Warming-Silver/dp/B0BPDKQJ4L?crid=336B1RC1JWH4A&dib=eyJ2IjoiMSJ9.gP3-CVkgJ6C1wdUq2Gm_2AuUx4CXoTvZiJR3M1RAEV81EQDTLNRhKxBShwzXemCmtWAyKLuNjxARcWstROSraxJIes_AB-f7LvuAWzUNvcyV3h5kIYvgeXWe1Mb9hKTXjljzlRm2TS2KkBWvcFRj894lh0mjdbukxZqWHrIPKRkVwVdXGrYC8qR8w-j6SJ0ZFedg2anJxrm9cHNMpSb_F0F5iWuRnF5H9vaF4rDg9h9iN3AlKEmM5QBv9IeWOhCdUBQkEOIcYZ4bzDXunV-IhWrbzCJ5RB4QrlEioioKpEo.i61l9mJYBiu0iu6US3a0e5HXJgnbQIobRGzEC_xKkYk&dib_tag=se&keywords=weber+turkey+rack&qid=1732473245&refinements=p_123%3A218268&rnid=85457740011&s=lawn-garden&sprefix=weber+turkey+rack%2Caps%2C105&sr=1-2)
+
+### $25 - $10
 
 #### 1. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
