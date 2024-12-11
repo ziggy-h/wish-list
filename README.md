@@ -86,7 +86,16 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 5. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 5. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+
+##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
+
+- Colors: Holographic scale, natural fin
+- Lowest price: $6.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+
+#### 6. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
