@@ -48,13 +48,40 @@
 
 ---
 
-### Under $5 - $10
+### $5 - $10
 
-#### 1. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 1. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
+
+##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
+
+- Colors: Green pumpkin, mudbug, natural
+- Lowest price: $8.99
+- Retrieved 12/11/2024
+- [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
+
+#### 2. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
+
+##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
+
+- Colors: Mudbug (#943), cream (#723)
+- Lowest price: $7.99
+- Retrieved 12/11/2024
+- [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
+
+#### 3. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
+
+##### ![Stoneflies](https:////nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
+
+- Colors: Brown glitter (#952)
+- Lowest price: $7.99
+- Retrieved 12/11/2024
+- [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
+
+#### 4. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
-- Colors: GP black flake, pature fire, rodeo clown
+- Colors: GP black flake, pature fire, rodeo clown1
 - Lowest price: $5.49
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
@@ -71,5 +98,14 @@
 - Lowest price: $4.29
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+
+#### 2. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+
+##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
+
+- Colors: Coppertreuse, the Deal, fire craw, pb&j, green pumpkin
+- Lowest price: $4.24
+- Retrieved 12/11/2024
+- [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
 ---
