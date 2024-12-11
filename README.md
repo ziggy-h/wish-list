@@ -99,7 +99,16 @@
 
 ### Under $5
 
-#### 1. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+#### 1. [Berkley Gulp! Fat Floating Trout Worms)](https://www.berkley-fishing.com/products/gulp-fat-floating-trout-worm?variant=42291118473355)
+
+##### ![Trout Worms](https://www.berkley-fishing.com/cdn/shop/files/1265859.jpg?v=1713987567&amp;width=600)
+
+- Colors: Bubblegum, chartreuse, nightcrawler
+- Lowest price: $4.99
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/Berkley-Gulp-2-Fat-Floating-Trout-Worm/?sku=10760)
+
+#### 2. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
 
@@ -108,7 +117,7 @@
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
-#### 2. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+#### 3. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
@@ -117,7 +126,7 @@
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
-#### 3. [Bernie](https://www.rapala.com/us_en/bernie)
+#### 4. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
@@ -126,7 +135,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
 
-#### 4. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
+#### 5. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
 
 ##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
 
@@ -135,7 +144,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 5. [Slab Slanger](https://www.mrcrappie.com/products/Strike-King/slab-slanger.php)
+#### 6. [Slab Slanger](https://www.mrcrappie.com/products/Strike-King/slab-slanger.php)
 
 ##### ![Slab Slanger](https://www.mrcrappie.com/images/Strike-King/landing-slab-slanger.png)
 
