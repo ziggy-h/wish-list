@@ -64,6 +64,14 @@
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
+#### 2. [MightyMount II with Fullback™](https://www.yakattack.us/mightymount-ii-with-fullback/)
+
+##### ![MightyMount II with Fullback™](https://cdn11.bigcommerce.com/s-z9gt0fu/products/556/images/4483/mightymount-ii-with-fullback-mmh2-fb__04556.1710220275.400.400.jpg?c=2)
+
+- Lowest price: $17.00
+- Retrieved 12/12/2024
+- [YakAttack.us](https://www.yakattack.us/mightymount-ii-with-fullback/)
+
 ---
 
 ### $10 and below
