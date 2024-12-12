@@ -74,7 +74,7 @@
 
 ##### ![GearTrac 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/products/221/images/4133/gtsl90-geartrac-4-black-gtsl90-bk04__38198.1709840019.400.400.jpg?c=2)
 
-- Qty: 2
+- Quantity: 2
 - Lowest price: $10.00
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
@@ -83,7 +83,7 @@
 
 ##### ![Backing Plate 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/180/4683/fullback-backing-plate-for-gt90-gttl90-gtsl90-4-geartrac-fb-gt90-04__40598.1710184916.jpg?c=2)
 
-- Qty: 2
+- Quantity: 2
 - Lowest price: $10.00
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
