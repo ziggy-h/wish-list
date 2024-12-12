@@ -59,7 +59,25 @@
 
 ### $5 - $10
 
-#### 1. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
+#### 1. [GTSL90 GearTrac 4'' Black](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
+
+##### ![GearTrac 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/products/221/images/4133/gtsl90-geartrac-4-black-gtsl90-bk04__38198.1709840019.400.400.jpg?c=2)
+
+- Qty: 2
+- Lowest price: $10.00
+- Retrieved 12/12/2024
+- [YakAttack.us](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
+
+#### 2. [FullBack™ Backing Plate for GT90, GTTL90, GTSL90 4'' GearTrac](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
+
+##### ![Backing Plate 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/180/4683/fullback-backing-plate-for-gt90-gttl90-gtsl90-4-geartrac-fb-gt90-04__40598.1710184916.jpg?c=2)
+
+- Qty: 2
+- Lowest price: $10.00
+- Retrieved 12/12/2024
+- [YakAttack.us](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
+
+#### 3. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
 
 ##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
 
@@ -68,7 +86,7 @@
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
 
-#### 2. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
+#### 4. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
@@ -77,7 +95,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
 
-#### 3. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
+#### 5. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
 ##### ![Stoneflies](https:////nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
 
@@ -86,7 +104,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 4. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 6. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
@@ -95,7 +113,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 5. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+#### 7. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
@@ -104,7 +122,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
-#### 6. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 8. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
