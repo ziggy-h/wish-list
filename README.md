@@ -68,6 +68,18 @@
 
 ---
 
+### $10 - $20
+
+#### 1. [Rigging Bullet™, 8-32 Threads](https://www.yakattack.us/RB0832_p/rb0832.htm)
+
+##### ![Rigging Bullet 8-32 Threads](https://cdn11.bigcommerce.com/s-z9gt0fu/products/333/images/4672/rigging-bullet-8-32-threads-rb0832__65467.1710027348.400.400.jpg?c=2)
+
+- Lowest price: $17.00
+- Retrieved 12/12/2024
+- [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
+
+---
+
 ### $5 - $10
 
 #### 1. [GTSL90 GearTrac 4'' Black](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
