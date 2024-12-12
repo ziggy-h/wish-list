@@ -36,35 +36,13 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
-#### 2. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
-
-##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
-
-- Lowest price: $51.99
-- Retrieved 12/12/2024
-- [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
-
-#### 3. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+#### 2. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
 - Lowest price: $50.00
 - Retrieved 12/11/2024
 - [YakAttack.us](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
-
----
-
-## Fishing tackle
-
-### $20 - $25
-
-#### 1. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
-
-##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
-
-- Lowest price: $24.99
-- Retrieved 12/11/2024
-- [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
 
 ---
 
@@ -100,7 +78,37 @@
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
 
-#### 3. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
+---
+
+## Fishing tackle
+
+### Under $100
+
+#### 1. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+
+##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
+
+- Lowest price: $51.99
+- Retrieved 12/12/2024
+- [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+
+---
+
+### Under $25
+
+#### 1. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
+
+##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
+
+- Lowest price: $24.99
+- Retrieved 12/11/2024
+- [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
+
+---
+
+### Under $10
+
+#### 1. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
 
 ##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
 
@@ -109,7 +117,7 @@
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
 
-#### 4. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
+#### 2. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
@@ -118,7 +126,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
 
-#### 5. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
+#### 3. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
 ##### ![Stoneflies](https:////nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
 
@@ -127,7 +135,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 6. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 4. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
@@ -136,7 +144,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 7. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+#### 5. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
@@ -145,7 +153,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
-#### 8. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 6. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
@@ -216,7 +224,7 @@
 
 ## Grilling
 
-### $50 - $25
+### Under $50
 
 #### 1. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
 
@@ -226,7 +234,7 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/Weber-6784-Griddle-Warming-Silver/dp/B0BPDKQJ4L?crid=336B1RC1JWH4A&dib=eyJ2IjoiMSJ9.gP3-CVkgJ6C1wdUq2Gm_2AuUx4CXoTvZiJR3M1RAEV81EQDTLNRhKxBShwzXemCmtWAyKLuNjxARcWstROSraxJIes_AB-f7LvuAWzUNvcyV3h5kIYvgeXWe1Mb9hKTXjljzlRm2TS2KkBWvcFRj894lh0mjdbukxZqWHrIPKRkVwVdXGrYC8qR8w-j6SJ0ZFedg2anJxrm9cHNMpSb_F0F5iWuRnF5H9vaF4rDg9h9iN3AlKEmM5QBv9IeWOhCdUBQkEOIcYZ4bzDXunV-IhWrbzCJ5RB4QrlEioioKpEo.i61l9mJYBiu0iu6US3a0e5HXJgnbQIobRGzEC_xKkYk&dib_tag=se&keywords=weber+turkey+rack&qid=1732473245&refinements=p_123%3A218268&rnid=85457740011&s=lawn-garden&sprefix=weber+turkey+rack%2Caps%2C105&sr=1-2)
 
-### $25 - $10
+### Under $20
 
 #### 1. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
