@@ -26,9 +26,17 @@
 
 ---
 
-### $50 - $99
+### $50+
 
-#### 1. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
+#### 1. [VISICarbon Pro™, MightyMount and GearTrac™ ready](https://www.yakattack.us/CPM_p/cpm.htm)
+
+##### ![VISICarbon Pro](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/152/4765/visicarbon-pro-mightymount-and-geartrac-ready-cpm__64534.1709829830.jpg?c=2)
+
+- Lowest price: $95.00
+- Retrieved 12/12/2024
+- [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
+
+#### 2. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
 ##### ![ShortStak Upgrade Kit for BlackPak Pro](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
@@ -36,7 +44,7 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
-#### 2. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+#### 3. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
@@ -46,7 +54,7 @@
 
 ---
 
-### $10 - $20
+### $10+
 
 #### 1. [Rigging Bullet™, 8-32 Threads](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
@@ -58,7 +66,7 @@
 
 ---
 
-### $5 - $10
+### $10 and below
 
 #### 1. [GTSL90 GearTrac 4'' Black](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
 
