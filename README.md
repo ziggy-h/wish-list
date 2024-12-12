@@ -2,6 +2,18 @@
 
 ## Kayak fishing gear
 
+### $1000+
+
+#### 1. [Eagle Eye 9” with C-MAP US Inland Charts](https://www.lowrance.com/lowrance/type/fishfinders-chartplotters/eagle-eye-9-live-amer/)
+
+##### ![Eagle Eye 9](https://www.lowrance.com//globalassets/lowrance/products/by-type/fishfinders--chartplotters/eagle/compare-eagle.png?w=400&amp;h=250&amp;scale=both)
+
+- Lowest price: $1000.00
+- Retrieved 12/12/2024
+- [Cabelas.com](https://www.cabelas.com/shop/en/lowrance-eagle-eye-9-fish-finder-with-live-sonar-and-c-map-us-inland-charts?ds_e=MICROSOFT&ds_c=Cabelas%7CShopping%7CSmart%7CBoating%7CGeneral%7CNAud%7CNVol%7CNMT&gclid=5e01ef1d0d1b1218d23c88464fd9c53b&gclsrc=3p.ds&msclkid=5e01ef1d0d1b1218d23c88464fd9c53b)
+
+---
+
 ### $100+
 
 #### 1. [BlackPak Pro Kayak Fishing Crate - 13" x 13", Battleship Grey](https://www.yakattack.us/blackpak-pro-kayak-fishing-crate-13-x-13-battleship-grey/)
@@ -31,7 +43,6 @@
 - Lowest price: $51.99
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
-
 
 #### 3. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
