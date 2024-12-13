@@ -168,7 +168,7 @@
 
 #### 3. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
-##### ![Stoneflies](https:////nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
+##### ![Stoneflies](https://nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
 
 - Colors: Brown glitter (#952)
 - Lowest price: $7.99
