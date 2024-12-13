@@ -24,6 +24,14 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/YakAttack-BlackPak-Kayak-Fishing-Crate/dp/B0D78SQPZR/ref=asc_df_B0D78SQPZR?tag=bingshoppinga-20&linkCode=df0&hvadid=80814295299931&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413766404433&psc=1&msclkid=7c65c4ceb3e81051cbbaa3978096c51a)
 
+#### 2. [CellBlok Battery Box and SwitchBlade Transducer Arm Combo](https://www.yakattack.us/cellblok-battery-box-and-switchblade-transducer-arm-combo/)
+
+##### ![Battery Box and Transducer Arm](https://cdn11.bigcommerce.com/s-z9gt0fu/products/600/images/4647/cellblok-battery-box-and-switchblade-transducer-arm-combo-clb-1003__79231.1648734892.400.400.jpg?c=2)
+
+- Lowest price: $100.00
+- Retrieved 12/13/2024
+- [Amazon.com](https://www.yakattack.us/cellblok-battery-box-and-switchblade-transducer-arm-combo/)
+
 ---
 
 ### $50+
@@ -36,7 +44,15 @@
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
 
-#### 2. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
+#### 2. [Dakota Lithium 12v 10Ah Battery](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
+
+##### ![12v 10Ah Battery](https://dakotalithium.b-cdn.net/wp-content/uploads/2024/07/Dakota-Lithium-Battery-12v-10ah-1.png)
+
+- Lowest price: $69.00
+- Retrieved 12/13/2024
+- [DakotaLithium.com](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
+
+#### 3. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
 ##### ![ShortStak Upgrade Kit for BlackPak Pro](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
@@ -56,7 +72,15 @@
 
 ### $10+
 
-#### 1. [Rigging Bullet™, 8-32 Threads](https://www.yakattack.us/RB0832_p/rb0832.htm)
+#### 1. [Dakota Lithium 12V 3A LiFePO4 Battery Charger](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
+
+##### ![12V 3A LiFePO4 Battery Charger](https://dakotalithium.b-cdn.net/wp-content/uploads/2018/12/Dakota-Lithium-Battery-12V-3A-LiFePO4-Charger.png)
+
+- Lowest price: $29.00
+- Retrieved 12/13/2024
+- [DakotaLithium.com](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
+
+#### 2. [Rigging Bullet™, 8-32 Threads](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
 
 ##### ![Rigging Bullet 8-32 Threads](https://cdn11.bigcommerce.com/s-z9gt0fu/products/333/images/4672/rigging-bullet-8-32-threads-rb0832__65467.1710027348.400.400.jpg?c=2)
 
@@ -64,7 +88,7 @@
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
-#### 2. [MightyMount II with Fullback™](https://www.yakattack.us/mightymount-ii-with-fullback/)
+#### 3. [MightyMount II with Fullback™](https://www.yakattack.us/mightymount-ii-with-fullback/)
 
 ##### ![MightyMount II with Fullback™](https://cdn11.bigcommerce.com/s-z9gt0fu/products/556/images/4483/mightymount-ii-with-fullback-mmh2-fb__04556.1710220275.400.400.jpg?c=2)
 
