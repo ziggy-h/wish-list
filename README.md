@@ -196,6 +196,24 @@
 - Retrieved 12/11/2024
 - [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
 
+#### 2. [TMJ Tungsten Mongo Jig Kit](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
+
+##### ![Mongo Jig Kit](https://www.rapala.eu/img/310/300/resize/catalog/product/b/1/b1b3a47926e0c8_hhj0odm49h1cf5d6tr0uauou54_7ac00a2a.png)
+
+- Weight: 1/32 oz
+- Lowest price: $13.99
+- Retrieved 12/16/2024
+- [Rapala.com](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
+
+#### 3. [VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow](https://www.walmart.com/ip/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures/589493236?classType=VARIANT&from=/search)
+
+##### ![Tungsten Tubby Jig Kit](https://i5.walmartimages.com/seo/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures_e8e9574e-3af8-4875-a734-beb8b955eca0.efaed0fa7259cf2ea116de53fc688980.jpeg?odnHeight=784&amp;odnWidth=580&amp;odnBg=FFFFFF)
+
+- Weight: 1/32 oz
+- Lowest price: $13.99
+- Retrieved 12/16/2024
+- [Walmart.com](https://www.walmart.com/ip/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures/589493236?classType=VARIANT&from=/search)
+
 ---
 
 ### Under $10
