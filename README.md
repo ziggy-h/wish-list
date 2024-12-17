@@ -334,6 +334,16 @@
 
 ## Grilling
 
+### Under $300
+
+#### 1. [Outdoor Wok Station](https://www.cuisinart.com/outdoor-wok-station/CGG-1265.html)
+
+##### ![Outdoor Wok Station](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dwc1e94efc/images/large/s8qhzoof0qoyznqtwyqf.jpg?sw=800&amp;sh=800)
+
+- Lowest price: $249.00
+- Retrieved 12/17/2024
+- [Walmart.com](https://www.walmart.com/ip/Cuisinart-Outdoor-Stainless-Steel-Wok-Cooking-Station-CGG-1265/5511020300?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222000000000&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=10352200394&wl4=pla-1103028060075:aud-821217179&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=5511020300_0&wl14=cuisinart%20wok%20station&veh=sem&gclid=bbb50615929710ca265a61779890e927&gclsrc=3p.ds&msclkid=bbb50615929710ca265a61779890e927)
+
 ### Under $50
 
 #### 1. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
