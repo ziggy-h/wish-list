@@ -336,7 +336,7 @@
 
 ### Under $300
 
-#### 1. [Outdoor Wok Station](https://www.cuisinart.com/outdoor-wok-station/CGG-1265.html)
+#### 1. ![Outdoor Wok Station](https://www.cuisinart.com/outdoor-wok-station/CGG-1265.html)
 
 ##### ![Outdoor Wok Station](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dwc1e94efc/images/large/s8qhzoof0qoyznqtwyqf.jpg?sw=800&amp;sh=800)
 
