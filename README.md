@@ -354,6 +354,15 @@
 - Retrieved 12/17/2024
 - [Amazon.com](https://www.amazon.com/dp/B08HMWZLZY?ref=emc_s_m_5_i_atc&th=1)
 
+#### 2. [U.S. GENERAL 30 in. x 16 in. Three Shelf Steel Service Cart](https://www.harborfreight.com/tool-storage-organization/u-s-general-tool-storage/30-in-x-16-in-three-shelf-steel-service-cart-red-62179.html)
+
+##### ![Three Shelf Steel Service Cart](https://www.harborfreight.com/media/catalog/product/cache/aa6c321fb362164a2ed76c30e077c9a9/6/2/62179_W3.jpg)
+
+- Color: Red
+- Lowest price: $69.99
+- Retrieved 12/18/2024
+- [HarborFreight.com](https://www.harborfreight.com/tool-storage-organization/u-s-general-tool-storage/30-in-x-16-in-three-shelf-steel-service-cart-red-62179.html)
+
 ### Under $50
 
 #### 1. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
@@ -382,10 +391,20 @@
 
 ### Under $20
 
-#### 1. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
+#### 1. [U.S. GENERAL Magnetic Paper Towel Holder](https://www.harborfreight.com/tool-storage-organization/u-s-general-tool-storage/tool-cart-accessories/magnetic-accessory-holders/magnetic-paper-towel-holder-blue-56454.html)
+
+##### ![Magnetic Paper Towel Holder](https://www.harborfreight.com/media/catalog/product/cache/aa6c321fb362164a2ed76c30e077c9a9/5/6/56454_W3.jpg)
+
+- Color: Red
+- Lowest price: $13.99
+- Retrieved 12/18/2024
+- [HarborFreight.com](https://www.harborfreight.com/tool-storage-organization/u-s-general-tool-storage/tool-cart-accessories/magnetic-accessory-holders/magnetic-paper-towel-holder-blue-56454.html)
+
+#### 2. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
 ##### ![Spatula](https://m.media-amazon.com/images/I/21XscpkHKiL.jpg)
 
+- Color: White
 - Quantity: 2
 - Lowest price: $10.97
 - Retrieved 12/11/2024
