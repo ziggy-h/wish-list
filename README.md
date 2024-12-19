@@ -356,7 +356,15 @@
 
 ### Under $50
 
-#### 1. [Yosukata 17" Wok Spatula and Ladle and Turner Spatula Stainless Steel Cooking Utensils Set of 3](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
+#### 1. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
+
+##### ![Outdoor Wok Station Cover](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dw5e6c451e/images/large/obejiwmob39rjvsz4hrh.jpg?sw=800&amp;sh=800)
+
+- Lowest price: $39.99
+- Retrieved 12/18/2024
+- [Amazon.com](https://www.amazon.com/Cuisinart-Outdoor-Wok-Station-Cover/dp/B0D1LMCD2Q)
+
+#### 2. [Yosukata 17" Wok Spatula and Ladle and Turner Spatula Stainless Steel Cooking Utensils Set of 3](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
 
 ##### ![Wok Spatula and Ladle and Turner Spatula](https://images-na.ssl-images-amazon.com/images/I/71JFKmXHLhL._AC_UL348_SR348,348_.jpg)
 
@@ -364,7 +372,7 @@
 - Retrieved 12/17/2024
 - [Amazon.com](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
 
-#### 2. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
+#### 3. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
 
 ##### ![Griddle Keep Warm Rack](https://product-images.weber.com/accessory-images/6784A_Rev1_1800x1800.png?w=400&h=400&auto=compress%2cformat)
 
