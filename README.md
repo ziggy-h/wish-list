@@ -104,7 +104,15 @@
 - Retrieved 12/15/2024
 - [YakAttack.us](https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/)
 
-#### 4. [Dakota Lithium 12V 3A LiFePO4 Battery Charger](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
+#### 4. [7.75" Gear Track Kit 25Q/45Q](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
+
+##### ![Gear Track Kit 25Q/45Q](https://cdn11.bigcommerce.com/s-6xk5gybgv2/images/stencil/210x280/products/624/1275/91952__48869.1595392857.jpg?c=1)
+
+- Lowest price: $29.99
+- Retrieved 12/18/2024
+- [JacksonKayak.com](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
+
+#### 5. [Dakota Lithium 12V 3A LiFePO4 Battery Charger](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
 
 ##### ![Battery Charger](https://dakotalithium.b-cdn.net/wp-content/uploads/2018/12/Dakota-Lithium-Battery-12V-3A-LiFePO4-Charger.png)
 
@@ -112,7 +120,7 @@
 - Retrieved 12/13/2024
 - [DakotaLithium.com](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
 
-#### 5. [TetherTube Rod Holder- Two Pack with Mounting Hardware](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
+#### 6. [TetherTube Rod Holder- Two Pack with Mounting Hardware](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
 
 ##### ![TetherTube Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/608/images/10827/tethertube-rod-holder-two-pack-with-mounting-hardware__90818.1726513257.400.400.jpg?c=2)
 
@@ -147,6 +155,15 @@
 - Lowest price: $17.00
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
+
+#### 4. [Orion Cooler Gasket](https://jacksonkayak.com/orion-cooler-gasket/)
+
+##### ![Cooler Gasket](https://cdn11.bigcommerce.com/s-6xk5gybgv2/images/stencil/210x280/products/810/2281/92021__77777.1654108263.jpg?c=1)
+
+- Size: 25 quart
+- Lowest price: $15.99
+- Retrieved 12/18/2024
+- [JacksonKayak.com](https://jacksonkayak.com/orion-cooler-gasket/)
 
 ---
 
