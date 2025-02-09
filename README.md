@@ -193,7 +193,15 @@
 
 ### Under $100
 
-#### 1. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 1. [Duckett Fishing Crappie Slayer Spinning Rod](https://duckettfishing.com/product/crappie-slayer/)
+
+##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
+
+- Lowest price: $79.00
+- Retrieved 2/08/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 2. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
 
@@ -426,3 +434,41 @@
 - Lowest price: $10.97
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
+
+---
+
+## Strumming
+
+### Around $700
+
+#### 1. [Sire Larry Carlton H7](https://sire-usa.com/products/h7)
+
+##### ![Sire Larry Carlton H7 Guitar](https://cdn.shopify.com/s/files/1/0368/3149/4282/files/tone.003.png?v=1706093567)
+
+- Color: Cherry Sunburst
+- Lowest price: $705.99
+- Retrieved 2/8/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
+
+---
+
+## Trucking
+
+### Around $150
+
+#### 1. [REDTIGER F7N Pro Dual Dash Cam](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
+
+##### ![Dash Cam](https://m.media-amazon.com/images/I/81W1OSAkscL._AC_.jpg)
+
+- Lowest price: $139.99
+- Retrieved 2/8/2025
+- [Amazon.com](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
+
+#### 2. [RubiGrid® V2 2019+ RAM Truck](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
+
+##### ![Truck Grid](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
+
+- Option: Base Only with 1 AMPS Ball
+- Lowest price: $44.99
+- Retrieved 2/8/2025
+- [bulletpointmountingsolutions.com](https://www.bulletpointmountingsolutions.com/products/rubigrid-v2-2019-ram-truck-1500-2500-3500-4500-5500-trx-dash-mount?variant=41335573741683)
