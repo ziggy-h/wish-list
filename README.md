@@ -439,6 +439,17 @@
 
 ## Strumming
 
+### Around $1000
+
+#### 1. [Yamaha Revstar Standard RSS02T](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_guitars/rs_2022/lineup.html#d1547719)
+
+##### ![Yamaha Revstar Standard RSS02T Electric Guitar](https://usa.yamaha.com/files/RSS02T_sunsetburst_f_0001_dc29de61acfb9fa6ff7d6dfe9027caa5.jpg?impolicy=resize&imwid=735&imhei=735?imbypass=on)
+
+- Color: Sunset Burst
+- Lowest price: $849.99
+- Retrieved 2/10/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarS02TSB--yamaha-revstar-standard-rss02t-electric-guitar-sunset-burst)
+
 ### Around $700
 
 #### 1. [Sire Larry Carlton H7](https://sire-usa.com/products/h7)
@@ -449,6 +460,25 @@
 - Lowest price: $705.99
 - Retrieved 2/8/2025
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
+
+#### 2. [Ibanez AZ24S1F](https://www.ibanez.com/usa/products/detail/az24s1f_5n_01.html)
+
+##### ![Ibanez AZ24S1F Guitar](https://www.ibanez.com/common/product_artist_file/file/p_region_AZ24S1F_VLS_5N_01_sub_1.jpg)
+
+- Color: Violin Sunburst
+- Lowest price: $549.99
+- Retrieved 2/10/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/AZ24S1FVLS--ibanez-standard-az24s1f-electric-guitar-violin-sunburst)
+
+### Around $250
+
+#### 1. [Positive Grid Spark 40-Watt 2 x 4-inch Combo Amp](https://www.positivegrid.com/products/spark?variant=42604434129056&irclickid=xFY18IVOfxyKTajQgC2qrTyPUksz2ewl22tqT40&irgwc=1&utm_source=Impact&utm_medium=AffiliateNetwork&utm_campaign=2003851)
+
+##### ![Positive Grid Spark Combo Amp](https://www.positivegrid.com/cdn/shop/products/spark-shopify-hero.png?v=1664261701&amp;width=500)
+
+- Lowest price: $249.99
+- Retrieved 2/10/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/PGSpark--positive-grid-spark-combo-amp)
 
 ---
 
