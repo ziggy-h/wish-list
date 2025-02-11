@@ -374,9 +374,9 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 6. [Slab Slanger](https://www.mrcrappie.com/products/Strike-King/slab-slanger.php)
+#### 6. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
 
-##### ![Slab Slanger](https://www.mrcrappie.com/images/Strike-King/landing-slab-slanger.png)
+##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
 
 - Colors: Pumpkinseed/chartreuse, refrigerator white, HotChicken.com
 - Lowest price: $3.49
