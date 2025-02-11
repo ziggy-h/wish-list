@@ -197,6 +197,7 @@
 
 ##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
 
+- Size: 6 Foot Zero Inches Light Power
 - Lowest price: $79.00
 - Retrieved 2/08/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
@@ -208,6 +209,33 @@
 - Lowest price: $51.99
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+
+#### 3. [Shimano Sensilite Spinning A](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
+
+##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
+
+- Size: 6 Foot 6 Inches Ultralight Power
+- Lowest price: $49.99
+- Retrieved 2/10/2025
+- [FishUSA.com](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 4. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+
+##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
+
+- Size: 2000
+- Lowest price: $39.99
+- Retrieved 2/10/2025
+- [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+
+#### 5. [M1 Spinning Reel Size 500](https://handingfishing.com/products/handing-m1-spinning-reel)
+
+##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
+
+- Size: 500
+- Lowest price: $25.99
+- Retrieved 2/10/2025
+- [Amazon.com](https://www.amazon.com/HANDING-Spinning-Freshwater-Fishing-Bearings/dp/B0CHVQSN86?hvadid=692875362841&hvpos=&hvnetw=g&hvrand=16744729412549816810&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014639&hvtargid=pla-2281435180778&mcid=1c5b3cd34c94389682b9ea6380f88d62&hvocijid=16744729412549816810-B0CHVQSN86-&hvexpln=73&th=1&linkCode=ll1&tag=w2f-best-spinning-reels-for-fishing-20&linkId=918a901af0eadf2093b673831b006e3f&language=en_US&ref_=as_li_ss_tl&psc=1)
 
 ---
 
@@ -388,6 +416,14 @@
 - Retrieved 12/18/2024
 - [HarborFreight.com](https://www.harborfreight.com/tool-storage-organization/u-s-general-tool-storage/30-in-x-16-in-three-shelf-steel-service-cart-red-62179.html)
 
+#### 3. [RTIC Ice Bucket](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
+
+##### ![Ice Bucket](https://static.velkybrands.com/i/items/3409668941.jpg?width=1000&amp;height=1000&amp;fit=bounds)
+
+- Lowest price: $69.99
+- Retrieved 2/10/2025
+- [RTIC.com](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
+
 ### Under $50
 
 #### 1. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
@@ -435,6 +471,15 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
+#### 3. [RTIC Day Cooler Lunch Container](https://rticoutdoors.com/Lunch-Container?color=Olive)
+
+##### ![Container](https://static.velkybrands.com/i/items/1749686769.jpg?width=1000&amp;height=1000&amp;fit=bounds)
+
+- Color: Olive
+- Lowest price: $7.49
+- Retrieved 2/10/2025
+- [RTIC.com](https://rticoutdoors.com/Lunch-Container?color=Olive)
+
 ---
 
 ## Strumming
@@ -454,14 +499,16 @@
 
 #### 1. [Sire Larry Carlton H7](https://sire-usa.com/products/h7)
 
-##### ![Sire Larry Carlton H7 Guitar](https://cdn.shopify.com/s/files/1/0368/3149/4282/files/tone.003.png?v=1706093567)
+##### ![Sire Larry Carlton H7 Guitar](https://cdn.shopify.com/s/files/1/0368/3149/4282/files/body.001_5e888386-7704-4577-9079-30f29f144e57.png?v=1706093567)
 
 - Color: Cherry Sunburst
 - Lowest price: $705.99
 - Retrieved 2/8/2025
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
 
-#### 2. [Ibanez AZ24S1F](https://www.ibanez.com/usa/products/detail/az24s1f_5n_01.html)
+### Around $500
+
+#### 1. [Ibanez AZ24S1F](https://www.ibanez.com/usa/products/detail/az24s1f_5n_01.html)
 
 ##### ![Ibanez AZ24S1F Guitar](https://www.ibanez.com/common/product_artist_file/file/p_region_AZ24S1F_VLS_5N_01_sub_1.jpg)
 
@@ -470,7 +517,7 @@
 - Retrieved 2/10/2025
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/AZ24S1FVLS--ibanez-standard-az24s1f-electric-guitar-violin-sunburst)
 
-### Around $250
+### Around $200
 
 #### 1. [Positive Grid Spark 40-Watt 2 x 4-inch Combo Amp](https://www.positivegrid.com/products/spark?variant=42604434129056&irclickid=xFY18IVOfxyKTajQgC2qrTyPUksz2ewl22tqT40&irgwc=1&utm_source=Impact&utm_medium=AffiliateNetwork&utm_campaign=2003851)
 
