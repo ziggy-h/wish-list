@@ -298,7 +298,43 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 4. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 4. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
+
+##### ![Ultra Light Minnow](https://www.rapala.eu/img/940/940/resize/catalog/product/9/e/9e29f7659580a8_aek37cgis1183a528ah21f8m3n_91b3a5b7.png)
+
+- Colors: Pink clown, yellow perch, and shad
+- Lowest price: $7.99
+- Retrieved 2/10/2025
+- [FishUSA.com](https://www.fishusa.com/Rapala-Ultra-Light-Minnow-Lures/?sku=106572&msclkid=0b236b95ca5d1cf598df0c3f161912c1&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Low%20%26%20Clearance&utm_term=4585375812936717&utm_content=Low)
+
+#### 5. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
+
+##### ![Ultra Light Crank](https://www.rapala.eu/img/940/940/resize/catalog/product/1/9/19251885d305c3_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png)
+
+- Colors: Pink clown, yellow perch, shad, gold
+- Lowest price: $7.59
+- Retrieved 2/10/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Crank_Crankbaits/descpage-RULC.html?from=bshop&msclkid=9374771bc64b191828d210b113151091&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20All%20Baits%3Abshop&utm_term=4581458813140081&utm_content=Hard%20Baits)
+
+#### 6. [Rapala Ultra Light Shad](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
+
+##### ![Ultra Light Shad](https://www.rapala.eu/img/940/940/resize/catalog/product/7/4/7486c62d897b01_9eg7lo1ved31h8p72v06q65a4q_ba20cb81.png)
+
+- Colors: Shad
+- Lowest price: $7.59
+- Retrieved 2/10/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Shad_Crankbaits/descpage-RULS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 7. [Pin Tail 1.9inch](https://nikko-fishing.com/product/pin-tail-1-9inch/)
+
+##### ![Pin Tail](https://nikko-fishing.com/lfwp/wp-content/uploads/2024/01/PinTail_595.jpg)
+
+- Colors: Mudbug, chartreuse gold flake
+- Lowest price: $6.49
+- Retrieved 2/11/2025
+- [FishUSA.com](https://www.fishusa.com/Nikko-Pin-Tail-Worms/)
+
+#### 8. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
@@ -307,7 +343,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 5. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+#### 9. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
@@ -316,7 +352,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
-#### 6. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 10. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
@@ -369,7 +405,7 @@
 
 ##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
 
-- Colors: White No. 1, bubblegum, panfish whiskey sour, radioactive pickle, snozberry
+- Colors: Panfish whiskey sour and radioactive pickle
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
@@ -378,7 +414,7 @@
 
 ##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
 
-- Colors: Pumpkinseed/chartreuse, refrigerator white, HotChicken.com
+- Colors: Pumpkinseed/chartreuse
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
