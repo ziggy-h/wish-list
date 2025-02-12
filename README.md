@@ -193,11 +193,21 @@
 
 ### Under $100
 
+#### 1. [Ultegra 1000 FC](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
+
+##### ![Shimano Reel](https://img.tacklewarehouse.com/watermark/rs.php?path=UCTS-3.jpg&nw=551)
+
+- Size: 1000
+- Lowest price: $119.99
+- Retrieved 2/12/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
+
 #### 1. [Duckett Fishing Crappie Slayer Spinning Rod](https://duckettfishing.com/product/crappie-slayer/)
 
 ##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
 
-- Size: 6 Foot Zero Inches Light Power
+- Size: 6 foot 6 inches
+- Power: Light
 - Lowest price: $79.00
 - Retrieved 2/08/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
@@ -214,7 +224,8 @@
 
 ##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
 
-- Size: 6 Foot 6 Inches Ultralight Power
+- Size: 6 foot 6 inches
+- Power: Ultralight
 - Lowest price: $49.99
 - Retrieved 2/10/2025
 - [FishUSA.com](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
@@ -329,16 +340,17 @@
 
 ##### ![Pin Tail](https://nikko-fishing.com/lfwp/wp-content/uploads/2024/01/PinTail_595.jpg)
 
-- Colors: Mudbug, chartreuse gold flake
+- Colors: Mudbug, chartreuse gold flake, peppergum
 - Lowest price: $6.49
 - Retrieved 2/11/2025
 - [FishUSA.com](https://www.fishusa.com/Nikko-Pin-Tail-Worms/)
 
-#### 8. [Northland Rigged Tungsten Pin Fry](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 8. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
 - Colors: Fruit fly, glo white, gold, woodtick
+- Weight: 1/28 oz.
 - Lowest price: $6.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
@@ -356,7 +368,7 @@
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
-- Colors: GP black flake, pature fire, rodeo clown1
+- Colors: GP black flake, pasture fire, rodeo clown
 - Lowest price: $5.49
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
@@ -383,7 +395,16 @@
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
-#### 3. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+#### 3. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+
+##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
+
+- Colors: Chartreuse, white, fire red, pink, green pumpkin
+- Lowest price: $4.29
+- Retrieved 2/11/2025
+- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+
+#### 4. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
@@ -392,7 +413,7 @@
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
-#### 4. [Bernie](https://www.rapala.com/us_en/bernie)
+#### 5. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
@@ -401,7 +422,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
 
-#### 5. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
+#### 6. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
 
 ##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
 
@@ -410,7 +431,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 6. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
+#### 7. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
 
 ##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
 
