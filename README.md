@@ -6,9 +6,9 @@
 
 #### 1. [Eagle Eye 9” with C-MAP US Inland Charts](https://www.lowrance.com/lowrance/type/fishfinders-chartplotters/eagle-eye-9-live-amer/)
 
-##### ![Eagle Eye 9"](https://www.lowrance.com//globalassets/lowrance/products/by-type/fishfinders--chartplotters/eagle/compare-eagle.png?w=400&amp;h=250&amp;scale=both)
+##### ![Eagle Eye Fish Finder](https://www.lowrance.com//globalassets/lowrance/products/by-type/fishfinders--chartplotters/eagle/compare-eagle.png?w=400&amp;h=250&amp;scale=both)
 
-- Lowest price: $1000.00
+- Lowest price: $999.00
 - Retrieved 12/12/2024
 - [Cabelas.com](https://www.cabelas.com/shop/en/lowrance-eagle-eye-9-fish-finder-with-live-sonar-and-c-map-us-inland-charts?ds_e=MICROSOFT&ds_c=Cabelas%7CShopping%7CSmart%7CBoating%7CGeneral%7CNAud%7CNVol%7CNMT&gclid=5e01ef1d0d1b1218d23c88464fd9c53b&gclsrc=3p.ds&msclkid=5e01ef1d0d1b1218d23c88464fd9c53b)
 
@@ -60,7 +60,7 @@
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
-#### 3. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
+#### 4. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 ##### ![Fish Finder Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2)
 
@@ -68,7 +68,7 @@
 - Retrieved 12/15/2024
 - [YakAttack.us](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
-#### 4. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+#### 5. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
@@ -193,26 +193,26 @@
 
 ### Under $100
 
-#### 1. [Ultegra 1000 FC](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
+#### 1. [~~Ultegra 1000 FC~~](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
 
 ##### ![Shimano Reel](https://img.tacklewarehouse.com/watermark/rs.php?path=UCTS-3.jpg&nw=551)
 
-- Size: 1000
-- Lowest price: $119.99
-- Retrieved 2/12/2025
-- [TackleWarehouse.com](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
+- ~~Size: 1000~~
+- ~~Lowest price: $119.99~~
+- ~~Retrieved 2/12/2025~~
+- [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
 
-#### 1. [Duckett Fishing Crappie Slayer Spinning Rod](https://duckettfishing.com/product/crappie-slayer/)
+#### 2. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
 
 ##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
 
-- Size: 6 foot 6 inches
-- Power: Light
-- Lowest price: $79.00
-- Retrieved 2/08/2025
-- [TackleWarehouse.com](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+- ~~Size: 6 foot 6 inches~~
+- ~~Power: Light~~
+- ~~Lowest price: $79.00~~
+- ~~Retrieved 2/08/2025~~
+- [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 2. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 3. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
 
@@ -220,7 +220,7 @@
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 3. [Shimano Sensilite Spinning A](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
+#### 4. [Shimano Sensilite Spinning A](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
 
 ##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
 
@@ -230,7 +230,7 @@
 - Retrieved 2/10/2025
 - [FishUSA.com](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 4. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+#### 5. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
 
@@ -239,7 +239,7 @@
 - Retrieved 2/10/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
-#### 5. [M1 Spinning Reel Size 500](https://handingfishing.com/products/handing-m1-spinning-reel)
+#### 6. [M1 Spinning Reel Size 500](https://handingfishing.com/products/handing-m1-spinning-reel)
 
 ##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
 
@@ -262,27 +262,68 @@
 
 #### 2. [TMJ Tungsten Mongo Jig Kit](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
 
-##### ![Mongo Jig Kit](https://www.rapala.eu/img/310/300/resize/catalog/product/b/1/b1b3a47926e0c8_hhj0odm49h1cf5d6tr0uauou54_7ac00a2a.png)
+##### ![Mongo Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/3/8/3810965c1208f0_t7jor86kud0rn8fppvm8gb5b1u_ab4bed1a.png)
 
-- Weight: 1/32 oz
+- Color: Glow Tiger
+- Weight: 1/32 oz.
+- Lowest price: $14.87
+- Retrieved 2/12/2025
+- [Amazon.com](https://www.amazon.com/VMC-Tungsten-Mongo-Jig-Glow/dp/B0B7SNGP29/ref=sr_1_1?crid=1WX7GE1DC45UG&dib=eyJ2IjoiMSJ9.NESPaIdJzqbyZ-nQBYl-wPKfOj3i9MRRTkZQvS5o14ETyJCFywD8O7G9N9dhq65e5SWq3gqRBMNqnk2Rg8gnW-fG7h9z_m6LKotgiF52Q3W17JgEfmGP9cqen2gjKBP7aXc25TyoRaPqkUplrKuAtSA2NkeeEevx1EVKBRnbLEz6YtSCkuUuOVyCoiHqf7ad-qyAM3EbU3gPOjscg8fo4DJwwHzcknXL5wrYmLR2vNjdv0sVrP1NNxW39UE6Z7IkONI1N7nKNlxeAT0iQAxTlmqCsLIMnN6zLvNQI6K2WSIKxpiLtP1ULOwK-zwVKNenoOl4v2q9mQf4APXbrYk-GnwqZLoJMgYaKApoG9TubE8.78qEGyIOFHRGoz05vgBhqOiLFyQC02MPOgmcn3IKr5E&dib_tag=se&keywords=VMC+Tungsten+mongo+Jig+Kit+1%2F32+Oz.+Glow&qid=1739420647&s=sporting-goods&sprefix=vmc+tungsten+mongo+jig+kit+1%2F32+oz.+glow%2Csporting%2C83&sr=1-1)
+
+#### 3. [VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow](https://www.rapala.com/us_en/tungsten-tubby-jig-kit)
+
+##### ![Tungsten Tubby Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/a/4/a4208483050cf3_7gj8ul0k3t3arf394cs5vqfs1g_45a83aa3.png)
+
+- Color: Glow
+- Weight: 1/32 oz.
 - Lowest price: $13.99
-- Retrieved 12/16/2024
-- [Rapala.com](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
+- Retrieved 2/12/2025
+- [Amazon.com](https://www.amazon.com/VMC-TTJ132G6-Tungsten-Tubby-Jig/dp/B01N57G3KQ/ref=sr_1_1?crid=1T7XQD1SMIDFT&dib=eyJ2IjoiMSJ9.VdvsV1PZbdDlNYvRpDBIFlkzSpZII5SqvNgu4KChRQM2HZLRvKaksnOa14U1KEueC0-LnUv4Qu0Zvib2jZysU3xO4AUui4XPtUO6jBd_6cHD4RfXrdpIcpVkyOUqLRWFWwbdTCTBUwFi_iz74Z2D6fXfxxfBXTCP9vHB9XGvFwKD0p7T_Z20O_ez-EHGPybfst974XRRCeezLRjUc4MlnznBN_U-JKypkT5bBPu3rbzi3BDzfCLUPLUH0JK8d8S5vSite2EsVAfVDepYb6dB3X61yhbI_Ez5nJkMHexUtbR6jP7GHEijor-JcznmCxjmfVnqb3pQKaUq0uzK6ebL8KjvbSX5Nu1CV7dqY-AINhs.b9k43UTUcQmCMqFVA6JkXjS9LcVKRi9eNKXsAk_9mTk&dib_tag=se&keywords=VMC+Tungsten+Tubby+Jig+Kit+1%2F32+Oz.+Glow&qid=1739419986&s=sporting-goods&sprefix=vmc+tungsten+tubby+jig+kit+1%2F32+oz.+glow%2Csporting%2C82&sr=1-1)
 
-#### 3. [VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow](https://www.walmart.com/ip/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures/589493236?classType=VARIANT&from=/search)
+#### 4. [Bottom Magic](https://jackson-quon.com/product/2083/)
 
-##### ![Tungsten Tubby Jig Kit](https://i5.walmartimages.com/seo/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures_e8e9574e-3af8-4875-a734-beb8b955eca0.efaed0fa7259cf2ea116de53fc688980.jpeg?odnHeight=784&amp;odnWidth=580&amp;odnBg=FFFFFF)
+##### ![Plug](https://s3.ap-northeast-1.amazonaws.com/cdn.jackson-quon.com/wordpress/wp-content/uploads/2019/03/24123039/gal.jpg)
 
-- Weight: 1/32 oz
+- Color: Glow albino, red glow chart pink, about shad iii
+- Model: Light tune
 - Lowest price: $13.99
-- Retrieved 12/16/2024
-- [Walmart.com](https://www.walmart.com/ip/VMC-Tungsten-Tubby-Jig-Kit-1-32-Oz-Glow-Fishing-Lures/589493236?classType=VARIANT&from=/search)
+- Retrieved 2/12/2025
+- [BaitFinesseEmpire.com](https://baitfinesseempire.com/product/jackson-bottom-magic-light-tune/)
+
+#### 5. [X-Rap XR04](https://www.rapala.com/us_en/x-rap?childSku=us-XR04BTR)
+
+##### ![XR04](https://www.rapala.eu/img/940/940/resize/catalog/product/0/0/00a6ee895f766d_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png)
+
+- Color: Yellow perch, glass ghost, brown trout, brook trout
+- Lowest price: $12.49
+- Retrieved 2/12/2025
+- [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
 
 ---
 
 ### Under $10
 
-#### 1. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
+#### 1. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1192686678/crawdad-orange-tungsten-pine-squirrel?ref=ap-listing&variation0=2542243350&variation1=2542243342)
+
+##### ![Crawdad Leech Jig](https://i.etsystatic.com/16918109/r/il/d5186b/3823243221/il_794xN.3823243221_6gdf.jpg)
+
+- Size: 10
+- Quantity: 3
+- Lowest price: $9.77
+- Retrieved 2/12/2025
+- [Etsy.com](https://www.etsy.com/listing/1192686678/crawdad-orange-tungsten-pine-squirrel?ref=ap-listing&variation0=2542243350&variation1=2542243342)
+
+#### 2. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1094752820/olive-tungsten-pine-squirrel-leech-jig?click_key=f5d1e796c251df584d65c40a9712c915b77593ef%3A1094752820&click_sum=4992c27f&ref=related-3&variation0=2313753339&variation1=2288558732)
+
+##### ![Olive Leech Jig](https://i.etsystatic.com/16918109/r/il/fafa77/3421741052/il_794xN.3421741052_fobb.jpg)
+
+- Size: 10
+- Quantity: 3
+- Lowest price: $9.77
+- Retrieved 2/12/2025
+- [Etsy.com](https://www.etsy.com/listing/1094752820/olive-tungsten-pine-squirrel-leech-jig?click_key=f5d1e796c251df584d65c40a9712c915b77593ef%3A1094752820&click_sum=4992c27f&ref=related-3&variation0=2313753339&variation1=2288558732)
+
+#### 3. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
 
 ##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
 
@@ -291,7 +332,17 @@
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
 
-#### 2. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
+#### 4. [Tungsten Jig Heads](https://widowmakerlures.com/)
+
+##### ![Jig head](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/198/954/All_3_colors_copy__02689.1698245574.jpg?c=2)
+
+- Size: 1/32 oz.
+- Colors: Gold/black, firetiger, pink/white
+- Lowest price: $7.99
+- Retrieved 2/13/2025
+- [WidowMakerLures.com](https://widowmakerlures.com/)
+
+#### 5. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
@@ -300,7 +351,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
 
-#### 3. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
+#### 6. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
 ##### ![Stoneflies](https://nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
 
@@ -309,7 +360,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 4. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
+#### 7. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
 
 ##### ![Ultra Light Minnow](https://www.rapala.eu/img/940/940/resize/catalog/product/9/e/9e29f7659580a8_aek37cgis1183a528ah21f8m3n_91b3a5b7.png)
 
@@ -318,25 +369,25 @@
 - Retrieved 2/10/2025
 - [FishUSA.com](https://www.fishusa.com/Rapala-Ultra-Light-Minnow-Lures/?sku=106572&msclkid=0b236b95ca5d1cf598df0c3f161912c1&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Low%20%26%20Clearance&utm_term=4585375812936717&utm_content=Low)
 
-#### 5. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
+#### 8. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
 
 ##### ![Ultra Light Crank](https://www.rapala.eu/img/940/940/resize/catalog/product/1/9/19251885d305c3_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png)
 
-- Colors: Pink clown, yellow perch, shad, gold
+- Colors: Pink clown, ~~yellow perch, shad~~, gold
 - Lowest price: $7.59
 - Retrieved 2/10/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Crank_Crankbaits/descpage-RULC.html?from=bshop&msclkid=9374771bc64b191828d210b113151091&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20All%20Baits%3Abshop&utm_term=4581458813140081&utm_content=Hard%20Baits)
 
-#### 6. [Rapala Ultra Light Shad](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
+#### 9. [~~Rapala Ultra Light Shad~~](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
 
 ##### ![Ultra Light Shad](https://www.rapala.eu/img/940/940/resize/catalog/product/7/4/7486c62d897b01_9eg7lo1ved31h8p72v06q65a4q_ba20cb81.png)
 
-- Colors: Shad
-- Lowest price: $7.59
-- Retrieved 2/10/2025
-- [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Shad_Crankbaits/descpage-RULS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+- Colors: ~~Shad~~
+- Lowest price: ~~$7.59~~
+- Retrieved ~~2/10/2025~~
+- [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Shad_Crankbaits/descpage-RULS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 7. [Pin Tail 1.9inch](https://nikko-fishing.com/product/pin-tail-1-9inch/)
+#### 10. [Pin Tail 1.9inch](https://nikko-fishing.com/product/pin-tail-1-9inch/)
 
 ##### ![Pin Tail](https://nikko-fishing.com/lfwp/wp-content/uploads/2024/01/PinTail_595.jpg)
 
@@ -345,7 +396,7 @@
 - Retrieved 2/11/2025
 - [FishUSA.com](https://www.fishusa.com/Nikko-Pin-Tail-Worms/)
 
-#### 8. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
+#### 11. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
@@ -355,7 +406,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 9. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+#### 12. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
@@ -364,7 +415,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
-#### 10. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+#### 13. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
@@ -377,7 +428,7 @@
 
 ### Under $5
 
-#### 1. [Berkley Gulp! Fat Floating Trout Worms)](https://www.berkley-fishing.com/products/gulp-fat-floating-trout-worm?variant=42291118473355)
+#### 1. [Berkley Gulp! Fat Floating Trout Worms](https://www.berkley-fishing.com/products/gulp-fat-floating-trout-worm?variant=42291118473355)
 
 ##### ![Trout Worms](https://www.berkley-fishing.com/cdn/shop/files/1265859.jpg?v=1713987567&amp;width=600)
 
@@ -386,7 +437,26 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Berkley-Gulp-2-Fat-Floating-Trout-Worm/?sku=10760)
 
-#### 2. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+#### 2. [Shad FryZ](https://zmanfishing.com/collections/elaztech-plastics/products/shad-fryz#)
+
+##### ![Shad](https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795)
+
+- Colors: Blue glimmer sparkle, bumblebee, firetreuse
+- Lowest price: $4.99
+- Retrieved 2/12/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Shad_Fryz_Micro_Finesse_8pk/descpage-ZMSF.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 3. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
+
+##### ![Bugger](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/216/1092/Colalge_all_6__42278.1730214311.jpg?c=2)
+
+- Colors: Pink/white, red/yellow, yellow/black
+- Size: 1/32 oz.
+- Lowest price: $4.39
+- Retrieved 2/12/2025
+- [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
+
+#### 4. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
 
@@ -395,7 +465,7 @@
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
-#### 3. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+#### 5. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
 
@@ -404,7 +474,7 @@
 - Retrieved 2/11/2025
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
 
-#### 4. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+#### 6. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
@@ -413,7 +483,7 @@
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
-#### 5. [Bernie](https://www.rapala.com/us_en/bernie)
+#### 7. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
@@ -422,7 +492,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
 
-#### 6. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
+#### 8. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
 
 ##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
 
@@ -431,7 +501,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 7. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
+#### 9. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
 
 ##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
 
@@ -439,6 +509,38 @@
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
+
+#### 10. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
+
+##### ![Road runner](https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png)
+
+- Size: 1/32 oz.
+- Colors: Pink/white, white, rainbow trout
+- Lowest price: $3.49
+- Retrieved 12/11/2024
+- [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
+
+#### 11. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
+
+##### ![Woolly Bugger](https://i.etsystatic.com/15780174/r/il/f6e942/6613153960/il_794xN.6613153960_jewa.jpg)
+
+- Colors: White, black, olive, brown
+- Size: 10
+- Quantity: 3
+- Lowest price: $2.19
+- Retrieved 2/12/2025
+- [Etsy.com](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
+
+#### 12. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
+
+##### ![Dropper](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2)
+
+- Colors: 23, 27, 29, 30
+- Size: 10
+- Quantity: 3
+- Lowest price: $1.99
+- Retrieved 2/12/2025
+- [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ---
 
@@ -598,7 +700,9 @@
 - Retrieved 2/8/2025
 - [Amazon.com](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
 
-#### 2. [RubiGrid® V2 2019+ RAM Truck](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
+### Around $50
+
+#### 1. [RubiGrid® V2 2019+ RAM Truck](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
 
 ##### ![Truck Grid](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
 
