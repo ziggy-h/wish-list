@@ -441,7 +441,7 @@
 
 ##### ![Shad](https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795)
 
-- Colors: Blue glimmer sparkle, bumblebee, firetreuse
+- Colors: Blue glimmer sparkle, bumblebee, firetreuse, smelt, pearl
 - Lowest price: $4.99
 - Retrieved 2/12/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Shad_Fryz_Micro_Finesse_8pk/descpage-ZMSF.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
