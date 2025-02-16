@@ -220,15 +220,15 @@
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 4. [Shimano Sensilite Spinning A](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
+#### 4. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
 
 ##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
 
-- Size: 6 foot 6 inches
-- Power: Ultralight
-- Lowest price: $49.99
-- Retrieved 2/10/2025
-- [FishUSA.com](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+- ~~Size: 6 foot 6 inches~~
+- ~~Power: Ultralight~~
+- ~~Lowest price: $49.99~~
+- ~~Retrieved 2/10/2025~~
+- [~~FishUSA.com~~](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
 #### 5. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
@@ -239,14 +239,14 @@
 - Retrieved 2/10/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
-#### 6. [M1 Spinning Reel Size 500](https://handingfishing.com/products/handing-m1-spinning-reel)
+#### 6. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
 
 ##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
 
-- Size: 500
-- Lowest price: $25.99
-- Retrieved 2/10/2025
-- [Amazon.com](https://www.amazon.com/HANDING-Spinning-Freshwater-Fishing-Bearings/dp/B0CHVQSN86?hvadid=692875362841&hvpos=&hvnetw=g&hvrand=16744729412549816810&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014639&hvtargid=pla-2281435180778&mcid=1c5b3cd34c94389682b9ea6380f88d62&hvocijid=16744729412549816810-B0CHVQSN86-&hvexpln=73&th=1&linkCode=ll1&tag=w2f-best-spinning-reels-for-fishing-20&linkId=918a901af0eadf2093b673831b006e3f&language=en_US&ref_=as_li_ss_tl&psc=1)
+- ~~Size: 500~~
+- ~~Lowest price: $25.99~~
+- ~~Retrieved 2/10/2025~~
+- [~~Amazon.com~~](https://www.amazon.com/HANDING-Spinning-Freshwater-Fishing-Bearings/dp/B0CHVQSN86?hvadid=692875362841&hvpos=&hvnetw=g&hvrand=16744729412549816810&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014639&hvtargid=pla-2281435180778&mcid=1c5b3cd34c94389682b9ea6380f88d62&hvocijid=16744729412549816810-B0CHVQSN86-&hvexpln=73&th=1&linkCode=ll1&tag=w2f-best-spinning-reels-for-fishing-20&linkId=918a901af0eadf2093b673831b006e3f&language=en_US&ref_=as_li_ss_tl&psc=1)
 
 ---
 
@@ -260,31 +260,31 @@
 - Retrieved 12/11/2024
 - [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
 
-#### 2. [TMJ Tungsten Mongo Jig Kit](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
+#### 2. [~~TMJ Tungsten Mongo Jig Kit~~](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
 
 ##### ![Mongo Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/3/8/3810965c1208f0_t7jor86kud0rn8fppvm8gb5b1u_ab4bed1a.png)
 
-- Color: Glow Tiger
-- Weight: 1/32 oz.
-- Lowest price: $14.87
-- Retrieved 2/12/2025
-- [Amazon.com](https://www.amazon.com/VMC-Tungsten-Mongo-Jig-Glow/dp/B0B7SNGP29/ref=sr_1_1?crid=1WX7GE1DC45UG&dib=eyJ2IjoiMSJ9.NESPaIdJzqbyZ-nQBYl-wPKfOj3i9MRRTkZQvS5o14ETyJCFywD8O7G9N9dhq65e5SWq3gqRBMNqnk2Rg8gnW-fG7h9z_m6LKotgiF52Q3W17JgEfmGP9cqen2gjKBP7aXc25TyoRaPqkUplrKuAtSA2NkeeEevx1EVKBRnbLEz6YtSCkuUuOVyCoiHqf7ad-qyAM3EbU3gPOjscg8fo4DJwwHzcknXL5wrYmLR2vNjdv0sVrP1NNxW39UE6Z7IkONI1N7nKNlxeAT0iQAxTlmqCsLIMnN6zLvNQI6K2WSIKxpiLtP1ULOwK-zwVKNenoOl4v2q9mQf4APXbrYk-GnwqZLoJMgYaKApoG9TubE8.78qEGyIOFHRGoz05vgBhqOiLFyQC02MPOgmcn3IKr5E&dib_tag=se&keywords=VMC+Tungsten+mongo+Jig+Kit+1%2F32+Oz.+Glow&qid=1739420647&s=sporting-goods&sprefix=vmc+tungsten+mongo+jig+kit+1%2F32+oz.+glow%2Csporting%2C83&sr=1-1)
+- ~~Color: Glow Tiger~~
+- ~~Weight: 1/32 oz.~~
+- ~~Lowest price: $14.87~~
+- ~~Retrieved 2/12/2025~~
+- [~~Amazon.com~~](https://www.amazon.com/VMC-Tungsten-Mongo-Jig-Glow/dp/B0B7SNGP29/ref=sr_1_1?crid=1WX7GE1DC45UG&dib=eyJ2IjoiMSJ9.NESPaIdJzqbyZ-nQBYl-wPKfOj3i9MRRTkZQvS5o14ETyJCFywD8O7G9N9dhq65e5SWq3gqRBMNqnk2Rg8gnW-fG7h9z_m6LKotgiF52Q3W17JgEfmGP9cqen2gjKBP7aXc25TyoRaPqkUplrKuAtSA2NkeeEevx1EVKBRnbLEz6YtSCkuUuOVyCoiHqf7ad-qyAM3EbU3gPOjscg8fo4DJwwHzcknXL5wrYmLR2vNjdv0sVrP1NNxW39UE6Z7IkONI1N7nKNlxeAT0iQAxTlmqCsLIMnN6zLvNQI6K2WSIKxpiLtP1ULOwK-zwVKNenoOl4v2q9mQf4APXbrYk-GnwqZLoJMgYaKApoG9TubE8.78qEGyIOFHRGoz05vgBhqOiLFyQC02MPOgmcn3IKr5E&dib_tag=se&keywords=VMC+Tungsten+mongo+Jig+Kit+1%2F32+Oz.+Glow&qid=1739420647&s=sporting-goods&sprefix=vmc+tungsten+mongo+jig+kit+1%2F32+oz.+glow%2Csporting%2C83&sr=1-1)
 
-#### 3. [VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow](https://www.rapala.com/us_en/tungsten-tubby-jig-kit)
+#### 3. [~~VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow~~](https://www.rapala.com/us_en/tungsten-tubby-jig-kit)
 
 ##### ![Tungsten Tubby Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/a/4/a4208483050cf3_7gj8ul0k3t3arf394cs5vqfs1g_45a83aa3.png)
 
-- Color: Glow
-- Weight: 1/32 oz.
-- Lowest price: $13.99
-- Retrieved 2/12/2025
-- [Amazon.com](https://www.amazon.com/VMC-TTJ132G6-Tungsten-Tubby-Jig/dp/B01N57G3KQ/ref=sr_1_1?crid=1T7XQD1SMIDFT&dib=eyJ2IjoiMSJ9.VdvsV1PZbdDlNYvRpDBIFlkzSpZII5SqvNgu4KChRQM2HZLRvKaksnOa14U1KEueC0-LnUv4Qu0Zvib2jZysU3xO4AUui4XPtUO6jBd_6cHD4RfXrdpIcpVkyOUqLRWFWwbdTCTBUwFi_iz74Z2D6fXfxxfBXTCP9vHB9XGvFwKD0p7T_Z20O_ez-EHGPybfst974XRRCeezLRjUc4MlnznBN_U-JKypkT5bBPu3rbzi3BDzfCLUPLUH0JK8d8S5vSite2EsVAfVDepYb6dB3X61yhbI_Ez5nJkMHexUtbR6jP7GHEijor-JcznmCxjmfVnqb3pQKaUq0uzK6ebL8KjvbSX5Nu1CV7dqY-AINhs.b9k43UTUcQmCMqFVA6JkXjS9LcVKRi9eNKXsAk_9mTk&dib_tag=se&keywords=VMC+Tungsten+Tubby+Jig+Kit+1%2F32+Oz.+Glow&qid=1739419986&s=sporting-goods&sprefix=vmc+tungsten+tubby+jig+kit+1%2F32+oz.+glow%2Csporting%2C82&sr=1-1)
+- ~~Color: Glow~~
+- ~~Weight: 1/32 oz.~~
+- ~~Lowest price: $13.99~~
+- ~~Retrieved 2/12/2025~~
+- [~~Amazon.com~~](https://www.amazon.com/VMC-TTJ132G6-Tungsten-Tubby-Jig/dp/B01N57G3KQ/ref=sr_1_1?crid=1T7XQD1SMIDFT&dib=eyJ2IjoiMSJ9.VdvsV1PZbdDlNYvRpDBIFlkzSpZII5SqvNgu4KChRQM2HZLRvKaksnOa14U1KEueC0-LnUv4Qu0Zvib2jZysU3xO4AUui4XPtUO6jBd_6cHD4RfXrdpIcpVkyOUqLRWFWwbdTCTBUwFi_iz74Z2D6fXfxxfBXTCP9vHB9XGvFwKD0p7T_Z20O_ez-EHGPybfst974XRRCeezLRjUc4MlnznBN_U-JKypkT5bBPu3rbzi3BDzfCLUPLUH0JK8d8S5vSite2EsVAfVDepYb6dB3X61yhbI_Ez5nJkMHexUtbR6jP7GHEijor-JcznmCxjmfVnqb3pQKaUq0uzK6ebL8KjvbSX5Nu1CV7dqY-AINhs.b9k43UTUcQmCMqFVA6JkXjS9LcVKRi9eNKXsAk_9mTk&dib_tag=se&keywords=VMC+Tungsten+Tubby+Jig+Kit+1%2F32+Oz.+Glow&qid=1739419986&s=sporting-goods&sprefix=vmc+tungsten+tubby+jig+kit+1%2F32+oz.+glow%2Csporting%2C82&sr=1-1)
 
 #### 4. [Bottom Magic](https://jackson-quon.com/product/2083/)
 
 ##### ![Plug](https://s3.ap-northeast-1.amazonaws.com/cdn.jackson-quon.com/wordpress/wp-content/uploads/2019/03/24123039/gal.jpg)
 
-- Color: Glow albino, red glow chart pink, about shad iii
+- Color: Glow albino, red glow chart pink, and about shad iii
 - Model: Light tune
 - Lowest price: $13.99
 - Retrieved 2/12/2025
@@ -294,7 +294,7 @@
 
 ##### ![XR04](https://www.rapala.eu/img/940/940/resize/catalog/product/0/0/00a6ee895f766d_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png)
 
-- Color: Yellow perch, glass ghost, brown trout, brook trout
+- Color: Yellow perch, glass ghost, brown trout, and brook trout
 - Lowest price: $12.49
 - Retrieved 2/12/2025
 - [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
@@ -327,7 +327,7 @@
 
 ##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
 
-- Colors: Green pumpkin, mudbug, natural
+- Colors: Green pumpkin, mudbug, and natural
 - Lowest price: $8.99
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
@@ -337,7 +337,7 @@
 ##### ![Jig head](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/198/954/All_3_colors_copy__02689.1698245574.jpg?c=2)
 
 - Size: 1/32 oz.
-- Colors: Gold/black, firetiger, pink/white
+- Colors: Gold/black, firetiger, and pink/white
 - Lowest price: $7.99
 - Retrieved 2/13/2025
 - [WidowMakerLures.com](https://widowmakerlures.com/)
@@ -346,7 +346,7 @@
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
-- Colors: Mudbug (#943), cream (#723)
+- Colors: Mudbug (#943) and cream (#723)
 - Lowest price: $7.99
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
@@ -373,7 +373,7 @@
 
 ##### ![Ultra Light Crank](https://www.rapala.eu/img/940/940/resize/catalog/product/1/9/19251885d305c3_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png)
 
-- Colors: Pink clown, ~~yellow perch, shad~~, gold
+- Colors: Pink clown, ~~yellow perch, shad~~, and gold
 - Lowest price: $7.59
 - Retrieved 2/10/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Crank_Crankbaits/descpage-RULC.html?from=bshop&msclkid=9374771bc64b191828d210b113151091&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20All%20Baits%3Abshop&utm_term=4581458813140081&utm_content=Hard%20Baits)
@@ -391,7 +391,7 @@
 
 ##### ![Pin Tail](https://nikko-fishing.com/lfwp/wp-content/uploads/2024/01/PinTail_595.jpg)
 
-- Colors: Mudbug, chartreuse gold flake, peppergum
+- Colors: Mudbug, chartreuse gold flake, and peppergum
 - Lowest price: $6.49
 - Retrieved 2/11/2025
 - [FishUSA.com](https://www.fishusa.com/Nikko-Pin-Tail-Worms/)
@@ -400,7 +400,7 @@
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
-- Colors: Fruit fly, glo white, gold, woodtick
+- Colors: Fruit fly, glo white, gold, and woodtick
 - Weight: 1/28 oz.
 - Lowest price: $6.49
 - Retrieved 12/11/2024
@@ -410,7 +410,7 @@
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
-- Colors: Holographic scale, natural fin
+- Colors: Holographic scale and natural fin
 - Lowest price: $6.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
@@ -419,10 +419,20 @@
 
 ##### ![Burro Bug](https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043)
 
-- Colors: GP black flake, pasture fire, rodeo clown
+- Colors: GP black flake, pasture fire, and rodeo clown
 - Lowest price: $5.49
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
+
+#### 14. [Original Road Runner Heads](https://ttiblakemore.com/product/road-runner/road-runner-heads/original-road-runner-heads-road-runner-heads/original-road-runner-heads-4pk/)
+
+##### ![Road Runner Head](https://ttiblakemore.com/wp-content/uploads/2019/07/033-Web-Scaled.jpg)
+
+- Size: 1/16 oz.
+- Colors: Chartreuse, flourescent orange, pink, and white
+- Lowest price: $5.29
+- Retrieved 2/15/2025
+- [FishUSA.com](https://www.fishusa.com/road-runner-original-jig-heads/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
 ---
 
@@ -441,7 +451,7 @@
 
 ##### ![Shad](https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795)
 
-- Colors: Blue glimmer sparkle, bumblebee, firetreuse, smelt, pearl
+- Colors: Blue glimmer sparkle, bumblebee, firetreuse, smelt, and pearl
 - Lowest price: $4.99
 - Retrieved 2/12/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Shad_Fryz_Micro_Finesse_8pk/descpage-ZMSF.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
@@ -450,7 +460,7 @@
 
 ##### ![Bugger](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/216/1092/Colalge_all_6__42278.1730214311.jpg?c=2)
 
-- Colors: Pink/white, red/yellow, yellow/black
+- Colors: Pink/white, red/yellow, and yellow/black
 - Size: 1/32 oz.
 - Lowest price: $4.39
 - Retrieved 2/12/2025
@@ -460,7 +470,7 @@
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
 
-- Colors: Chartreuse, white, fire red, pink, green pumpkin
+- Colors: Chartreuse, white, fire red, pink, and green pumpkin
 - Lowest price: $4.29
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
@@ -469,7 +479,7 @@
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
 
-- Colors: Chartreuse, white, fire red, pink, green pumpkin
+- Colors: Chartreuse, white, fire red, pink, and green pumpkin
 - Lowest price: $4.29
 - Retrieved 2/11/2025
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
@@ -478,7 +488,7 @@
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
-- Colors: Coppertreuse, the Deal, fire craw, pb&j, green pumpkin
+- Colors: Coppertreuse, the Deal, fire craw, pb&j, and green pumpkin
 - Lowest price: $4.24
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
@@ -487,7 +497,7 @@
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
-- Colors: White No. 1, bubblegum, panfish whiskey sour
+- Colors: White No. 1, bubblegum, and panfish whiskey sour
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
@@ -514,13 +524,22 @@
 
 ##### ![Road runner](https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png)
 
-- Size: 1/32 oz.
-- Colors: Pink/white, white, rainbow trout
+- Size: 1/16 oz.
+- Colors: Glacier, ice out, pink/white, and white
 - Lowest price: $3.49
 - Retrieved 12/11/2024
-- [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
+- [FishUSA.com](https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 11. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
+#### 11. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
+
+##### ![Brush Bandit](https://static.wixstatic.com/media/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg/v1/fill/w_296,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg)
+
+- Colors: Glow blue, glow chartreuse, glow pink, orange sunrise, and snowflake
+- Lowest price: $3.29
+- Retrieved 2/15/2025
+- [FishUSA.com](https://www.fishusa.com/BrushPile-Jigs-Bandit-Soft-Bait/)
+
+#### 12. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
 ##### ![Woolly Bugger](https://i.etsystatic.com/15780174/r/il/f6e942/6613153960/il_794xN.6613153960_jewa.jpg)
 
@@ -531,7 +550,7 @@
 - Retrieved 2/12/2025
 - [Etsy.com](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
-#### 12. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
+#### 13. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Dropper](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2)
 
@@ -692,13 +711,13 @@
 
 ### Around $150
 
-#### 1. [REDTIGER F7N Pro Dual Dash Cam](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
+#### 1. [~~REDTIGER F7N Pro Dual Dash Cam~~](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
 
 ##### ![Dash Cam](https://m.media-amazon.com/images/I/81W1OSAkscL._AC_.jpg)
 
-- Lowest price: $139.99
-- Retrieved 2/8/2025
-- [Amazon.com](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
+- ~~Lowest price: $139.99~~
+- ~~Retrieved 2/8/2025~~
+- ~~[Amazon.com](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)~~
 
 ### Around $50
 
