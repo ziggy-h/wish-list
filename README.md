@@ -202,7 +202,17 @@
 - ~~Retrieved 2/12/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
 
-#### 2. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
+#### 2. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
+
+##### ![Rod](https://www.eurotackle.net/cdn/shop/files/MF66UL-BFS-MAIN.jpg?v=1740841698&width=1600)
+
+- Size: 6 foot 6 inches
+- Power: Ultra light
+- Lowest price: $99.99
+- Retrieved 3/4/2025
+- [FishUSA.com](https://www.fishusa.com/Eurotackle-Rise-Spinning-Rods/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 3. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
 
 ##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
 
@@ -212,7 +222,7 @@
 - ~~Retrieved 2/08/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 3. [Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
+#### 4. [Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
 
 ##### ![Backpack](https://kastking.com/cdn/shop/files/00KarryallTackleFishingBackpack1600x1600_3_-2.jpg?v=1714037770)
 
@@ -222,7 +232,7 @@
 - Retrieved 2/15/2025
 - [Amazon.com](https://www.amazon.com/KastKing-Karryall-Backpack-Water-resistant-Equipment/dp/B0BKK2J776/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_1/130-9557692-0529741?pd_rd_w=mkiC1&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a%3Aamzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=HF43A9YFMT5SGK7VPXSE&pd_rd_wg=2K0A2&pd_rd_r=cf8c4b95-b1cc-4184-9301-d8c7ba100e4b&pd_rd_i=B0BKK2J776&th=1)
 
-#### 4. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 5. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
 
@@ -230,7 +240,7 @@
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 5. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
+#### 6. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
 
 ##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
 
@@ -240,7 +250,7 @@
 - ~~Retrieved 2/10/2025~~
 - [~~FishUSA.com~~](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 6. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+#### 7. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
 
@@ -249,7 +259,7 @@
 - Retrieved 2/10/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
-#### 7. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
+#### 8. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
 
 ##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
 
@@ -476,7 +486,16 @@
 - Retrieved 2/12/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Shad_Fryz_Micro_Finesse_8pk/descpage-ZMSF.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 3. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
+#### 3. [Micro WormZ](https://zmanfishing.com/products/microwormz)
+
+##### ![Shad](https://zmanfishing.com/cdn/shop/files/MMW-238PK8_3200x.jpg?v=1734521943)
+
+- Colors: Coppertreuse, green pumpkin, and hot chartreuse
+- Lowest price: $4.99
+- Retrieved 3/4/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Micro_Wormz_8pk/descpage-ZMMW.html)
+
+#### 4. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
 
 ##### ![Hawken Float](https://hawkenfishing.com/cdn/shop/products/AF8.jpg?v=1593468707&width=900)
 
@@ -494,7 +513,7 @@
 - Retrieved 2/15/2025
 - [FishUSA.com](https://www.fishusa.com/Thill-Wobble-Bobbers/?sku=111668)
 
-#### 5. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
+#### 6. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Bugger](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/216/1092/Colalge_all_6__42278.1730214311.jpg?c=2)
 
@@ -504,7 +523,7 @@
 - Retrieved 2/12/2025
 - [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
-#### 6. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+#### 7. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
 
@@ -513,7 +532,7 @@
 - Retrieved 12/11/2024
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
-#### 7. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+#### 8. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
 
 ##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
 
@@ -522,7 +541,7 @@
 - Retrieved 2/11/2025
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
 
-#### 8. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+#### 9. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
@@ -531,16 +550,25 @@
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
-#### 9. [Bernie](https://www.rapala.com/us_en/bernie)
+#### 10. [Flashback Mini](https://zmanfishing.com/products/flashback-r-mini)
+
+##### ![Chatterbait](https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603)
+
+- Colors: Coppertreuse, the Deal, fire craw, pb&j, and green pumpkin
+- Lowest price: $3.99
+- Retrieved 3/4/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+
+#### 11. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
-- Colors: White No. 1, bubblegum, and panfish whiskey sour
+- Colors: Chartreuse rainbow, gold black, silver natural
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
 
-#### 10. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
+#### 12. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
 
 ##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
 
@@ -549,7 +577,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 11. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
+#### 13. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
 
 ##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
 
@@ -558,7 +586,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
 
-#### 12. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
+#### 14. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
 
 ##### ![Road runner](https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png)
 
@@ -568,7 +596,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 13. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
+#### 15. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
 
 ##### ![Brush Bandit](https://static.wixstatic.com/media/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg/v1/fill/w_296,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg)
 
@@ -577,7 +605,16 @@
 - Retrieved 2/15/2025
 - [FishUSA.com](https://www.fishusa.com/BrushPile-Jigs-Bandit-Soft-Bait/)
 
-#### 14. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
+#### 16. [Roro Swimbait Micro Finesse 1.6″](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
+
+##### ![Swimbait](https://rorolure.com/cdn/shop/products/softBait05_590x.png?v=1642036746)
+
+- Colors: A, k, g, q
+- Lowest price: $2.99
+- Retrieved 3/5/2025
+- [RoroLure.com](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
+
+#### 17. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
 ##### ![Woolly Bugger](https://i.etsystatic.com/15780174/r/il/f6e942/6613153960/il_794xN.6613153960_jewa.jpg)
 
@@ -588,7 +625,7 @@
 - Retrieved 2/12/2025
 - [Etsy.com](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
-#### 15. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
+#### 18. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Dropper](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2)
 
