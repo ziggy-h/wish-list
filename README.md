@@ -250,7 +250,16 @@
 - ~~Retrieved 2/10/2025~~
 - [~~FishUSA.com~~](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 7. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+#### 7. [Thump Net](https://thumpgel.com/products/thump-net)
+
+##### ![Thump Net](https://thumpgel.com/cdn/shop/files/Thump_Net_picture_713x.png?v=1739896555)
+
+- Lowest price: $49.99
+- Retrieved 3/6/2025
+- [Amazon.com](https://www.amazon.com/Thump-Gel-Net/dp/B0CNBMT982/ref=sr_1_1?crid=160JR3QRRF6BK&dib=eyJ2IjoiMSJ9.pXtsun2oRPOlpiThD87FGs7_rDBy4W0ppe2Es8wzz-pNtsu6Z9wkrU3RceN5rIL8cn18HKGDnK3FT6k1vXh2TODhoVxlqPDE1H3sl3NOy13Dl7gI-tTlFFA4qg51xVlzTslXT_2CpNJq_8_N1Px-LHN26Qs7fA8tj48TiU1s3Gl9GRIB-AGLGewxNgV7od7_hRqqSdUn0dfoVPaOBPopEL9yjVJda7GXVs8BVzaeUqjlxlFDs_AL-M9LPZ-Leg1Y8kd6htEwGw7EWY_GSuk1YiCdYTfa5JliiIjrIEK0svXaqAZRDjfXSAWqIRVvjNIJRsQBH_OV7_ZVaWuLdLz3Zvd7kKrCDTcTFLJJHB3WjGAMCR2fx_hX5czGtusxlH9Bb8z9CeEaN0VuPCFIUvrfTkfc8X3sq1m11PFte5YK9laJfMcI8aJNesVO-hg9s-bC.HJ95hj1SXLY0oj3iZHljixUUp1SxbGhBFfEkkJ_eYgc&dib_tag=se&keywords=thumb+net&qid=1741246283&sprefix=thump+net%2Caps%2C140&sr=8-1)
+
+
+#### 8. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
 
@@ -259,7 +268,7 @@
 - Retrieved 2/10/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
-#### 8. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
+#### 9. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
 
 ##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
 
@@ -319,6 +328,14 @@
 - Retrieved 2/12/2025
 - [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
 
+#### 6. [Frabill Crappie E-Z Check'R](https://www.frabill.com/products/ez-checkr)
+
+##### ![Checker](https://www.frabill.com/cdn/shop/files/Frabill_FRBO1440_alt1.jpg?v=1707922237&width=1024)
+
+- Lowest price: $10.38
+- Retrieved 3/6/2025
+- [Amazon.com](https://www.amazon.com/Frabill-Crappie-CheckR-Fish-Measurer/dp/B003CULCCU/ref=sr_1_1?crid=28PXC4MSKQCV8&dib=eyJ2IjoiMSJ9.5QXYzZqGWm7OROjmJ62QKuMvsnM2jvUhSubIZ8Dsylkk4ALhd-rp0vxRVPs6v3HTuyEGMyYrLcj24JXg8MLsMaNzEJ3_xC3Pyfr6tfChiIdQ1uNeRIv1wEwlXXsnWAUNLxpL-YpVbD6pfJWvR8c-DSaJk0Q1OS1D9cYyqgN83b44CIVuHWnGI6M7Y2XJL8zsp-DwWwxY8zVHzzoLgzKGHVtwTFkUFibO5CcMV9ikPTwJYRvvyf7m7S9zLSaudr8jyxlLTkR4oTZJUrcozcQ1iyvbLAveG6wAVeCAlWcKk4RewUU3Ljx3e3GYlpGVhhzyBvSnnIfaDVWIXF6HxGkDe0d_VWxOq8MAAZPEVNom9IUQRhI5jm_uYRT0v7BMAeVY-zWOKAmICuyBsfvaqkCOQ8W2soeQrsa9Mi2zeU8YtI8ErJvEPCfpMkEQWueRp4QW.o1spydpWdwstiQ-KWeOyXwUUETa1u045vdhi0fGP1Ho&dib_tag=se&keywords=rapala+crappie+measure&qid=1741246064&sprefix=rapala+crappie+measure%2Caps%2C101&sr=8-1)
+
 ---
 
 ### Under $10
@@ -352,7 +369,16 @@
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
 
-#### 4. [Tungsten Jig Heads](https://widowmakerlures.com/)
+#### 4. [Mukai B-Chatter](https://www.mukai-fishing.jp/archives/922.html)
+
+##### ![Mukai Chatter Bait](https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit%2Cfl_lossy%2Ch_3000%2Cw_2000%2Cf_auto%2Cq_auto/1254817/617865_495958.png)
+
+- Colors: Pink, chartreuse, orange
+- Lowest price: $8.99
+- Retrieved 3/6/2025
+- [Trout-Lures.com](https://www.trout-lures.com/store/products/mukai-b-chatter)
+
+#### 5. [Tungsten Jig Heads](https://widowmakerlures.com/)
 
 ##### ![Jig head](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/198/954/All_3_colors_copy__02689.1698245574.jpg?c=2)
 
@@ -362,7 +388,7 @@
 - Retrieved 2/13/2025
 - [WidowMakerLures.com](https://widowmakerlures.com/)
 
-#### 5. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
+#### 6. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
@@ -371,7 +397,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/125275900823?chn=ps&var=426305317807&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=426305317807_125275900823&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=38c0091c863611cbb6ad6e4539ece237)
 
-#### 6. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
+#### 7. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
 ##### ![Stoneflies](https://nikko-fishing.myshopify.com/cdn/shop/products/NikkoStonefly952xxx_90X90.jpg?v=1669819042)
 
@@ -380,7 +406,7 @@
 - Retrieved 12/11/2024
 - [eBay.com](https://www.ebay.com/itm/124852288308?chn=ps&norover=1&mkevt=1&mkrid=711-213727-13078-0&mkcid=2&itemid=124852288308&targetid=4580909053911849&device=c&mktype=&googleloc=&poi=&campaignid=603247654&mkgroupid=1236951625700523&rlsatarget=pla-4580909053911849&abcId=9316139&merchantid=51291&msclkid=413e14e7f3f51ec2f30073be3247b3d0)
 
-#### 7. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
+#### 8. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
 
 ##### ![Ultra Light Minnow](https://www.rapala.eu/img/940/940/resize/catalog/product/9/e/9e29f7659580a8_aek37cgis1183a528ah21f8m3n_91b3a5b7.png)
 
@@ -389,7 +415,7 @@
 - Retrieved 2/10/2025
 - [FishUSA.com](https://www.fishusa.com/Rapala-Ultra-Light-Minnow-Lures/?sku=106572&msclkid=0b236b95ca5d1cf598df0c3f161912c1&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Low%20%26%20Clearance&utm_term=4585375812936717&utm_content=Low)
 
-#### 8. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
+#### 9. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
 
 ##### ![Ultra Light Crank](https://www.rapala.eu/img/940/940/resize/catalog/product/1/9/19251885d305c3_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png)
 
@@ -398,7 +424,7 @@
 - Retrieved 2/10/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Crank_Crankbaits/descpage-RULC.html?from=bshop&msclkid=9374771bc64b191828d210b113151091&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20All%20Baits%3Abshop&utm_term=4581458813140081&utm_content=Hard%20Baits)
 
-#### 9. [~~Rapala Ultra Light Shad~~](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
+#### 10. [~~Rapala Ultra Light Shad~~](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
 
 ##### ![Ultra Light Shad](https://www.rapala.eu/img/940/940/resize/catalog/product/7/4/7486c62d897b01_9eg7lo1ved31h8p72v06q65a4q_ba20cb81.png)
 
@@ -407,7 +433,7 @@
 - Retrieved ~~2/10/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Rapala_Ultra_Light_Shad_Crankbaits/descpage-RULS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 10. [Pin Tail 1.9inch](https://nikko-fishing.com/product/pin-tail-1-9inch/)
+#### 11. [Pin Tail 1.9inch](https://nikko-fishing.com/product/pin-tail-1-9inch/)
 
 ##### ![Pin Tail](https://nikko-fishing.com/lfwp/wp-content/uploads/2024/01/PinTail_595.jpg)
 
@@ -416,7 +442,7 @@
 - Retrieved 2/11/2025
 - [FishUSA.com](https://www.fishusa.com/Nikko-Pin-Tail-Worms/)
 
-#### 11. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
+#### 12. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
 
 ##### ![Pin Fry](https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2)
 
@@ -426,7 +452,7 @@
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/?sku=230881&msclkid=7271f9ae86da137ae7919ef77cf714a0&utm_source=bing&utm_medium=cpc&utm_campaign=OBX%20%7C%20Ice&utm_term=4584688618395817&utm_content=Ice)
 
-#### 12. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
+#### 13. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/?sku=139068)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
