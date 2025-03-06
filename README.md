@@ -258,7 +258,6 @@
 - Retrieved 3/6/2025
 - [Amazon.com](https://www.amazon.com/Thump-Gel-Net/dp/B0CNBMT982/ref=sr_1_1?crid=160JR3QRRF6BK&dib=eyJ2IjoiMSJ9.pXtsun2oRPOlpiThD87FGs7_rDBy4W0ppe2Es8wzz-pNtsu6Z9wkrU3RceN5rIL8cn18HKGDnK3FT6k1vXh2TODhoVxlqPDE1H3sl3NOy13Dl7gI-tTlFFA4qg51xVlzTslXT_2CpNJq_8_N1Px-LHN26Qs7fA8tj48TiU1s3Gl9GRIB-AGLGewxNgV7od7_hRqqSdUn0dfoVPaOBPopEL9yjVJda7GXVs8BVzaeUqjlxlFDs_AL-M9LPZ-Leg1Y8kd6htEwGw7EWY_GSuk1YiCdYTfa5JliiIjrIEK0svXaqAZRDjfXSAWqIRVvjNIJRsQBH_OV7_ZVaWuLdLz3Zvd7kKrCDTcTFLJJHB3WjGAMCR2fx_hX5czGtusxlH9Bb8z9CeEaN0VuPCFIUvrfTkfc8X3sq1m11PFte5YK9laJfMcI8aJNesVO-hg9s-bC.HJ95hj1SXLY0oj3iZHljixUUp1SxbGhBFfEkkJ_eYgc&dib_tag=se&keywords=thumb+net&qid=1741246283&sprefix=thump+net%2Caps%2C140&sr=8-1)
 
-
 #### 8. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
@@ -580,7 +579,7 @@
 
 ##### ![Chatterbait](https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603)
 
-- Colors: Coppertreuse, the Deal, fire craw, pb&j, and green pumpkin
+- Colors: Chartreuse rainbow, gold black, silver natural
 - Lowest price: $3.99
 - Retrieved 3/4/2025
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
@@ -589,7 +588,7 @@
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
-- Colors: Chartreuse rainbow, gold black, silver natural
+- Colors: Black magic, radioactive pickle, snozberry, white no. 1
 - Lowest price: $3.49
 - Retrieved 12/11/2024
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
