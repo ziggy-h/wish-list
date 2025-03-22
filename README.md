@@ -193,7 +193,17 @@
 
 ### Under $100
 
-#### 1. [~~Ultegra 1000 FC~~](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
+#### 1. [Tatula Bass Rod](https://daiwa.us/products/tatula-bass-rods)
+
+##### ![Bass Rod](https://daiwa.us/cdn/shop/products/TTU741HRB_1_73a1405f-c300-4533-a156-9ec047f49291_1000x.png?v=1678305057)
+
+- Size: 7 feet
+- Power: Medium light - regular
+- Lowest price: $129.97
+- Retrieved 3/4/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Daiwa_Tatula_Casting_Rods/descpage-DTCR.html)
+
+#### 2. [~~Ultegra 1000 FC~~](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
 
 ##### ![Shimano Reel](https://img.tacklewarehouse.com/watermark/rs.php?path=UCTS-3.jpg&nw=551)
 
@@ -202,7 +212,7 @@
 - ~~Retrieved 2/12/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
 
-#### 2. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
+#### 3. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
 
 ##### ![Rod](https://www.eurotackle.net/cdn/shop/files/MF66UL-BFS-MAIN.jpg?v=1740841698&width=1600)
 
@@ -212,7 +222,7 @@
 - Retrieved 3/4/2025
 - [FishUSA.com](https://www.fishusa.com/Eurotackle-Rise-Spinning-Rods/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 3. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
+#### 4. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
 
 ##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
 
@@ -222,7 +232,7 @@
 - ~~Retrieved 2/08/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 4. [Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
+#### 5. [Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
 
 ##### ![Backpack](https://kastking.com/cdn/shop/files/00KarryallTackleFishingBackpack1600x1600_3_-2.jpg?v=1714037770)
 
@@ -232,7 +242,16 @@
 - Retrieved 2/15/2025
 - [Amazon.com](https://www.amazon.com/KastKing-Karryall-Backpack-Water-resistant-Equipment/dp/B0BKK2J776/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_1/130-9557692-0529741?pd_rd_w=mkiC1&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a%3Aamzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=HF43A9YFMT5SGK7VPXSE&pd_rd_wg=2K0A2&pd_rd_r=cf8c4b95-b1cc-4184-9301-d8c7ba100e4b&pd_rd_i=B0BKK2J776&th=1)
 
-#### 5. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 6. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=49292465963330)
+
+##### ![Elite Casting Rod](https://www.uglystik.com/cdn/shop/files/Ugly_Stik_Elite_Casting_Rod_A_alt3.jpg?v=1720615059&width=1024)
+
+- Size: 7 feet
+- Lowest price: $69.95
+- Retrieved 3/22/2025
+- [Amazon.com](https://www.amazon.com/Ugly-Stik-Elite-Casting-Rod/dp/B00VS0QR4E/ref=sr_1_4?crid=VXP5QHD2VOHG&dib=eyJ2IjoiMSJ9.dqrXpSj6mWr417-kYINvKm2NyrqH5FLdgiLNe3kkj9guyga8IhhKQYAVRObTEfl67RbKmGWnQoEl4xifdXM2gGEf6Yj2eLypy1Sifss_DDB3AcrTNVRDk6M29tjJA_65EiCxuuhYrk4Y05VKNhl5KKe3By9fYIblQTetR65KjgrhionRGgtmB9MuwyCJTePzGjbkotM6-cI9h8g5OBf6TE2qfVlgOuqEsRcOGv73Nig.TWY-hiX5nlidTxNSLO-AYByGoqgU16HJZ4RguwTiOT0&dib_tag=se&keywords=Shakespeare%2BUgly%2BStik%2BElite%2BUltralight%2FFast%2Bbfs&qid=1742678396&sprefix=shakespeare%2Bugly%2Bstik%2Belite%2Bultralight%2Ffast%2Bbfs%2Caps%2C108&sr=8-4&th=1)
+
+#### 7. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
 
@@ -240,7 +259,7 @@
 - Retrieved 12/12/2024
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 6. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
+#### 8. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
 
 ##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
 
@@ -250,7 +269,7 @@
 - ~~Retrieved 2/10/2025~~
 - [~~FishUSA.com~~](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 7. [Thump Net](https://thumpgel.com/products/thump-net)
+#### 9. [Thump Net](https://thumpgel.com/products/thump-net)
 
 ##### ![Thump Net](https://thumpgel.com/cdn/shop/files/Thump_Net_picture_713x.png?v=1739896555)
 
@@ -258,7 +277,7 @@
 - Retrieved 3/6/2025
 - [Amazon.com](https://www.amazon.com/Thump-Gel-Net/dp/B0CNBMT982/ref=sr_1_1?crid=160JR3QRRF6BK&dib=eyJ2IjoiMSJ9.pXtsun2oRPOlpiThD87FGs7_rDBy4W0ppe2Es8wzz-pNtsu6Z9wkrU3RceN5rIL8cn18HKGDnK3FT6k1vXh2TODhoVxlqPDE1H3sl3NOy13Dl7gI-tTlFFA4qg51xVlzTslXT_2CpNJq_8_N1Px-LHN26Qs7fA8tj48TiU1s3Gl9GRIB-AGLGewxNgV7od7_hRqqSdUn0dfoVPaOBPopEL9yjVJda7GXVs8BVzaeUqjlxlFDs_AL-M9LPZ-Leg1Y8kd6htEwGw7EWY_GSuk1YiCdYTfa5JliiIjrIEK0svXaqAZRDjfXSAWqIRVvjNIJRsQBH_OV7_ZVaWuLdLz3Zvd7kKrCDTcTFLJJHB3WjGAMCR2fx_hX5czGtusxlH9Bb8z9CeEaN0VuPCFIUvrfTkfc8X3sq1m11PFte5YK9laJfMcI8aJNesVO-hg9s-bC.HJ95hj1SXLY0oj3iZHljixUUp1SxbGhBFfEkkJ_eYgc&dib_tag=se&keywords=thumb+net&qid=1741246283&sprefix=thump+net%2Caps%2C140&sr=8-1)
 
-#### 8. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
+#### 10. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
 
@@ -267,7 +286,7 @@
 - Retrieved 2/10/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
 
-#### 9. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
+#### 11. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
 
 ##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
 
