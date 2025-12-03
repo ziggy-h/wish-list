@@ -1,18 +1,6 @@
 # 2024 X-mas Wishlist
 
-## Kayak fishing gear
-
-### $1000+
-
-#### 1. [Eagle Eye 9” with C-MAP US Inland Charts](https://www.lowrance.com/lowrance/type/fishfinders-chartplotters/eagle-eye-9-live-amer/)
-
-##### ![Eagle Eye Fish Finder](https://www.lowrance.com//globalassets/lowrance/products/by-type/fishfinders--chartplotters/eagle/compare-eagle.png?w=400&amp;h=250&amp;scale=both)
-
-- Lowest price: $999.00
-- Retrieved 12/12/2024
-- [Cabelas.com](https://www.cabelas.com/shop/en/lowrance-eagle-eye-9-fish-finder-with-live-sonar-and-c-map-us-inland-charts?ds_e=MICROSOFT&ds_c=Cabelas%7CShopping%7CSmart%7CBoating%7CGeneral%7CNAud%7CNVol%7CNMT&gclid=5e01ef1d0d1b1218d23c88464fd9c53b&gclsrc=3p.ds&msclkid=5e01ef1d0d1b1218d23c88464fd9c53b)
-
----
+## Kayak
 
 ### $100+
 
@@ -23,14 +11,6 @@
 - Lowest price: $124.95
 - Retrieved 12/11/2024
 - [Amazon.com](https://www.amazon.com/YakAttack-BlackPak-Kayak-Fishing-Crate/dp/B0D78SQPZR/ref=asc_df_B0D78SQPZR?tag=bingshoppinga-20&linkCode=df0&hvadid=80814295299931&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413766404433&psc=1&msclkid=7c65c4ceb3e81051cbbaa3978096c51a)
-
-#### 2. [CellBlok Battery Box and SwitchBlade Transducer Arm Combo](https://www.yakattack.us/cellblok-battery-box-and-switchblade-transducer-arm-combo/)
-
-##### ![Battery Box and Transducer Arm](https://cdn11.bigcommerce.com/s-z9gt0fu/products/600/images/4647/cellblok-battery-box-and-switchblade-transducer-arm-combo-clb-1003__79231.1648734892.400.400.jpg?c=2)
-
-- Lowest price: $100.00
-- Retrieved 12/13/2024
-- [YakAttack.us](https://www.yakattack.us/cellblok-battery-box-and-switchblade-transducer-arm-combo/)
 
 ---
 
@@ -43,14 +23,6 @@
 - Lowest price: $95.00
 - Retrieved 12/12/2024
 - [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
-
-#### 2. [Dakota Lithium 12v 10Ah Battery](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
-
-##### ![12v 10Ah Battery](https://dakotalithium.b-cdn.net/wp-content/uploads/2024/07/Dakota-Lithium-Battery-12v-10ah-1.png)
-
-- Lowest price: $69.00
-- Retrieved 12/13/2024
-- [DakotaLithium.com](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
 
 #### 3. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
@@ -112,15 +84,7 @@
 - Retrieved 12/18/2024
 - [JacksonKayak.com](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
 
-#### 5. [Dakota Lithium 12V 3A LiFePO4 Battery Charger](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
-
-##### ![Battery Charger](https://dakotalithium.b-cdn.net/wp-content/uploads/2018/12/Dakota-Lithium-Battery-12V-3A-LiFePO4-Charger.png)
-
-- Lowest price: $29.00
-- Retrieved 12/13/2024
-- [DakotaLithium.com](https://dakotalithium.com/product/dakota-lithium-12v-10ah-battery/)
-
-#### 6. [TetherTube Rod Holder- Two Pack with Mounting Hardware](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
+#### 5. [TetherTube Rod Holder- Two Pack with Mounting Hardware](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
 
 ##### ![TetherTube Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/608/images/10827/tethertube-rod-holder-two-pack-with-mounting-hardware__90818.1726513257.400.400.jpg?c=2)
 
@@ -232,15 +196,15 @@
 - ~~Retrieved 2/08/2025~~
 - [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 5. [Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
+#### 5. [~~Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes~~](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
 
 ##### ![Backpack](https://kastking.com/cdn/shop/files/00KarryallTackleFishingBackpack1600x1600_3_-2.jpg?v=1714037770)
 
-- Color: Khaki
-- Size: 40L
-- Lowest price: $76.49
-- Retrieved 2/15/2025
-- [Amazon.com](https://www.amazon.com/KastKing-Karryall-Backpack-Water-resistant-Equipment/dp/B0BKK2J776/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_1/130-9557692-0529741?pd_rd_w=mkiC1&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a%3Aamzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=HF43A9YFMT5SGK7VPXSE&pd_rd_wg=2K0A2&pd_rd_r=cf8c4b95-b1cc-4184-9301-d8c7ba100e4b&pd_rd_i=B0BKK2J776&th=1)
+- ~~Color: Khaki~~
+- ~~Size: 40L~~
+- ~~Lowest price: $76.49~~
+- ~~Retrieved 2/15/2025~~
+- [~~Amazon.com~~](https://www.amazon.com/KastKing-Karryall-Backpack-Water-resistant-Equipment/dp/B0BKK2J776/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_1/130-9557692-0529741?pd_rd_w=mkiC1&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a%3Aamzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=HF43A9YFMT5SGK7VPXSE&pd_rd_wg=2K0A2&pd_rd_r=cf8c4b95-b1cc-4184-9301-d8c7ba100e4b&pd_rd_i=B0BKK2J776&th=1)
 
 #### 6. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=49292465963330)
 
@@ -346,13 +310,13 @@
 - Retrieved 2/12/2025
 - [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
 
-#### 6. [Frabill Crappie E-Z Check'R](https://www.frabill.com/products/ez-checkr)
+#### 6. [~~Frabill Crappie E-Z Check'R~~](https://www.frabill.com/products/ez-checkr)
 
 ##### ![Checker](https://www.frabill.com/cdn/shop/files/Frabill_FRBO1440_alt1.jpg?v=1707922237&width=1024)
 
-- Lowest price: $10.38
-- Retrieved 3/6/2025
-- [Amazon.com](https://www.amazon.com/Frabill-Crappie-CheckR-Fish-Measurer/dp/B003CULCCU/ref=sr_1_1?crid=28PXC4MSKQCV8&dib=eyJ2IjoiMSJ9.5QXYzZqGWm7OROjmJ62QKuMvsnM2jvUhSubIZ8Dsylkk4ALhd-rp0vxRVPs6v3HTuyEGMyYrLcj24JXg8MLsMaNzEJ3_xC3Pyfr6tfChiIdQ1uNeRIv1wEwlXXsnWAUNLxpL-YpVbD6pfJWvR8c-DSaJk0Q1OS1D9cYyqgN83b44CIVuHWnGI6M7Y2XJL8zsp-DwWwxY8zVHzzoLgzKGHVtwTFkUFibO5CcMV9ikPTwJYRvvyf7m7S9zLSaudr8jyxlLTkR4oTZJUrcozcQ1iyvbLAveG6wAVeCAlWcKk4RewUU3Ljx3e3GYlpGVhhzyBvSnnIfaDVWIXF6HxGkDe0d_VWxOq8MAAZPEVNom9IUQRhI5jm_uYRT0v7BMAeVY-zWOKAmICuyBsfvaqkCOQ8W2soeQrsa9Mi2zeU8YtI8ErJvEPCfpMkEQWueRp4QW.o1spydpWdwstiQ-KWeOyXwUUETa1u045vdhi0fGP1Ho&dib_tag=se&keywords=rapala+crappie+measure&qid=1741246064&sprefix=rapala+crappie+measure%2Caps%2C101&sr=8-1)
+- ~~Lowest price: $10.38~~
+- ~~Retrieved 3/6/2025~~
+- ~~[Amazon.com](https://www.amazon.com/Frabill-Crappie-CheckR-Fish-Measurer/dp/B003CULCCU/ref=sr_1_1?crid=28PXC4MSKQCV8&dib=eyJ2IjoiMSJ9.5QXYzZqGWm7OROjmJ62QKuMvsnM2jvUhSubIZ8Dsylkk4ALhd-rp0vxRVPs6v3HTuyEGMyYrLcj24JXg8MLsMaNzEJ3_xC3Pyfr6tfChiIdQ1uNeRIv1wEwlXXsnWAUNLxpL-YpVbD6pfJWvR8c-DSaJk0Q1OS1D9cYyqgN83b44CIVuHWnGI6M7Y2XJL8zsp-DwWwxY8zVHzzoLgzKGHVtwTFkUFibO5CcMV9ikPTwJYRvvyf7m7S9zLSaudr8jyxlLTkR4oTZJUrcozcQ1iyvbLAveG6wAVeCAlWcKk4RewUU3Ljx3e3GYlpGVhhzyBvSnnIfaDVWIXF6HxGkDe0d_VWxOq8MAAZPEVNom9IUQRhI5jm_uYRT0v7BMAeVY-zWOKAmICuyBsfvaqkCOQ8W2soeQrsa9Mi2zeU8YtI8ErJvEPCfpMkEQWueRp4QW.o1spydpWdwstiQ-KWeOyXwUUETa1u045vdhi0fGP1Ho&dib_tag=se&keywords=rapala+crappie+measure&qid=1741246064&sprefix=rapala+crappie+measure%2Caps%2C101&sr=8-1)~~
 
 ---
 
@@ -779,64 +743,60 @@
 
 ---
 
-## Strumming
+## Guitar
 
 ### Around $1000
 
-#### 1. [Yamaha Revstar Standard RSS02T](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_guitars/rs_2022/lineup.html#d1547719)
+#### 1. [Metal Guitar](https://www.schecterguitars.com/Damien-Platinum-6-FR-S)
 
-##### ![Yamaha Revstar Standard RSS02T Electric Guitar](https://usa.yamaha.com/files/RSS02T_sunsetburst_f_0001_dc29de61acfb9fa6ff7d6dfe9027caa5.jpg?impolicy=resize&imwid=735&imhei=735?imbypass=on)
+##### ![Schecter Guitar Research, Inc. Damien Platinum-6 FR S](https://www.schecterguitars.com/images/Damien%20Platinum-6%20FR%20S.01.png)
 
-- Color: Sunset Burst
-- Lowest price: $849.99
-- Retrieved 2/10/2025
-- [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarS02TSB--yamaha-revstar-standard-rss02t-electric-guitar-sunset-burst)
+- Lowest price: $1049.00
+- Retrieved 12/2/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/DMP6FRSSBK--schecter-damien-platinum-6-with-floyd-rose-and-sustaniac-satin-black)
+
+#### 2. [Forever Guitar](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_guitars/rs_2022/lineup.html#d1547719)
+
+##### ![Yamaha Revstar Standard RSS02T Electric Guitar - Black](https://usa.yamaha.com/files/RSS02T_black_f_0001_946975edd598e470bdafc1d72bba11f2.jpg?impolicy=resize&imwid=735&imhei=735?imbypass=on)
+
+- Color: Black
+- Lowest price: $929.99
+- Retrieved 12/2/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarS02TBk--yamaha-revstar-standard-rss02t-electric-guitar-black)
+
+#### 3. [Amp Head and Cabinet](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
+
+##### ![Boss Katana Artist Gen 3 100-watt Amplifier Head and Katana 150-watt 2 x 12-inch Cabinet](https://media.sweetwater.com/m/products/image/133bd78bc0uuAPqxlcZW4C4IsOaysJ71eDVOjf0j.png?quality=82&height=750&ha=133bd78bc00a493d)
+
+- Lowest price: $899.98
+- Retrieved 12/2/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
 
 ### Around $700
 
-#### 1. [Sire Larry Carlton H7](https://sire-usa.com/products/h7)
+#### 1. [Beatles/Oasis Guitar](https://sire-usa.com/products/h7)
 
 ##### ![Sire Larry Carlton H7 Guitar](https://cdn.shopify.com/s/files/1/0368/3149/4282/files/body.001_5e888386-7704-4577-9079-30f29f144e57.png?v=1706093567)
 
 - Color: Cherry Sunburst
-- Lowest price: $705.99
-- Retrieved 2/8/2025
+- Lowest price: $799.99
+- Retrieved 12/2/2025
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
 
 ### Around $500
 
-#### 1. [Ibanez AZ24S1F](https://www.ibanez.com/usa/products/detail/az24s1f_5n_01.html)
+#### 1. [Strat](https://sterlingbymusicman.com/products/ct50hss?variant=39929558368371)
 
-##### ![Ibanez AZ24S1F Guitar](https://www.ibanez.com/common/product_artist_file/file/p_region_AZ24S1F_VLS_5N_01_sub_1.jpg)
+##### ![Sterling By Music Man Cutlass CT50HSS](https://sterlingbymusicman.com/cdn/shop/products/CT50HSS-DBLS_shopify_2000x.png?v=1647626254)
 
-- Color: Violin Sunburst
-- Lowest price: $549.99
-- Retrieved 2/10/2025
-- [Sweetwater.com](https://www.sweetwater.com/store/detail/AZ24S1FVLS--ibanez-standard-az24s1f-electric-guitar-violin-sunburst)
-
-### Around $200
-
-#### 1. [Positive Grid Spark 40-Watt 2 x 4-inch Combo Amp](https://www.positivegrid.com/products/spark?variant=42604434129056&irclickid=xFY18IVOfxyKTajQgC2qrTyPUksz2ewl22tqT40&irgwc=1&utm_source=Impact&utm_medium=AffiliateNetwork&utm_campaign=2003851)
-
-##### ![Positive Grid Spark Combo Amp](https://www.positivegrid.com/cdn/shop/products/spark-shopify-hero.png?v=1664261701&amp;width=500)
-
-- Lowest price: $249.99
-- Retrieved 2/10/2025
-- [Sweetwater.com](https://www.sweetwater.com/store/detail/PGSpark--positive-grid-spark-combo-amp)
+- Color: Daphne Blue Satin
+- Lowest price: $439.99
+- Retrieved 12/2/2025
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/CT50HSSDBS--sterling-by-music-man-cutlass-ct50hss-electric-guitar-daphne-blue-satin)
 
 ---
 
 ## Trucking
-
-### Around $150
-
-#### 1. [~~REDTIGER F7N Pro Dual Dash Cam~~](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)
-
-##### ![Dash Cam](https://m.media-amazon.com/images/I/81W1OSAkscL._AC_.jpg)
-
-- ~~Lowest price: $139.99~~
-- ~~Retrieved 2/8/2025~~
-- ~~[Amazon.com](https://www.amazon.com/REDTIGER-STARVIS-Included-F7N-Pro/dp/B0DKSY665F)~~
 
 ### Around $50
 
