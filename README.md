@@ -9,7 +9,7 @@
 ##### ![Fishing Crate](https://cdn11.bigcommerce.com/s-z9gt0fu/products/802/images/9140/blackpak-pro-kayak-fishing-crate-13-x-13-battleship-grey__80496.1713883723.400.400.jpg?c=2)
 
 - Lowest price: $124.95
-- Retrieved 12/11/2024
+- Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/YakAttack-BlackPak-Kayak-Fishing-Crate/dp/B0D78SQPZR/ref=asc_df_B0D78SQPZR?tag=bingshoppinga-20&linkCode=df0&hvadid=80814295299931&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413766404433&psc=1&msclkid=7c65c4ceb3e81051cbbaa3978096c51a)
 
 ---
@@ -20,32 +20,32 @@
 
 ##### ![VISICarbon Pro](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/152/4765/visicarbon-pro-mightymount-and-geartrac-ready-cpm__64534.1709829830.jpg?c=2)
 
-- Lowest price: $95.00
-- Retrieved 12/12/2024
+- Lowest price: $97.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
 
 #### 3. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
 ##### ![ShortStak Upgrade Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
-- Lowest price: $54.95
-- Retrieved 12/11/2024
+- Lowest price: $56.95
+- Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
 #### 4. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 ##### ![Fish Finder Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2)
 
-- Lowest price: $50.00
-- Retrieved 12/15/2024
+- Lowest price: $52.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 #### 5. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
-- Lowest price: $50.00
-- Retrieved 12/11/2024
+- Lowest price: $52.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ---
@@ -56,24 +56,24 @@
 
 ##### ![Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/557/images/4164/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system-rhm-1004__36599.1711019918.400.400.jpg?c=2)
 
-- Lowest price: $42.00
-- Retrieved 12/16/2024
+- Lowest price: $43.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system/)
 
 #### 2. [TracPak with PicPocket QuickDraw and Track Mount](https://www.yakattack.us/tracpak-with-picpocket-quickdraw-and-track-mount/)
 
 ##### ![TracPak with PicPocket QuickDraw and Track Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/743/images/7733/tracpak-with-picpocket-quickdraw-and-track-mount__59817.1702116391.400.400.jpg?c=2)
 
-- Lowest price: $40.00
-- Retrieved 12/15/2024
+- Lowest price: $42.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/tracpak-with-picpocket-quickdraw-and-track-mount/)
 
 #### 3. [DoubleHeader with Dual RotoGrip Paddle Holders](https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/)
 
 ##### ![Paddle Holders](https://cdn11.bigcommerce.com/s-z9gt0fu/products/594/images/5221/doubleheader-with-dual-rotogrip-paddle-holders-tma-1002__85783.1661622469.400.400.jpg?c=2)
 
-- Lowest price: $35.00
-- Retrieved 12/15/2024
+- Lowest price: $36.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/)
 
 #### 4. [7.75" Gear Track Kit 25Q/45Q](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
@@ -88,8 +88,8 @@
 
 ##### ![TetherTube Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/608/images/10827/tethertube-rod-holder-two-pack-with-mounting-hardware__90818.1726513257.400.400.jpg?c=2)
 
-- Lowest price: $25.00
-- Retrieved 12/15/2024
+- Lowest price: $26.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
 
 ---
@@ -100,8 +100,8 @@
 
 ##### ![GridLoc MightyMount with 90 Degree Adapter](https://cdn11.bigcommerce.com/s-z9gt0fu/products/612/images/5290/gridloc-mightymount-with-90-degree-adapter-mmgl-1002__80881.1662054855.400.400.jpg?c=2)
 
-- Lowest price: $20.00
-- Retrieved 12/15/2024
+- Lowest price: $22.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/gridloc-mightymount-with-90-degree-adapter/)
 
 #### 2. [KnotLoc Bungee Dividers, 6-Pack](https://www.yakattack.us/knotloc-bungee-dividers-6-pack/)
@@ -109,15 +109,15 @@
 ##### ![Bungee Dividers](https://cdn11.bigcommerce.com/s-z9gt0fu/products/617/images/5267/knotloc-bungee-dividers-6-pack-blp-ac-0008__42200.1662054825.400.400.jpg?c=2)
 
 - Lowest price: $20.00
-- Retrieved 12/15/2024
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/knotloc-bungee-dividers-6-pack/)
 
-#### 3. [Rigging Bullet™, 8-32 Threads](https://dakotalithium.com/product/dakota-lithium-12v-battery-charger/)
+#### 3. [Rigging Bullet™, 8-32 Threads](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
 ##### ![Rigging Bullet 8-32 Threads](https://cdn11.bigcommerce.com/s-z9gt0fu/products/333/images/4672/rigging-bullet-8-32-threads-rb0832__65467.1710027348.400.400.jpg?c=2)
 
-- Lowest price: $17.00
-- Retrieved 12/12/2024
+- Lowest price: $18.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
 #### 4. [Orion Cooler Gasket](https://jacksonkayak.com/orion-cooler-gasket/)
@@ -126,7 +126,7 @@
 
 - Size: 25 quart
 - Lowest price: $15.99
-- Retrieved 12/18/2024
+- Retrieved 12/4/2025
 - [JacksonKayak.com](https://jacksonkayak.com/orion-cooler-gasket/)
 
 ---
@@ -138,8 +138,8 @@
 ##### ![GearTrac 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/products/221/images/4133/gtsl90-geartrac-4-black-gtsl90-bk04__38198.1709840019.400.400.jpg?c=2)
 
 - Quantity: 2
-- Lowest price: $10.00
-- Retrieved 12/12/2024
+- Lowest price: $12.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
 
 #### 2. [FullBack™ Backing Plate for GT90, GTTL90, GTSL90 4'' GearTrac](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
@@ -147,8 +147,8 @@
 ##### ![Backing Plate 4''](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/180/4683/fullback-backing-plate-for-gt90-gttl90-gtsl90-4-geartrac-fb-gt90-04__40598.1710184916.jpg?c=2)
 
 - Quantity: 2
-- Lowest price: $10.00
-- Retrieved 12/12/2024
+- Lowest price: $12.00
+- Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
 
 ---
@@ -157,107 +157,50 @@
 
 ### Under $100
 
-#### 1. [Tatula Bass Rod](https://daiwa.us/products/tatula-bass-rods)
-
-##### ![Bass Rod](https://daiwa.us/cdn/shop/products/TTU741HRB_1_73a1405f-c300-4533-a156-9ec047f49291_1000x.png?v=1678305057)
-
-- Size: 7 feet
-- Power: Medium light - regular
-- Lowest price: $129.97
-- Retrieved 3/4/2025
-- [TackleWarehouse.com](https://www.tacklewarehouse.com/Daiwa_Tatula_Casting_Rods/descpage-DTCR.html)
-
-#### 2. [~~Ultegra 1000 FC~~](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f000035yx29qaa.html)
-
-##### ![Shimano Reel](https://img.tacklewarehouse.com/watermark/rs.php?path=UCTS-3.jpg&nw=551)
-
-- ~~Size: 1000~~
-- ~~Lowest price: $119.99~~
-- ~~Retrieved 2/12/2025~~
-- [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Shimano_Ultegra_Spinning_Reels/descpage-UCTS.html)
-
-#### 3. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
+#### 1. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
 
 ##### ![Rod](https://www.eurotackle.net/cdn/shop/files/MF66UL-BFS-MAIN.jpg?v=1740841698&width=1600)
 
 - Size: 6 foot 6 inches
 - Power: Ultra light
 - Lowest price: $99.99
-- Retrieved 3/4/2025
+- Retrieved 12/4/2025
 - [FishUSA.com](https://www.fishusa.com/Eurotackle-Rise-Spinning-Rods/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 4. [~~Duckett Fishing Crappie Slayer Spinning Rod~~](https://duckettfishing.com/product/crappie-slayer/)
+#### 2. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=55763231113585)
 
-##### ![Spinning Rod](https://duckettfishing.com/wp-content/uploads/2023/02/Crappie-Slayer-1-650x650.png)
-
-- ~~Size: 6 foot 6 inches~~
-- ~~Power: Light~~
-- ~~Lowest price: $79.00~~
-- ~~Retrieved 2/08/2025~~
-- [~~TackleWarehouse.com~~](https://www.tacklewarehouse.com/Duckett_Fishing_Crappie_Slayer_Series_Spinning_Rods/descpage-DJCCS.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
-
-#### 5. [~~Karryall Tackle Backpack with Rod Holders 4 Tackle Boxes~~](https://kastking.com/products/kastking-karryall-fishing-tackle-backpack-with-rod-holders-4-tackle-boxes?variant=44131403137261)
-
-##### ![Backpack](https://kastking.com/cdn/shop/files/00KarryallTackleFishingBackpack1600x1600_3_-2.jpg?v=1714037770)
-
-- ~~Color: Khaki~~
-- ~~Size: 40L~~
-- ~~Lowest price: $76.49~~
-- ~~Retrieved 2/15/2025~~
-- [~~Amazon.com~~](https://www.amazon.com/KastKing-Karryall-Backpack-Water-resistant-Equipment/dp/B0BKK2J776/ref=pd_lutyp_ci_mcx_mr_typ_d_d_sccl_1_1/130-9557692-0529741?pd_rd_w=mkiC1&content-id=amzn1.sym.6d5cc53c-d973-4a51-b7c1-260d7f897f5a%3Aamzn1.symc.823e1c6a-2574-48c0-adf8-391b275ad0d6&pf_rd_p=6d5cc53c-d973-4a51-b7c1-260d7f897f5a&pf_rd_r=HF43A9YFMT5SGK7VPXSE&pd_rd_wg=2K0A2&pd_rd_r=cf8c4b95-b1cc-4184-9301-d8c7ba100e4b&pd_rd_i=B0BKK2J776&th=1)
-
-#### 6. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=49292465963330)
-
-##### ![Elite Casting Rod](https://www.uglystik.com/cdn/shop/files/Ugly_Stik_Elite_Casting_Rod_A_alt3.jpg?v=1720615059&width=1024)
+##### ![Elite Casting Rod](https://www.uglystik.com/cdn/shop/files/UGL_EliteCastingRod_1581950_alt1.jpg?v=1756409611&width=1920)
 
 - Size: 7 feet
-- Lowest price: $69.95
-- Retrieved 3/22/2025
-- [Amazon.com](https://www.amazon.com/Ugly-Stik-Elite-Casting-Rod/dp/B00VS0QR4E/ref=sr_1_4?crid=VXP5QHD2VOHG&dib=eyJ2IjoiMSJ9.dqrXpSj6mWr417-kYINvKm2NyrqH5FLdgiLNe3kkj9guyga8IhhKQYAVRObTEfl67RbKmGWnQoEl4xifdXM2gGEf6Yj2eLypy1Sifss_DDB3AcrTNVRDk6M29tjJA_65EiCxuuhYrk4Y05VKNhl5KKe3By9fYIblQTetR65KjgrhionRGgtmB9MuwyCJTePzGjbkotM6-cI9h8g5OBf6TE2qfVlgOuqEsRcOGv73Nig.TWY-hiX5nlidTxNSLO-AYByGoqgU16HJZ4RguwTiOT0&dib_tag=se&keywords=Shakespeare%2BUgly%2BStik%2BElite%2BUltralight%2FFast%2Bbfs&qid=1742678396&sprefix=shakespeare%2Bugly%2Bstik%2Belite%2Bultralight%2Ffast%2Bbfs%2Caps%2C108&sr=8-4&th=1)
+- Lowest price: $84.95
+- Retrieved 12/4/2025
+- [Amazon.com](https://www.amazon.com/Ugly-Stik-Elite-Casting-Rod/dp/B0FJSP1K1M/ref=sr_1_4?crid=VXP5QHD2VOHG&dib=eyJ2IjoiMSJ9.dqrXpSj6mWr417-kYINvKm2NyrqH5FLdgiLNe3kkj9guyga8IhhKQYAVRObTEfl67RbKmGWnQoEl4xifdXM2gGEf6Yj2eLypy1Sifss_DDB3AcrTNVRDk6M29tjJA_65EiCxuuhYrk4Y05VKNhl5KKe3By9fYIblQTetR65KjgrhionRGgtmB9MuwyCJTePzGjbkotM6-cI9h8g5OBf6TE2qfVlgOuqEsRcOGv73Nig.TWY-hiX5nlidTxNSLO-AYByGoqgU16HJZ4RguwTiOT0&dib_tag=se&keywords=Shakespeare%2BUgly%2BStik%2BElite%2BUltralight%2FFast%2Bbfs&qid=1742678396&sprefix=shakespeare%2Bugly%2Bstik%2Belite%2Bultralight%2Ffast%2Bbfs%2Caps%2C108&sr=8-4&th=1&psc=1)
 
-#### 7. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 3. [Piscifun®Carbon X II Spinning Reels Best Ultralight Spinning Fishing Reel](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
+
+##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/SRL009-CarbonXII-2000-1.png?v=1716217999&width=630)
+
+- Size: 2000
+- Color: Black
+- Lowest price: $67.99
+- Retrieved 12/4/2025
+- [Piscifun.com](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
+
+#### 4. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
 
 - Lowest price: $51.99
-- Retrieved 12/12/2024
+- Retrieved 12/4/2025
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 8. [~~Shimano Sensilite Spinning A~~](https://fish.shimano.com/en-US/product/rods/trout_panfish/sensilite_spinning_a.html)
-
-##### ![Shimano Sensilite Spinning Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/640w/products/14342/44767/sku-SENS60LA-set__03820.1697118125.jpg?c=1)
-
-- ~~Size: 6 foot 6 inches~~
-- ~~Power: Ultralight~~
-- ~~Lowest price: $49.99~~
-- ~~Retrieved 2/10/2025~~
-- [~~FishUSA.com~~](https://www.fishusa.com/shimano-sensilite-spinning-rod/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
-
-#### 9. [Thump Net](https://thumpgel.com/products/thump-net)
+#### 5. [Thump Net](https://thumpgel.com/products/thump-net)
 
 ##### ![Thump Net](https://thumpgel.com/cdn/shop/files/Thump_Net_picture_713x.png?v=1739896555)
 
-- Lowest price: $49.99
-- Retrieved 3/6/2025
+- Lowest price: $49.95
+- Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/Thump-Gel-Net/dp/B0CNBMT982/ref=sr_1_1?crid=160JR3QRRF6BK&dib=eyJ2IjoiMSJ9.pXtsun2oRPOlpiThD87FGs7_rDBy4W0ppe2Es8wzz-pNtsu6Z9wkrU3RceN5rIL8cn18HKGDnK3FT6k1vXh2TODhoVxlqPDE1H3sl3NOy13Dl7gI-tTlFFA4qg51xVlzTslXT_2CpNJq_8_N1Px-LHN26Qs7fA8tj48TiU1s3Gl9GRIB-AGLGewxNgV7od7_hRqqSdUn0dfoVPaOBPopEL9yjVJda7GXVs8BVzaeUqjlxlFDs_AL-M9LPZ-Leg1Y8kd6htEwGw7EWY_GSuk1YiCdYTfa5JliiIjrIEK0svXaqAZRDjfXSAWqIRVvjNIJRsQBH_OV7_ZVaWuLdLz3Zvd7kKrCDTcTFLJJHB3WjGAMCR2fx_hX5czGtusxlH9Bb8z9CeEaN0VuPCFIUvrfTkfc8X3sq1m11PFte5YK9laJfMcI8aJNesVO-hg9s-bC.HJ95hj1SXLY0oj3iZHljixUUp1SxbGhBFfEkkJ_eYgc&dib_tag=se&keywords=thumb+net&qid=1741246283&sprefix=thump+net%2Caps%2C140&sr=8-1)
-
-#### 10. [Piscifun Viper X Spinning Reel High Speed Fishing Reel](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
-
-##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/PiscifunViperXSpinningReel1-1_2000_3000.jpg?v=1603786886&width=630)
-
-- Size: 2000
-- Lowest price: $39.99
-- Retrieved 2/10/2025
-- [Piscifun.com](https://www.piscifun.com/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000?variant=12722170494999)
-
-#### 11. [~~M1 Spinning Reel Size 500~~](https://handingfishing.com/products/handing-m1-spinning-reel)
-
-##### ![M1 Spinning Reel](https://handingfishing.com/cdn/shop/files/1_e8a25e80-8e3c-4dd9-a6a2-5f3bd1e8b6b1.png?v=1716884425&amp;width=500)
-
-- ~~Size: 500~~
-- ~~Lowest price: $25.99~~
-- ~~Retrieved 2/10/2025~~
-- [~~Amazon.com~~](https://www.amazon.com/HANDING-Spinning-Freshwater-Fishing-Bearings/dp/B0CHVQSN86?hvadid=692875362841&hvpos=&hvnetw=g&hvrand=16744729412549816810&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9014639&hvtargid=pla-2281435180778&mcid=1c5b3cd34c94389682b9ea6380f88d62&hvocijid=16744729412549816810-B0CHVQSN86-&hvexpln=73&th=1&linkCode=ll1&tag=w2f-best-spinning-reels-for-fishing-20&linkId=918a901af0eadf2093b673831b006e3f&language=en_US&ref_=as_li_ss_tl&psc=1)
 
 ---
 
@@ -270,26 +213,6 @@
 - Lowest price: $24.99
 - Retrieved 12/11/2024
 - [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
-
-#### 2. [~~TMJ Tungsten Mongo Jig Kit~~](https://www.rapala.com/us_en/tmj-tungsten-mongo-jig-kit?childSku=us-TMJ132G6-2)
-
-##### ![Mongo Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/3/8/3810965c1208f0_t7jor86kud0rn8fppvm8gb5b1u_ab4bed1a.png)
-
-- ~~Color: Glow Tiger~~
-- ~~Weight: 1/32 oz.~~
-- ~~Lowest price: $14.87~~
-- ~~Retrieved 2/12/2025~~
-- [~~Amazon.com~~](https://www.amazon.com/VMC-Tungsten-Mongo-Jig-Glow/dp/B0B7SNGP29/ref=sr_1_1?crid=1WX7GE1DC45UG&dib=eyJ2IjoiMSJ9.NESPaIdJzqbyZ-nQBYl-wPKfOj3i9MRRTkZQvS5o14ETyJCFywD8O7G9N9dhq65e5SWq3gqRBMNqnk2Rg8gnW-fG7h9z_m6LKotgiF52Q3W17JgEfmGP9cqen2gjKBP7aXc25TyoRaPqkUplrKuAtSA2NkeeEevx1EVKBRnbLEz6YtSCkuUuOVyCoiHqf7ad-qyAM3EbU3gPOjscg8fo4DJwwHzcknXL5wrYmLR2vNjdv0sVrP1NNxW39UE6Z7IkONI1N7nKNlxeAT0iQAxTlmqCsLIMnN6zLvNQI6K2WSIKxpiLtP1ULOwK-zwVKNenoOl4v2q9mQf4APXbrYk-GnwqZLoJMgYaKApoG9TubE8.78qEGyIOFHRGoz05vgBhqOiLFyQC02MPOgmcn3IKr5E&dib_tag=se&keywords=VMC+Tungsten+mongo+Jig+Kit+1%2F32+Oz.+Glow&qid=1739420647&s=sporting-goods&sprefix=vmc+tungsten+mongo+jig+kit+1%2F32+oz.+glow%2Csporting%2C83&sr=1-1)
-
-#### 3. [~~VMC Tungsten Tubby Jig Kit 1/32 Oz. Glow~~](https://www.rapala.com/us_en/tungsten-tubby-jig-kit)
-
-##### ![Tungsten Tubby Jig Kit](https://www.rapala.eu/img/940/940/resize/catalog/product/a/4/a4208483050cf3_7gj8ul0k3t3arf394cs5vqfs1g_45a83aa3.png)
-
-- ~~Color: Glow~~
-- ~~Weight: 1/32 oz.~~
-- ~~Lowest price: $13.99~~
-- ~~Retrieved 2/12/2025~~
-- [~~Amazon.com~~](https://www.amazon.com/VMC-TTJ132G6-Tungsten-Tubby-Jig/dp/B01N57G3KQ/ref=sr_1_1?crid=1T7XQD1SMIDFT&dib=eyJ2IjoiMSJ9.VdvsV1PZbdDlNYvRpDBIFlkzSpZII5SqvNgu4KChRQM2HZLRvKaksnOa14U1KEueC0-LnUv4Qu0Zvib2jZysU3xO4AUui4XPtUO6jBd_6cHD4RfXrdpIcpVkyOUqLRWFWwbdTCTBUwFi_iz74Z2D6fXfxxfBXTCP9vHB9XGvFwKD0p7T_Z20O_ez-EHGPybfst974XRRCeezLRjUc4MlnznBN_U-JKypkT5bBPu3rbzi3BDzfCLUPLUH0JK8d8S5vSite2EsVAfVDepYb6dB3X61yhbI_Ez5nJkMHexUtbR6jP7GHEijor-JcznmCxjmfVnqb3pQKaUq0uzK6ebL8KjvbSX5Nu1CV7dqY-AINhs.b9k43UTUcQmCMqFVA6JkXjS9LcVKRi9eNKXsAk_9mTk&dib_tag=se&keywords=VMC+Tungsten+Tubby+Jig+Kit+1%2F32+Oz.+Glow&qid=1739419986&s=sporting-goods&sprefix=vmc+tungsten+tubby+jig+kit+1%2F32+oz.+glow%2Csporting%2C82&sr=1-1)
 
 #### 4. [Bottom Magic](https://jackson-quon.com/product/2083/)
 
@@ -309,14 +232,6 @@
 - Lowest price: $12.49
 - Retrieved 2/12/2025
 - [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
-
-#### 6. [~~Frabill Crappie E-Z Check'R~~](https://www.frabill.com/products/ez-checkr)
-
-##### ![Checker](https://www.frabill.com/cdn/shop/files/Frabill_FRBO1440_alt1.jpg?v=1707922237&width=1024)
-
-- ~~Lowest price: $10.38~~
-- ~~Retrieved 3/6/2025~~
-- ~~[Amazon.com](https://www.amazon.com/Frabill-Crappie-CheckR-Fish-Measurer/dp/B003CULCCU/ref=sr_1_1?crid=28PXC4MSKQCV8&dib=eyJ2IjoiMSJ9.5QXYzZqGWm7OROjmJ62QKuMvsnM2jvUhSubIZ8Dsylkk4ALhd-rp0vxRVPs6v3HTuyEGMyYrLcj24JXg8MLsMaNzEJ3_xC3Pyfr6tfChiIdQ1uNeRIv1wEwlXXsnWAUNLxpL-YpVbD6pfJWvR8c-DSaJk0Q1OS1D9cYyqgN83b44CIVuHWnGI6M7Y2XJL8zsp-DwWwxY8zVHzzoLgzKGHVtwTFkUFibO5CcMV9ikPTwJYRvvyf7m7S9zLSaudr8jyxlLTkR4oTZJUrcozcQ1iyvbLAveG6wAVeCAlWcKk4RewUU3Ljx3e3GYlpGVhhzyBvSnnIfaDVWIXF6HxGkDe0d_VWxOq8MAAZPEVNom9IUQRhI5jm_uYRT0v7BMAeVY-zWOKAmICuyBsfvaqkCOQ8W2soeQrsa9Mi2zeU8YtI8ErJvEPCfpMkEQWueRp4QW.o1spydpWdwstiQ-KWeOyXwUUETa1u045vdhi0fGP1Ho&dib_tag=se&keywords=rapala+crappie+measure&qid=1741246064&sprefix=rapala+crappie+measure%2Caps%2C101&sr=8-1)~~
 
 ---
 
