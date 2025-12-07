@@ -1,4 +1,4 @@
-# 2024 X-mas Wishlist
+# 2025 X-mas Wishlist
 
 ## Kayak
 
@@ -24,7 +24,7 @@
 - Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
 
-#### 3. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
+#### 2. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
 ##### ![ShortStak Upgrade Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
@@ -32,7 +32,7 @@
 - Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
-#### 4. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
+#### 3. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 ##### ![Fish Finder Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2)
 
@@ -40,7 +40,7 @@
 - Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
-#### 5. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+#### 4. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
@@ -167,7 +167,17 @@
 - Retrieved 12/4/2025
 - [FishUSA.com](https://www.fishusa.com/Eurotackle-Rise-Spinning-Rods/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 2. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=55763231113585)
+#### 2. [Kestrel Bait Finesse System Finesse Baitcasting Reel](https://kastking.com/products/kastking-kestrel-bfs-casting-reel?variant=45296244130029)
+
+##### ![Kestrel Bait Finesse System Finesse Baitcasting Reel](https://kastking.com/cdn/shop/files/01KestrelBFS1600x1600_1_-4.jpg?v=1710921764)
+
+- Ratio: 7:5:1
+- Handle: Left-handed
+- Lowest price: $96.00
+- Retrieved 12/7/2025
+- [KastKing.com](https://kastking.com/products/kastking-kestrel-bfs-casting-reel?variant=45296244130029)
+
+#### 3. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=55763231113585)
 
 ##### ![Elite Casting Rod](https://www.uglystik.com/cdn/shop/files/UGL_EliteCastingRod_1581950_alt1.jpg?v=1756409611&width=1920)
 
@@ -176,7 +186,7 @@
 - Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/Ugly-Stik-Elite-Casting-Rod/dp/B0FJSP1K1M/ref=sr_1_4?crid=VXP5QHD2VOHG&dib=eyJ2IjoiMSJ9.dqrXpSj6mWr417-kYINvKm2NyrqH5FLdgiLNe3kkj9guyga8IhhKQYAVRObTEfl67RbKmGWnQoEl4xifdXM2gGEf6Yj2eLypy1Sifss_DDB3AcrTNVRDk6M29tjJA_65EiCxuuhYrk4Y05VKNhl5KKe3By9fYIblQTetR65KjgrhionRGgtmB9MuwyCJTePzGjbkotM6-cI9h8g5OBf6TE2qfVlgOuqEsRcOGv73Nig.TWY-hiX5nlidTxNSLO-AYByGoqgU16HJZ4RguwTiOT0&dib_tag=se&keywords=Shakespeare%2BUgly%2BStik%2BElite%2BUltralight%2FFast%2Bbfs&qid=1742678396&sprefix=shakespeare%2Bugly%2Bstik%2Belite%2Bultralight%2Ffast%2Bbfs%2Caps%2C108&sr=8-4&th=1&psc=1)
 
-#### 3. [Piscifun®Carbon X II Spinning Reels Best Ultralight Spinning Fishing Reel](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
+#### 4. [Piscifun®Carbon X II Spinning Reels Best Ultralight Spinning Fishing Reel](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
 
 ##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/SRL009-CarbonXII-2000-1.png?v=1716217999&width=630)
 
@@ -186,15 +196,15 @@
 - Retrieved 12/4/2025
 - [Piscifun.com](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
 
-#### 4. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 5. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/640w/products/324/943/SG133-7_1__41839.1675111790.png?c=1)
+##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/960w/products/324/1099/SG133-7EG_ASIN_B0853FDFPV_copy__56671.1752257046.jpg?c=1)
 
 - Lowest price: $51.99
 - Retrieved 12/4/2025
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
-#### 5. [Thump Net](https://thumpgel.com/products/thump-net)
+#### 6. [Thump Net](https://thumpgel.com/products/thump-net)
 
 ##### ![Thump Net](https://thumpgel.com/cdn/shop/files/Thump_Net_picture_713x.png?v=1739896555)
 
@@ -206,58 +216,86 @@
 
 ### Under $25
 
-#### 1. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
-
-##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
-
-- Lowest price: $24.99
-- Retrieved 12/11/2024
-- [Sportsmans.com](https://www.sportsmans.com/fishing-gear-supplies/hard-tackle-boxes/flambeau-slim-ultimate-tuff-tainer-hard-tackle-box-blueclear/p/1838202?channel=shopping&msclkid=e997546222191d307c53333b62b40fe6&utm_source=bing&utm_medium=cpc&utm_campaign=Bing%20-%20Shopping%20-%20Catch-All&utm_term=4580221853516790&utm_content=Shopping%20-%20Catch-All)
-
-#### 4. [Bottom Magic](https://jackson-quon.com/product/2083/)
+#### 1. [Bottom Magic](https://jackson-quon.com/product/2083/)
 
 ##### ![Plug](https://s3.ap-northeast-1.amazonaws.com/cdn.jackson-quon.com/wordpress/wp-content/uploads/2019/03/24123039/gal.jpg)
 
-- Color: Glow albino, red glow chart pink, and about shad iii
+- Color: Red glow chart pink, and about shad iii
 - Model: Light tune
-- Lowest price: $13.99
-- Retrieved 2/12/2025
+- Lowest price: $18.99
+- Retrieved 12/7/2025
 - [BaitFinesseEmpire.com](https://baitfinesseempire.com/product/jackson-bottom-magic-light-tune/)
 
-#### 5. [X-Rap XR04](https://www.rapala.com/us_en/x-rap?childSku=us-XR04BTR)
+#### 2. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
 
-##### ![XR04](https://www.rapala.eu/img/940/940/resize/catalog/product/0/0/00a6ee895f766d_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png)
+##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
+
+- Lowest price: $15.27
+- Retrieved 12/7/2025
+- [DicksSportingGoods.com](https://www.dickssportinggoods.com/p/flambeau-terminal-ultimate-slim-waterproof-tuff-tainer-22fmbutrmnlltmttftbx/22fmbutrmnlltmttftbx?sku=24229557&camp=CSE:DSG_2301622352571_PLA_pla-4583383006479164&gclid=6a750d5125ad173be72664643dac8da9&gclsrc=3p.ds&msclkid=6a750d5125ad173be72664643dac8da9)
+
+#### 3. [Mukai B-Chatter Pink](https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1)
+
+##### ![Mukai Chatter Bait Pink](https://m.media-amazon.com/images/I/211m85ieOwS._AC_.jpg)
+
+- Colors: Pink
+- Lowest price: $15.70
+- Retrieved 12/7/2025
+- [Amazon.com](https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1)
+
+#### 4. [Mukai B-Chatter Chartreuse](https://www.amazon.com/Mukai-B-CHATTER-Solid-Color-0-08/dp/B096QZTNVC?th=1)
+
+##### ![Mukai Chatter Bait Chartreuse](https://m.media-amazon.com/images/I/21tAzNNPqTS._AC_.jpg)
+
+- Colors: Chartreuse
+- Lowest price: $15.20
+- Retrieved 12/7/2025
+- [Amazon.com](https://www.amazon.com/Mukai-B-CHATTER-Solid-Color-0-08/dp/B096QZTNVC?th=1)
+
+#### 4. [X-Rap XR04](https://www.rapala.com/us_en/x-rap?childSku=us-XR04BTR)
+
+##### ![XR04](https://www.rapala.eu/img/940/940/resize/catalog/product/c/f/cf01e8ce7c6cef_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png)
 
 - Color: Yellow perch, glass ghost, brown trout, and brook trout
 - Lowest price: $12.49
-- Retrieved 2/12/2025
-- [Scheels.com](https://www.scheels.com/p/02267717919/?msclkid=4831cf0ff45712ddcabaa8a29b45714b&utm_source=bing&utm_medium=cpc&utm_campaign=Non-Branded_DSA_PDP&utm_term=23&utm_content=Non-Branded_DSA_Product%20Pages)
+- Retrieved 12/7/2025
+- [FishUSA.com](https://www.fishusa.com/Rapala-XRap-Lures/?sku=120449&msclkid=8fab668095d9147609070fb58fcd5b13&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20%7C%20Low%20Margin%20%26%20Clearance&utm_term=4585375813391439&utm_content=Low)
 
 ---
 
 ### Under $10
 
-#### 1. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1192686678/crawdad-orange-tungsten-pine-squirrel?ref=ap-listing&variation0=2542243350&variation1=2542243342)
+#### 1. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
 
-##### ![Crawdad Leech Jig](https://i.etsystatic.com/16918109/r/il/d5186b/3823243221/il_794xN.3823243221_6gdf.jpg)
-
-- Size: 10
-- Quantity: 3
-- Lowest price: $9.77
-- Retrieved 2/12/2025
-- [Etsy.com](https://www.etsy.com/listing/1192686678/crawdad-orange-tungsten-pine-squirrel?ref=ap-listing&variation0=2542243350&variation1=2542243342)
-
-#### 2. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1094752820/olive-tungsten-pine-squirrel-leech-jig?click_key=f5d1e796c251df584d65c40a9712c915b77593ef%3A1094752820&click_sum=4992c27f&ref=related-3&variation0=2313753339&variation1=2288558732)
-
-##### ![Olive Leech Jig](https://i.etsystatic.com/16918109/r/il/fafa77/3421741052/il_794xN.3421741052_fobb.jpg)
+##### ![Crawdad Leech Jig](https://i.etsystatic.com/49399853/r/il/ac00ba/6543450288/il_1588xN.6543450288_8h2f.jpg)
 
 - Size: 10
 - Quantity: 3
-- Lowest price: $9.77
-- Retrieved 2/12/2025
-- [Etsy.com](https://www.etsy.com/listing/1094752820/olive-tungsten-pine-squirrel-leech-jig?click_key=f5d1e796c251df584d65c40a9712c915b77593ef%3A1094752820&click_sum=4992c27f&ref=related-3&variation0=2313753339&variation1=2288558732)
+- Lowest price: $3.15
+- Retrieved 12/7/2025
+- [Etsy.com](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
 
-#### 3. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
+#### 2. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
+
+##### ![Olive Leech Jig](https://i.etsystatic.com/49399853/r/il/60f878/6543487454/il_1588xN.6543487454_ksb6.jpg)
+
+- Size: 10
+- Quantity: 3
+- Lowest price: $3.15
+- Retrieved 12/7/2025
+- [Etsy.com](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
+
+#### 3. [Olive Tungsten Pine Squirrel Rubber Leg Leech](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
+
+##### ![Olive Pine Squirrel Rubber Leg Leech](https://i.etsystatic.com/49399853/r/il/a8d5e7/6594353529/il_1588xN.6594353529_4ueg.jpg)
+
+- Size: 10
+- Quantity: 3
+- Lowest price: $3.15
+- Retrieved 12/7/2025
+- [Etsy.com](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
+
+#### 4. [ZAZA Hellgrammite 3inch](https://nikko-fishing.com/product/zaza-hellgrammite-3inch/)
 
 ##### ![Hellgrammite](https://nikko-fishing.com/lfwp/wp-content/uploads/2023/10/ZAZA_Hellgrammite_3inch_C07.jpg)
 
@@ -266,14 +304,6 @@
 - Retrieved 12/11/2024
 - [PublicLands.com](https://www.publiclands.com/p/nikko-hellgrammite-soft-bait-23jmbunkkhllgrmmtlur/23jmbunkkhllgrmmtlur?sku=24904688&camp=CSE:PBL_92700080009623969_PLA_pla-4583245563665324&gclsrc=3p.ds&gclsrc=3p.ds&msclkid=d369dbf6ebcd102f708bbcaf2ebddb66&gclid=d369dbf6ebcd102f708bbcaf2ebddb66)
 
-#### 4. [Mukai B-Chatter](https://www.mukai-fishing.jp/archives/922.html)
-
-##### ![Mukai Chatter Bait](https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit%2Cfl_lossy%2Ch_3000%2Cw_2000%2Cf_auto%2Cq_auto/1254817/617865_495958.png)
-
-- Colors: Pink, chartreuse, orange
-- Lowest price: $8.99
-- Retrieved 3/6/2025
-- [Trout-Lures.com](https://www.trout-lures.com/store/products/mukai-b-chatter)
 
 #### 5. [Tungsten Jig Heads](https://widowmakerlures.com/)
 
