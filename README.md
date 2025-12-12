@@ -543,7 +543,7 @@
 
 ##### ![Swimbait](https://rorolure.com/cdn/shop/products/softBait05_590x.png?v=1642036746)
 
-- Colors: A, c,k, g, p, q
+- Colors: A, c, k, g, p, q
 - Lowest price: $2.99
 - Retrieved 12/11/2025
 - [RoroLure.com](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
