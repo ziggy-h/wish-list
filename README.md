@@ -390,23 +390,32 @@
 - Retrieved 12/11/2025
 - [FishUSA.com](https://www.fishusa.com/Z-Man-Micro-Finesse-Micro-Wormz/)
 
-#### 4. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
+#### 3. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
 
 ##### ![Hawken Float](https://hawkenfishing.com/cdn/shop/products/AF8.jpg?v=1593468707&width=900)
 
 - Size: 1/32 oz.
 - Lowest price: $4.99
-- Retrieved 2/15/2025
-- [FishUSA.com](https://www.fishusa.com/Hawken-Aero-Float-AF-8-Series-Float/?sku=225867)
+- Retrieved 12/11/2025
+- [FishUSA.com](https://www.fishusa.com/Hawken-Aero-Float-AF-8-Series-Float/)
 
-#### 5. [Thill Wobble Bobber](https://www.fishusa.com/Thill-Wobble-Bobbers/?sku=111668)
+#### 4. [Thill Wobble Bobber](https://www.fishusa.com/Thill-Wobble-Bobbers/)
 
 ##### ![Thill Bobber](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/original/products/1811/17730/media__03729.1660243203.jpg?c=1)
 
 - Size: 1/16 oz.
 - Lowest price: $4.99
-- Retrieved 2/15/2025
-- [FishUSA.com](https://www.fishusa.com/Thill-Wobble-Bobbers/?sku=111668)
+- Retrieved 12/11/2025
+- [FishUSA.com](https://www.fishusa.com/Thill-Wobble-Bobbers/)
+
+#### 5. [Flashback Mini](https://zmanfishing.com/products/flashback-r-mini)
+
+##### ![Chatterbait](https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603)
+
+- Colors: Chartreuse rainbow, gold black, silver natural
+- Lowest price: $4.99
+- Retrieved 12/11/2025
+- [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
 #### 6. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/)
 
@@ -417,99 +426,90 @@
 - Retrieved 12/10/2025
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/)
 
-#### 7. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
+#### 7. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+
+##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
+
+- Colors: Chartreuse, white, fire red, pink, and green pumpkin
+- Lowest price: $4.49
+- Retrieved 12/11/2025
+- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
+
+#### 8. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+
+##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
+
+- Colors: Chartreuse, white, fire red, pink, and green pumpkin
+- Lowest price: $4.49
+- Retrieved 12/11/2025
+- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
+
+#### 9. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
+
+##### ![Slab Slanger](https://mrcrappie.com/cdn/shop/products/MRCSS-48.jpg?v=1519842248&width=750)
+
+- Colors: Pumpkinseed/chartreuse
+- Lowest price: $4.49
+- Retrieved 12/11/2025
+- [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
+
+#### 10. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Bugger](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/216/1092/Colalge_all_6__42278.1730214311.jpg?c=2)
 
 - Colors: Pink/white, red/yellow, and yellow/black
 - Size: 1/32 oz.
 - Lowest price: $4.39
-- Retrieved 2/12/2025
+- Retrieved 12/11/2025
 - [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
-#### 8. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
-
-##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830)
-
-- Colors: Chartreuse, white, fire red, pink, and green pumpkin
-- Lowest price: $4.29
-- Retrieved 12/11/2024
-- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
-
-#### 9. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
-
-##### ![Mule Jig](https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662)
-
-- Colors: Chartreuse, white, fire red, pink, and green pumpkin
-- Lowest price: $4.29
-- Retrieved 2/11/2025
-- [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
-
-#### 10. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
+#### 11. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
 
 ##### ![Micro TRD](https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319)
 
-- Colors: Coppertreuse, the Deal, fire craw, pb&j, and green pumpkin
+- Colors: The Deal, fire craw, and pb&j
 - Lowest price: $4.24
 - Retrieved 12/11/2024
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
-
-#### 11. [Flashback Mini](https://zmanfishing.com/products/flashback-r-mini)
-
-##### ![Chatterbait](https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603)
-
-- Colors: Chartreuse rainbow, gold black, silver natural
-- Lowest price: $3.99
-- Retrieved 3/4/2025
-- [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
 #### 12. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
 - Colors: Black magic, radioactive pickle, snozberry, white no. 1
-- Lowest price: $3.49
-- Retrieved 12/11/2024
-- [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/?msockid=0c4148de0c71624312805de10d276363)
+- Lowest price: $3.99
+- Retrieved 12/11/2025
+- [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/)
 
 #### 13. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
 
-##### ![Coconut Crab](https://www.rapala.eu/img/310/300/resize/catalog/product/f/e/fe5cb395dab4a4_rgiojv0qap7c333m7j7bu7eo77_902842a0.png)
+##### ![Coconut Crab](https://www.rapala.eu/img/940/940/resize/catalog/product/b/7/b756ec5e43a697_f4jf2po04p6ot7jvf9hj157h0b_55a78ba6.png)
 
 - Colors: Panfish whiskey sour and radioactive pickle
-- Lowest price: $3.49
-- Retrieved 12/11/2024
+- Lowest price: $3.99
+- Retrieved 12/11/2025
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
-#### 14. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
-
-##### ![Slab Slanger](https://store.mrcrappie.com/cdn/shop/products/MRCSS-41_1024x1024.jpg?v=1519842248)
-
-- Colors: Pumpkinseed/chartreuse
-- Lowest price: $3.49
-- Retrieved 12/11/2024
-- [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
-
-#### 15. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
+#### 14. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
 
 ##### ![Road runner](https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png)
 
 - Size: 1/16 oz.
 - Colors: Glacier, ice out, pink/white, and white
-- Lowest price: $3.49
-- Retrieved 12/11/2024
-- [FishUSA.com](https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+- Lowest price: $3.79
+- Retrieved 12/11/2025
+- [FishUSA.com](https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/)
 
-#### 16. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
+#### 15. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
 
 ##### ![Brush Bandit](https://static.wixstatic.com/media/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg/v1/fill/w_296,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg)
 
-- Colors: Glow blue, glow chartreuse, glow pink, orange sunrise, and snowflake
+- Colors: Glow blue, glow chartreuse, glow pink, and orange sunrise
 - Lowest price: $3.29
-- Retrieved 2/15/2025
+- Retrieved 12/11/2025
 - [FishUSA.com](https://www.fishusa.com/BrushPile-Jigs-Bandit-Soft-Bait/)
 
-#### 17. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
+#### 16. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
 
 ##### ![Crawdad Leech Jig](https://i.etsystatic.com/49399853/r/il/ac00ba/6543450288/il_1588xN.6543450288_8h2f.jpg)
 
@@ -519,7 +519,7 @@
 - Retrieved 12/7/2025
 - [Etsy.com](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
 
-#### 18. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
+#### 17. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
 
 ##### ![Olive Leech Jig](https://i.etsystatic.com/49399853/r/il/60f878/6543487454/il_1588xN.6543487454_ksb6.jpg)
 
@@ -529,7 +529,7 @@
 - Retrieved 12/7/2025
 - [Etsy.com](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
 
-#### 19. [Olive Tungsten Pine Squirrel Rubber Leg Leech](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
+#### 18. [Olive Tungsten Pine Squirrel Rubber Leg Leech](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
 
 ##### ![Olive Pine Squirrel Rubber Leg Leech](https://i.etsystatic.com/49399853/r/il/a8d5e7/6594353529/il_1588xN.6594353529_4ueg.jpg)
 
@@ -539,16 +539,16 @@
 - Retrieved 12/7/2025
 - [Etsy.com](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
 
-#### 20. [Roro Swimbait Micro Finesse 1.6″](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
+#### 19. [Roro Swimbait Micro Finesse 1.6″](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
 
 ##### ![Swimbait](https://rorolure.com/cdn/shop/products/softBait05_590x.png?v=1642036746)
 
-- Colors: A, k, g, q
+- Colors: A, c,k, g, p, q
 - Lowest price: $2.99
-- Retrieved 3/5/2025
+- Retrieved 12/11/2025
 - [RoroLure.com](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
 
-#### 21. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
+#### 20. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
 ##### ![Woolly Bugger](https://i.etsystatic.com/15780174/r/il/f6e942/6613153960/il_794xN.6613153960_jewa.jpg)
 
@@ -556,10 +556,10 @@
 - Size: 10
 - Quantity: 3
 - Lowest price: $2.19
-- Retrieved 2/12/2025
+- Retrieved 12/11/2025
 - [Etsy.com](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
-#### 22. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
+#### 21. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Dropper](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2)
 
@@ -567,7 +567,7 @@
 - Size: 10
 - Quantity: 3
 - Lowest price: $1.99
-- Retrieved 2/12/2025
+- Retrieved 12/11/2025
 - [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ---
@@ -580,8 +580,8 @@
 
 ##### ![Outdoor Wok Station](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dwc1e94efc/images/large/s8qhzoof0qoyznqtwyqf.jpg?sw=800&amp;sh=800)
 
-- Lowest price: $249.00
-- Retrieved 12/17/2024
+- Lowest price: $224.99
+- Retrieved 12/11/2025
 - [Walmart.com](https://www.walmart.com/ip/Cuisinart-Outdoor-Stainless-Steel-Wok-Cooking-Station-CGG-1265/5511020300?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222000000000&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=10352200394&wl4=pla-1103028060075:aud-821217179&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=5511020300_0&wl14=cuisinart%20wok%20station&veh=sem&gclid=bbb50615929710ca265a61779890e927&gclsrc=3p.ds&msclkid=bbb50615929710ca265a61779890e927)
 
 ### Under $150
@@ -591,41 +591,41 @@
 ##### ![Blue Round Bottom Wok Pan 14"](https://images-na.ssl-images-amazon.com/images/I/81Mk4WebK5L._AC_UL348_SR348,348_.jpg)
 
 - Lowest price: $89.99
-- Retrieved 12/17/2024
+- Retrieved 12/11/2025
 - [Amazon.com](https://www.amazon.com/dp/B08HMWZLZY?ref=emc_s_m_5_i_atc&th=1)
 
 #### 3. [RTIC Ice Bucket](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
 ##### ![Ice Bucket](https://static.velkybrands.com/i/items/3409668941.jpg?width=1000&amp;height=1000&amp;fit=bounds)
 
-- Lowest price: $69.99
-- Retrieved 2/10/2025
+- Lowest price: $62.99
+- Retrieved 12/11/2025
 - [RTIC.com](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
 ### Under $50
 
-#### 1. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
-
-##### ![Outdoor Wok Station Cover](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dw5e6c451e/images/large/obejiwmob39rjvsz4hrh.jpg?sw=800&amp;sh=800)
-
-- Lowest price: $39.99
-- Retrieved 12/18/2024
-- [Amazon.com](https://www.amazon.com/Cuisinart-Outdoor-Wok-Station-Cover/dp/B0D1LMCD2Q)
-
-#### 2. [Yosukata 17" Wok Spatula and Ladle and Turner Spatula Stainless Steel Cooking Utensils Set of 3](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
+#### 1. [Yosukata 17" Wok Spatula and Ladle and Turner Spatula Stainless Steel Cooking Utensils Set of 3](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
 
 ##### ![Wok Spatula and Ladle and Turner Spatula](https://images-na.ssl-images-amazon.com/images/I/71JFKmXHLhL._AC_UL348_SR348,348_.jpg)
 
 - Lowest price: $37.99
-- Retrieved 12/17/2024
+- Retrieved 12/11/2025
 - [Amazon.com](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
+
+#### 2. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
+
+##### ![Outdoor Wok Station Cover](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dw5e6c451e/images/large/obejiwmob39rjvsz4hrh.jpg?sw=800&amp;sh=800)
+
+- Lowest price: $36.98
+- Retrieved 12/11/2025
+- [Amazon.com](https://www.amazon.com/Cuisinart-Outdoor-Wok-Station-Cover/dp/B0D1LMCD2Q)
 
 #### 3. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
 
 ##### ![Griddle Keep Warm Rack](https://product-images.weber.com/accessory-images/6784A_Rev1_1800x1800.png?w=400&h=400&auto=compress%2cformat)
 
 - Lowest price: $31.99
-- Retrieved 12/11/2024
+- Retrieved 12/11/2025
 - [Amazon.com](https://www.amazon.com/Weber-6784-Griddle-Warming-Silver/dp/B0BPDKQJ4L?crid=336B1RC1JWH4A&dib=eyJ2IjoiMSJ9.gP3-CVkgJ6C1wdUq2Gm_2AuUx4CXoTvZiJR3M1RAEV81EQDTLNRhKxBShwzXemCmtWAyKLuNjxARcWstROSraxJIes_AB-f7LvuAWzUNvcyV3h5kIYvgeXWe1Mb9hKTXjljzlRm2TS2KkBWvcFRj894lh0mjdbukxZqWHrIPKRkVwVdXGrYC8qR8w-j6SJ0ZFedg2anJxrm9cHNMpSb_F0F5iWuRnF5H9vaF4rDg9h9iN3AlKEmM5QBv9IeWOhCdUBQkEOIcYZ4bzDXunV-IhWrbzCJ5RB4QrlEioioKpEo.i61l9mJYBiu0iu6US3a0e5HXJgnbQIobRGzEC_xKkYk&dib_tag=se&keywords=weber+turkey+rack&qid=1732473245&refinements=p_123%3A218268&rnid=85457740011&s=lawn-garden&sprefix=weber+turkey+rack%2Caps%2C105&sr=1-2)
 
 ### Under $20
@@ -636,8 +636,8 @@
 
 - Color: White
 - Quantity: 2
-- Lowest price: $10.97
-- Retrieved 12/11/2024
+- Lowest price: $14.26
+- Retrieved 12/11/2025
 - [Amazon.com](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
 #### 2. [RTIC Day Cooler Lunch Container](https://rticoutdoors.com/Lunch-Container?color=Olive)
@@ -645,8 +645,8 @@
 ##### ![Container](https://static.velkybrands.com/i/items/1749686769.jpg?width=1000&amp;height=1000&amp;fit=bounds)
 
 - Color: Olive
-- Lowest price: $7.49
-- Retrieved 2/10/2025
+- Lowest price: $10.39
+- Retrieved 12/11/2025
 - [RTIC.com](https://rticoutdoors.com/Lunch-Container?color=Olive)
 
 ---
