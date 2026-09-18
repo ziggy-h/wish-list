@@ -151,62 +151,37 @@
 
 ## Fishing tackle
 
+### Under $250
+
+#### 1. [Shimano Stradic FM Spinning Reel](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f00003slvodqas.html)
+
+##### ![Reel](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/320w/products/14334/43450/2500__54230.1688993497.jpg?c=1)
+
+- Model: ST1000HGFM
+- Lowest price: $234.99
+- Retrieved 9/18/2026
+- [FishUSA.com](https://www.fishusa.com/Shimano-Stradic-FM-Spinning-Reel/)
+
 ### Under $100
 
-#### 1. [Rise BFS Rod](https://www.eurotackle.net/products/rise-bfs)
+#### 1. [FishUSA Flagship BFS Casting Rod](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
-##### ![Rod](https://www.eurotackle.net/cdn/shop/files/MF66UL-BFS-MAIN.jpg?v=1740841698&width=1600)
+##### ![Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/1280w/products/16617/54667/BFS-Variant__11513.1739218380.jpg?c=1%201280w)
 
 - Size: 6 foot 6 inches
-- Power: Ultra light
-- Lowest price: $99.99
-- Retrieved 12/4/2025
-- [FishUSA.com](https://www.fishusa.com/Eurotackle-Rise-Spinning-Rods/?msockid=3a3e9e0599e36a7823d18b73988c6b05)
+- Power: Light
+- Action: Fast
+- Lowest price: $109.99
+- Retrieved 9/18/2026
+- [FishUSA.com](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
-#### 2. [Kestrel Bait Finesse System Finesse Baitcasting Reel](https://kastking.com/products/kastking-kestrel-bfs-casting-reel?variant=45296244130029)
-
-##### ![Kestrel Bait Finesse System Finesse Baitcasting Reel](https://kastking.com/cdn/shop/files/01KestrelBFS1600x1600_1_-4.jpg?v=1710921764)
-
-- Ratio: 7:5:1
-- Handle: Left-handed
-- Lowest price: $96.00
-- Retrieved 12/7/2025
-- [KastKing.com](https://kastking.com/products/kastking-kestrel-bfs-casting-reel?variant=45296244130029)
-
-#### 3. [Elite Casting Rod](https://www.uglystik.com/collections/casting-rods/products/elite-casting-rod?variant=55763231113585)
-
-##### ![Elite Casting Rod](https://www.uglystik.com/cdn/shop/files/UGL_EliteCastingRod_1581950_alt1.jpg?v=1756409611&width=1920)
-
-- Size: 7 feet
-- Lowest price: $84.95
-- Retrieved 12/4/2025
-- [Amazon.com](https://www.amazon.com/Ugly-Stik-Elite-Casting-Rod/dp/B0FJSP1K1M/ref=sr_1_4?crid=VXP5QHD2VOHG&dib=eyJ2IjoiMSJ9.dqrXpSj6mWr417-kYINvKm2NyrqH5FLdgiLNe3kkj9guyga8IhhKQYAVRObTEfl67RbKmGWnQoEl4xifdXM2gGEf6Yj2eLypy1Sifss_DDB3AcrTNVRDk6M29tjJA_65EiCxuuhYrk4Y05VKNhl5KKe3By9fYIblQTetR65KjgrhionRGgtmB9MuwyCJTePzGjbkotM6-cI9h8g5OBf6TE2qfVlgOuqEsRcOGv73Nig.TWY-hiX5nlidTxNSLO-AYByGoqgU16HJZ4RguwTiOT0&dib_tag=se&keywords=Shakespeare%2BUgly%2BStik%2BElite%2BUltralight%2FFast%2Bbfs&qid=1742678396&sprefix=shakespeare%2Bugly%2Bstik%2Belite%2Bultralight%2Ffast%2Bbfs%2Caps%2C108&sr=8-4&th=1&psc=1)
-
-#### 4. [Piscifun®Carbon X II Spinning Reels Best Ultralight Spinning Fishing Reel](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
-
-##### ![Piscifun Spinning Reel](https://www.piscifun.com/cdn/shop/products/SRL009-CarbonXII-2000-1.png?v=1716217999&width=630)
-
-- Size: 2000
-- Color: Black
-- Lowest price: $67.99
-- Retrieved 12/4/2025
-- [Piscifun.com](https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels?variant=40251927527493)
-
-#### 5. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 2. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/960w/products/324/1099/SG133-7EG_ASIN_B0853FDFPV_copy__56671.1752257046.jpg?c=1)
 
 - Lowest price: $51.99
 - Retrieved 12/4/2025
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
-
-#### 6. [Thump Net](https://thumpgel.com/products/thump-net)
-
-##### ![Thump Net](https://thumpgel.com/cdn/shop/files/Thump_Net_picture_713x.png?v=1739896555)
-
-- Lowest price: $49.95
-- Retrieved 12/4/2025
-- [Amazon.com](https://www.amazon.com/Thump-Gel-Net/dp/B0CNBMT982/ref=sr_1_1?crid=160JR3QRRF6BK&dib=eyJ2IjoiMSJ9.pXtsun2oRPOlpiThD87FGs7_rDBy4W0ppe2Es8wzz-pNtsu6Z9wkrU3RceN5rIL8cn18HKGDnK3FT6k1vXh2TODhoVxlqPDE1H3sl3NOy13Dl7gI-tTlFFA4qg51xVlzTslXT_2CpNJq_8_N1Px-LHN26Qs7fA8tj48TiU1s3Gl9GRIB-AGLGewxNgV7od7_hRqqSdUn0dfoVPaOBPopEL9yjVJda7GXVs8BVzaeUqjlxlFDs_AL-M9LPZ-Leg1Y8kd6htEwGw7EWY_GSuk1YiCdYTfa5JliiIjrIEK0svXaqAZRDjfXSAWqIRVvjNIJRsQBH_OV7_ZVaWuLdLz3Zvd7kKrCDTcTFLJJHB3WjGAMCR2fx_hX5czGtusxlH9Bb8z9CeEaN0VuPCFIUvrfTkfc8X3sq1m11PFte5YK9laJfMcI8aJNesVO-hg9s-bC.HJ95hj1SXLY0oj3iZHljixUUp1SxbGhBFfEkkJ_eYgc&dib_tag=se&keywords=thumb+net&qid=1741246283&sprefix=thump+net%2Caps%2C140&sr=8-1)
 
 ---
 
@@ -574,27 +549,9 @@
 
 ## Grilling
 
-### Under $300
-
-#### 1. [Outdoor Wok Station](https://www.cuisinart.com/outdoor-wok-station/CGG-1265.html)
-
-##### ![Outdoor Wok Station](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dwc1e94efc/images/large/s8qhzoof0qoyznqtwyqf.jpg?sw=800&amp;sh=800)
-
-- Lowest price: $224.99
-- Retrieved 12/11/2025
-- [Walmart.com](https://www.walmart.com/ip/Cuisinart-Outdoor-Stainless-Steel-Wok-Cooking-Station-CGG-1265/5511020300?wmlspartner=wlpa&selectedSellerId=0&adid=22222222222000000000&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=10352200394&wl4=pla-1103028060075:aud-821217179&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=5511020300_0&wl14=cuisinart%20wok%20station&veh=sem&gclid=bbb50615929710ca265a61779890e927&gclsrc=3p.ds&msclkid=bbb50615929710ca265a61779890e927)
-
 ### Under $150
 
-#### 1. [YOSUKATA Blue Carbon Steel Round Bottom Wok Pan 14"](https://www.amazon.com/dp/B08HMWZLZY?ref=emc_s_m_5_i_atc&th=1)
-
-##### ![Blue Round Bottom Wok Pan 14"](https://images-na.ssl-images-amazon.com/images/I/81Mk4WebK5L._AC_UL348_SR348,348_.jpg)
-
-- Lowest price: $89.99
-- Retrieved 12/11/2025
-- [Amazon.com](https://www.amazon.com/dp/B08HMWZLZY?ref=emc_s_m_5_i_atc&th=1)
-
-#### 3. [RTIC Ice Bucket](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
+#### 1. [RTIC Ice Bucket](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
 ##### ![Ice Bucket](https://static.velkybrands.com/i/items/3409668941.jpg?width=1000&amp;height=1000&amp;fit=bounds)
 
@@ -604,23 +561,7 @@
 
 ### Under $50
 
-#### 1. [Yosukata 17" Wok Spatula and Ladle and Turner Spatula Stainless Steel Cooking Utensils Set of 3](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
-
-##### ![Wok Spatula and Ladle and Turner Spatula](https://images-na.ssl-images-amazon.com/images/I/71JFKmXHLhL._AC_UL348_SR348,348_.jpg)
-
-- Lowest price: $37.99
-- Retrieved 12/11/2025
-- [Amazon.com](https://www.amazon.com/YOSUKATA-Wok-Spatula-Ladle-Heat-Resistant/dp/B0D3H9R35P/ref=sr_1_4?crid=11AMVCIDCH6P0&dib=eyJ2IjoiMSJ9.-p6zd-A612BFfXjSOqGxj-YaxRlZP3uufoyuthEhXD4uCuwtUbPII6n1PQFaSepMekgHS9LPAHd-Kll0bu18owPez8kjF8SJYrm8M18Co9t8zDDhmYyRT1qCCowPsl1oQZaofU4o3dnMO97HZQknEPyGzrUzFBPDaa0Tsz9IaraG1nFFiUIRmT7WvHy5ZWq718QXk5ICJKj0ceeicetJX3-75gc-xnBJhMeOLAUbYGHgHZajpZecgsU7pzj3NO_H5vlf01InPXwDgQ_p5dUSzLRfklYZ0Y1oWogXMVXybrM049P2IHbStnOAtvkp08_BOE73LXErZXhtYGZgs44a0uEjQS3Rrns2tojxRSORtKE.Rj6oT8Bz8hpYZJq9Uz_kRR4NNAf4mYesCi96lcjWoHM&dib_tag=se&keywords=wok%2Bspatula&qid=1734479752&refinements=p_n_material_browse%3A316648011&rnid=316624011&s=home-garden&sprefix=wok%2Bspatula%2Cgarden%2C130&sr=1-4&th=1)
-
-#### 2. [Outdoor Wok Station Cover](https://www.cuisinart.com/outdoor-wok-station-cover/CGC-1266.html)
-
-##### ![Outdoor Wok Station Cover](https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-master-us/default/dw5e6c451e/images/large/obejiwmob39rjvsz4hrh.jpg?sw=800&amp;sh=800)
-
-- Lowest price: $36.98
-- Retrieved 12/11/2025
-- [Amazon.com](https://www.amazon.com/Cuisinart-Outdoor-Wok-Station-Cover/dp/B0D1LMCD2Q)
-
-#### 3. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
+#### 1. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
 
 ##### ![Griddle Keep Warm Rack](https://product-images.weber.com/accessory-images/6784A_Rev1_1800x1800.png?w=400&h=400&auto=compress%2cformat)
 
