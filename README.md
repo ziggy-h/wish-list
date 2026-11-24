@@ -1,4 +1,4 @@
-# 2025 X-mas Wishlist
+# 2026 X-mas Wishlist
 
 ## Kayak
 
@@ -16,15 +16,7 @@
 
 ### $50+
 
-#### 1. [VISICarbon Pro™, MightyMount and GearTrac™ ready](https://www.yakattack.us/CPM_p/cpm.htm)
-
-##### ![VISICarbon Pro](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/152/4765/visicarbon-pro-mightymount-and-geartrac-ready-cpm__64534.1709829830.jpg?c=2)
-
-- Lowest price: $97.00
-- Retrieved 12/4/2025
-- [YakAttack.us](https://www.yakattack.us/CPM_p/cpm.htm)
-
-#### 2. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
+#### 1. [13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey](https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/)
 
 ##### ![ShortStak Upgrade Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
@@ -32,7 +24,7 @@
 - Retrieved 12/4/2025
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
-#### 3. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
+#### 2. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 ##### ![Fish Finder Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2)
 
@@ -40,7 +32,7 @@
 - Retrieved 12/4/2025
 - [YakAttack.us](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
-#### 4. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
+#### 3. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
@@ -151,36 +143,34 @@
 
 ## Fishing tackle
 
-### Under $250
-
-#### 1. [Shimano Stradic FM Spinning Reel](https://fish.shimano.com/en-US/product/reels/spinning/frontdrag/a075f00003slvodqas.html)
-
-##### ![Reel](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/320w/products/14334/43450/2500__54230.1688993497.jpg?c=1)
-
-- Model: ST1000HGFM
-- Lowest price: $234.99
-- Retrieved 9/18/2026
-- [FishUSA.com](https://www.fishusa.com/Shimano-Stradic-FM-Spinning-Reel/)
-
 ### Under $100
 
-#### 1. [FishUSA Flagship BFS Casting Rod](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
+#### 1. [Scheels Outfitters Daiwa Tournament LT Spinning Reel](https://www.scheels.com/p/04317844819?queryID=449f85c78c9d2dcd)
+
+##### ![Reel](https://cdn.media.amplience.net/i/scheelspoc/04317818809?w=500&h=500&fmt=auto&v=1)
+
+- Model: 1000
+- Lowest price: $99.99
+- Retrieved 11/23/2026
+- [Scheels.com](https://www.scheels.com/p/04317844819?queryID=449f85c78c9d2dcd)
+
+#### 2. [FishUSA Flagship BFS Casting Rod](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
 ##### ![Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/1280w/products/16617/54667/BFS-Variant__11513.1739218380.jpg?c=1%201280w)
 
 - Size: 6 foot 6 inches
 - Power: Light
 - Action: Fast
-- Lowest price: $109.99
-- Retrieved 9/18/2026
+- Lowest price: $82.49
+- Retrieved 11/23/2026
 - [FishUSA.com](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
-#### 2. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
+#### 3. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/960w/products/324/1099/SG133-7EG_ASIN_B0853FDFPV_copy__56671.1752257046.jpg?c=1)
 
-- Lowest price: $51.99
-- Retrieved 12/4/2025
+- Lowest price: $54.99
+- Retrieved 11/23/2026
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ---
@@ -559,16 +549,6 @@
 - Retrieved 12/11/2025
 - [RTIC.com](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
-### Under $50
-
-#### 1. [Griddle Keep Warm Rack](https://www.weber.com/US/en/griddle/griddle-accessories/6784.html)
-
-##### ![Griddle Keep Warm Rack](https://product-images.weber.com/accessory-images/6784A_Rev1_1800x1800.png?w=400&h=400&auto=compress%2cformat)
-
-- Lowest price: $31.99
-- Retrieved 12/11/2025
-- [Amazon.com](https://www.amazon.com/Weber-6784-Griddle-Warming-Silver/dp/B0BPDKQJ4L?crid=336B1RC1JWH4A&dib=eyJ2IjoiMSJ9.gP3-CVkgJ6C1wdUq2Gm_2AuUx4CXoTvZiJR3M1RAEV81EQDTLNRhKxBShwzXemCmtWAyKLuNjxARcWstROSraxJIes_AB-f7LvuAWzUNvcyV3h5kIYvgeXWe1Mb9hKTXjljzlRm2TS2KkBWvcFRj894lh0mjdbukxZqWHrIPKRkVwVdXGrYC8qR8w-j6SJ0ZFedg2anJxrm9cHNMpSb_F0F5iWuRnF5H9vaF4rDg9h9iN3AlKEmM5QBv9IeWOhCdUBQkEOIcYZ4bzDXunV-IhWrbzCJ5RB4QrlEioioKpEo.i61l9mJYBiu0iu6US3a0e5HXJgnbQIobRGzEC_xKkYk&dib_tag=se&keywords=weber+turkey+rack&qid=1732473245&refinements=p_123%3A218268&rnid=85457740011&s=lawn-garden&sprefix=weber+turkey+rack%2Caps%2C105&sr=1-2)
-
 ### Under $20
 
 #### 1. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
@@ -594,31 +574,33 @@
 
 ## Guitar
 
+### Above $1000
+
+#### 1. [Forever Guitar](https://usa.yamaha.com/musical-instruments/guitars-basses-amps/products/electric-guitars/rs-2022/index.html#d1775149)
+
+##### ![Yamaha Revstar Professional RSP20 Electric Guitar - Sunset Burst](https://usa.yamaha.com/files/RSP20_sunsetburst_f_0001_tcm152-1684492.jpg?impolicy=resize&imwid=735&imhei=735)
+
+- Color: Sunset Burst
+- Lowest price: $2,199.99
+- Retrieved 11/23/2026
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarP20SB--yamaha-revstar-professional-rsp20-electric-guitar-sunset-burst)
+
 ### Around $1000
 
 #### 1. [Metal Guitar](https://www.schecterguitars.com/Damien-Platinum-6-FR-S)
 
 ##### ![Schecter Guitar Research, Inc. Damien Platinum-6 FR S](https://www.schecterguitars.com/images/Damien%20Platinum-6%20FR%20S.01.png)
 
-- Lowest price: $1049.00
-- Retrieved 12/2/2025
+- Lowest price: $1149.00
+- Retrieved 11/23/2026
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/DMP6FRSSBK--schecter-damien-platinum-6-with-floyd-rose-and-sustaniac-satin-black)
 
-#### 2. [Forever Guitar](https://usa.yamaha.com/products/musical_instruments/guitars_basses/el_guitars/rs_2022/lineup.html#d1547719)
-
-##### ![Yamaha Revstar Standard RSS02T Electric Guitar - Black](https://usa.yamaha.com/files/RSS02T_black_f_0001_946975edd598e470bdafc1d72bba11f2.jpg?impolicy=resize&imwid=735&imhei=735?imbypass=on)
-
-- Color: Black
-- Lowest price: $929.99
-- Retrieved 12/2/2025
-- [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarS02TBk--yamaha-revstar-standard-rss02t-electric-guitar-black)
-
-#### 3. [Amp Head and Cabinet](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
+#### 2. [Amp Head and Cabinet](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
 
 ##### ![Boss Katana Artist Gen 3 100-watt Amplifier Head and Katana 150-watt 2 x 12-inch Cabinet](https://media.sweetwater.com/m/products/image/133bd78bc0uuAPqxlcZW4C4IsOaysJ71eDVOjf0j.png?quality=82&height=750&ha=133bd78bc00a493d)
 
-- Lowest price: $899.98
-- Retrieved 12/2/2025
+- Lowest price: $1109.98
+- Retrieved 11/23/2026
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
 
 ### Around $700
@@ -629,19 +611,17 @@
 
 - Color: Cherry Sunburst
 - Lowest price: $799.99
-- Retrieved 12/2/2025
+- Retrieved 11/23/2026
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
 
-### Around $500
+#### 2. [PRS SE McCarty 594 Electric Guitar - Vintage Sunburst](https://prsguitars.com/electrics/model/se_mccarty_594)
 
-#### 1. [Strat](https://sterlingbymusicman.com/products/ct50hss?variant=39929558368371)
+##### ![SE McCarty 594](https://d2zap0z9ahyacn.cloudfront.net/eyJidWNrZXQiOiJwcnNpbWFnZXMiLCJrZXkiOiJndWl0YXItaW1hZ2VzL3NlLW1jY2FydHktNTk0LTIwMjYtYmxhY2stZ29sZC1idXJzdC1ob3Jpem9udGFsLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjp0cnVlLCJ0cmVsbGlzUXVhbnRpc2F0aW9uIjp0cnVlLCJvdmVyc2hvb3REZXJpbmdpbmciOnRydWUsIm9wdGltaXplU2NhbnMiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjE5MjAsImhlaWdodCI6NjYzLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=)
 
-##### ![Sterling By Music Man Cutlass CT50HSS](https://sterlingbymusicman.com/cdn/shop/products/CT50HSS-DBLS_shopify_2000x.png?v=1647626254)
-
-- Color: Daphne Blue Satin
-- Lowest price: $439.99
-- Retrieved 12/2/2025
-- [Sweetwater.com](https://www.sweetwater.com/store/detail/CT50HSSDBS--sterling-by-music-man-cutlass-ct50hss-electric-guitar-daphne-blue-satin)
+- Color: Black Gold Burst
+- Lowest price: $799.20
+- Retrieved 11/23/2026
+- [Sweetwater.com](https://www.sweetwater.com/store/detail/SEMC594BGS--prs-se-mccarty-594-electric-guitar-black-gold-burst?serial=CTII019438)
 
 ---
 
@@ -657,3 +637,27 @@
 - Lowest price: $44.99
 - Retrieved 2/8/2025
 - [bulletpointmountingsolutions.com](https://www.bulletpointmountingsolutions.com/products/rubigrid-v2-2019-ram-truck-1500-2500-3500-4500-5500-trx-dash-mount?variant=41335573741683)
+
+---
+
+## Decorations
+
+### Around $100
+
+#### 1. [Ancient Carp Print](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
+
+##### ![Carp Print](https://www.originalmagicart.store/cdn/shop/products/Burdett-Ancient_Carp_5000x.jpg?v=1603894648)
+
+- Size: Premium 18 inches by 24 inches
+- Lowest price: $80.00
+- Retrieved 11/23/2026
+- [OMA Store](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
+
+#### 2. [Badfish Poster](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
+
+##### ![Badfish Print](https://i5.walmartimages.com/seo/Sublime-Music-Poster-Everything-Under-The-Sun-Album-Cover-Sun-Fish-Size-24-x-36_4500aa89-86f7-49f7-91ff-74e718b33786.35d5d4fe4ce3873d7d56975825448132.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
+
+- Size: Premium 24 inches by 36 inches
+- Lowest price: $15.99
+- Retrieved 11/23/2026
+- [Walmart.com](https://www.walmart.com/ip/Sublime-Music-Poster-Everything-Under-The-Sun-Album-Cover-Sun-Fish-Size-24-x-36/16664905999?wmlspartner=wlpa&selectedSellerId=7804&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229716664905999_7804_6736816237_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9019031&wl6=&wl7=&wl8=&wl9=pla&wl10=115068638&wl11=online&wl12=16664905999_7804&veh=sem&gad_source=1&gad_campaignid=21690411341&gbraid=0AAAAADmfBIq2WWpyBBdtAp3mnaTtI987w&gclid=EAIaIQobChMI_IPHzrSfmAMV1jhECB3hHjQxEAQYAyABEgJUo_D_BwE)
