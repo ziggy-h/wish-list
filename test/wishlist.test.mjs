@@ -9,10 +9,13 @@ import {
   DEFAULT_OUTPUT,
   MOBILE_IMAGE_WIDTH,
   assignPriceTier,
+  checkImageUrl,
+  checkImages,
   computeStats,
   daysBetweenIsoDates,
   escapeHtmlAttr,
   formatColors,
+  formatImageCheckReport,
   formatPrice,
   formatStats,
   isValidIsoDate,
@@ -318,24 +321,106 @@ describe('computeStats and formatStats', () => {
   });
 });
 
+describe('checkImageUrl and checkImages', () => {
+  it('accepts live 200 image/* responses on HEAD and falls back to GET on 405', async () => {
+    const calls = [];
+    const mockFetch = async (url, init) => {
+      calls.push({ url, method: init.method });
+      if (url.includes('head-ok')) {
+        return new Response(null, { status: 200, headers: { 'content-type': 'image/jpeg' } });
+      }
+      if (url.includes('head-405') && init.method === 'HEAD') {
+        return new Response(null, { status: 405 });
+      }
+      return new Response('img', { status: 200, headers: { 'content-type': 'image/png; charset=utf-8' } });
+    };
+
+    const okHead = await checkImageUrl('https://example.com/head-ok.jpg', { fetchImpl: mockFetch });
+    assert.equal(okHead.ok, true);
+    assert.equal(okHead.method, 'HEAD');
+    assert.equal(okHead.contentType, 'image/jpeg');
+
+    const okFallback = await checkImageUrl('https://example.com/head-405.png', { fetchImpl: mockFetch });
+    assert.equal(okFallback.ok, true);
+    assert.equal(okFallback.method, 'GET');
+    assert.equal(okFallback.contentType, 'image/png');
+    assert.deepEqual(
+      calls.filter((c) => c.url.includes('head-405')).map((c) => c.method),
+      ['HEAD', 'GET'],
+    );
+  });
+
+  it('flags 404s, soft-404 text/html responses, and network errors as dead', async () => {
+    const mockFetch = async (url) => {
+      if (url.includes('missing')) {
+        return new Response(null, { status: 404 });
+      }
+      if (url.includes('soft404')) {
+        return new Response('<html>not found</html>', {
+          status: 200,
+          headers: { 'content-type': 'text/html' },
+        });
+      }
+      throw new Error('ENOTFOUND');
+    };
+
+    const r404 = await checkImageUrl('https://example.com/missing.jpg', { fetchImpl: mockFetch });
+    assert.equal(r404.ok, false);
+    assert.equal(r404.reason, 'HTTP 404');
+
+    const rHtml = await checkImageUrl('https://example.com/soft404.jpg', { fetchImpl: mockFetch });
+    assert.equal(rHtml.ok, false);
+    assert.match(rHtml.reason, /Non-image content-type: text\/html/);
+
+    const rErr = await checkImageUrl('https://example.com/offline.jpg', { fetchImpl: mockFetch });
+    assert.equal(rErr.ok, false);
+    assert.match(rErr.reason, /ENOTFOUND/);
+  });
+
+  it('filters active items, excludes purchased by default, and reports manufacturer URLs for dead images', async () => {
+    const data = makeFixture();
+    const mockFetch = async (url) => {
+      if (url.includes('cheap.jpg')) {
+        return new Response(null, { status: 404 });
+      }
+      return new Response(null, { status: 200, headers: { 'content-type': 'image/jpeg' } });
+    };
+
+    const report = await checkImages(data, { fetchImpl: mockFetch });
+    assert.equal(report.checked, 2); // excludes purchased item by default
+    assert.equal(report.alive, 1);
+    assert.equal(report.dead, 1);
+    assert.equal(report.deadList[0].id, 'cheap-item');
+    assert.equal(report.deadList[0].manufacturerUrl, 'https://example.com/cheap');
+
+    const formatted = formatImageCheckReport(report);
+    assert.match(formatted, /Image Check: 1\/2 alive, 1 dead/);
+    assert.match(formatted, /Manufacturer page: https:\/\/example\.com\/cheap/);
+
+    const scoped = await checkImages(data, { itemIds: ['expensive-item'], fetchImpl: mockFetch });
+    assert.equal(scoped.checked, 1);
+    assert.equal(scoped.dead, 0);
+  });
+});
+
 describe('CLI workflow', () => {
-  it('supports validate, render, render --check, and stats on temporary files', () => {
+  it('supports validate, render, render --check, and stats on temporary files', async () => {
     const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'wishlist-test-'));
     try {
       const yamlPath = path.join(tmpDir, 'wishlist.yaml');
       const mdPath = path.join(tmpDir, 'README.md');
       fs.writeFileSync(yamlPath, YAML.stringify(makeFixture()), 'utf8');
 
-      assert.equal(runCli(['validate', `--input=${yamlPath}`]), 0);
-      assert.equal(runCli(['render', `--input=${yamlPath}`, `--output=${mdPath}`]), 0);
-      assert.equal(runCli(['render', '--check', `--input=${yamlPath}`, `--output=${mdPath}`]), 0);
+      assert.equal(await runCli(['validate', `--input=${yamlPath}`]), 0);
+      assert.equal(await runCli(['render', `--input=${yamlPath}`, `--output=${mdPath}`]), 0);
+      assert.equal(await runCli(['render', '--check', `--input=${yamlPath}`, `--output=${mdPath}`]), 0);
 
       // Drift README and confirm --check catches it
       fs.appendFileSync(mdPath, '\nmanual edit\n', 'utf8');
-      assert.equal(runCli(['render', '--check', `--input=${yamlPath}`, `--output=${mdPath}`]), 1);
+      assert.equal(await runCli(['render', '--check', `--input=${yamlPath}`, `--output=${mdPath}`]), 1);
 
       assert.equal(
-        runCli(['stats', `--input=${yamlPath}`, '--stale-days=30', '--as-of=2026-11-27', '--json']),
+        await runCli(['stats', `--input=${yamlPath}`, '--stale-days=30', '--as-of=2026-11-27', '--json']),
         0,
       );
     } finally {
