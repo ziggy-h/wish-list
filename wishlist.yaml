@@ -28,11 +28,11 @@ categories:
         image:
           alt: Fishing Crate
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/802/images/9140/blackpak-pro-kayak-fishing-crate-13-x-13-battleship-grey__80496.1713883723.400.400.jpg?c=2
-        price: 124.95
-        retrieved: 2025-12-04
+        price: 103.96
+        retrieved: 2026-11-27
         retailer:
           name: Amazon.com
-          url: https://www.amazon.com/YakAttack-BlackPak-Kayak-Fishing-Crate/dp/B0D78SQPZR/ref=asc_df_B0D78SQPZR?tag=bingshoppinga-20&linkCode=df0&hvadid=80814295299931&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413766404433&psc=1&msclkid=7c65c4ceb3e81051cbbaa3978096c51a
+          url: https://www.amazon.com/dp/B0D78SQPZR
       - id: shortstak-upgrade-kit-13x13-battleship-grey
         name: 13x13 ShortStak Upgrade Kit for BlackPak Pro, Battleship Grey
         url: https://www.yakattack.us/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey/
@@ -40,10 +40,10 @@ categories:
           alt: ShortStak Upgrade Kit
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2
         price: 56.95
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: Amazon.com
-          url: https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2
+          url: https://www.amazon.com/dp/B0D952X4H3
       - id: rectangular-fish-finder-mount-locknload
         name: Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System
         url: https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/
@@ -51,7 +51,7 @@ categories:
           alt: Fish Finder Mount
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2
         price: 52
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/
@@ -62,7 +62,7 @@ categories:
           alt: TracPak Combo Kit
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2
         price: 52
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/
@@ -73,7 +73,7 @@ categories:
           alt: Rod Holder
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/557/images/4164/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system-rhm-1004__36599.1711019918.400.400.jpg?c=2
         price: 43
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system/
@@ -84,7 +84,7 @@ categories:
           alt: TracPak with PicPocket QuickDraw and Track Mount
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/743/images/7733/tracpak-with-picpocket-quickdraw-and-track-mount__59817.1702116391.400.400.jpg?c=2
         price: 42
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/tracpak-with-picpocket-quickdraw-and-track-mount/
@@ -95,21 +95,21 @@ categories:
           alt: Paddle Holders
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/594/images/5221/doubleheader-with-dual-rotogrip-paddle-holders-tma-1002__85783.1661622469.400.400.jpg?c=2
         price: 36
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/
       - id: gear-track-kit-25q-45q
         name: 7.75" Gear Track Kit 25Q/45Q
-        url: https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/
+        url: https://jacksonkayak.com/products/orion-gear-track-kit-25-45
         image:
           alt: Gear Track Kit 25Q/45Q
           url: https://cdn11.bigcommerce.com/s-6xk5gybgv2/images/stencil/210x280/products/624/1275/91952__48869.1595392857.jpg?c=1
         price: 29.99
-        retrieved: 2024-12-18
+        retrieved: 2026-11-27
         retailer:
           name: JacksonKayak.com
-          url: https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/
+          url: https://jacksonkayak.com/products/orion-gear-track-kit-25-45
       - id: tethertube-rod-holder-2-pack
         name: TetherTube Rod Holder- Two Pack with Mounting Hardware
         url: https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/
@@ -117,7 +117,7 @@ categories:
           alt: TetherTube Rod Holder
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/608/images/10827/tethertube-rod-holder-two-pack-with-mounting-hardware__90818.1726513257.400.400.jpg?c=2
         price: 26
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/
@@ -128,7 +128,7 @@ categories:
           alt: GridLoc MightyMount with 90 Degree Adapter
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/612/images/5290/gridloc-mightymount-with-90-degree-adapter-mmgl-1002__80881.1662054855.400.400.jpg?c=2
         price: 22
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/gridloc-mightymount-with-90-degree-adapter/
@@ -139,7 +139,7 @@ categories:
           alt: Bungee Dividers
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/617/images/5267/knotloc-bungee-dividers-6-pack-blp-ac-0008__42200.1662054825.400.400.jpg?c=2
         price: 20
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/knotloc-bungee-dividers-6-pack/
@@ -150,7 +150,7 @@ categories:
           alt: Rigging Bullet 8-32 Threads
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/333/images/4672/rigging-bullet-8-32-threads-rb0832__65467.1710027348.400.400.jpg?c=2
         price: 18
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/RB0832_p/rb0832.htm
@@ -173,7 +173,7 @@ categories:
           alt: GearTrac 4''
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/products/221/images/4133/gtsl90-geartrac-4-black-gtsl90-bk04__38198.1709840019.400.400.jpg?c=2
         price: 12
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm
@@ -185,7 +185,7 @@ categories:
           alt: Backing Plate 4''
           url: https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/180/4683/fullback-backing-plate-for-gt90-gttl90-gtsl90-4-geartrac-fb-gt90-04__40598.1710184916.jpg?c=2
         price: 12
-        retrieved: 2025-12-04
+        retrieved: 2026-11-27
         retailer:
           name: YakAttack.us
           url: https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm
@@ -236,8 +236,8 @@ categories:
         image:
           alt: Plug
           url: https://s3.ap-northeast-1.amazonaws.com/cdn.jackson-quon.com/wordpress/wp-content/uploads/2019/03/24123039/gal.jpg
-        price: 18.99
-        retrieved: 2025-12-07
+        price: 15.99
+        retrieved: 2026-11-27
         retailer:
           name: BaitFinesseEmpire.com
           url: https://baitfinesseempire.com/product/jackson-bottom-magic-light-tune/
@@ -258,28 +258,28 @@ categories:
           url: https://www.dickssportinggoods.com/p/flambeau-terminal-ultimate-slim-waterproof-tuff-tainer-22fmbutrmnlltmttftbx/22fmbutrmnlltmttftbx?sku=24229557&camp=CSE:DSG_2301622352571_PLA_pla-4583383006479164&gclid=6a750d5125ad173be72664643dac8da9&gclsrc=3p.ds&msclkid=6a750d5125ad173be72664643dac8da9
       - id: mukai-b-chatter-pink
         name: Mukai B-Chatter Pink
-        url: https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1
+        url: https://www.amazon.com/dp/B093DXJDY2
         image:
           alt: Mukai Chatter Bait Pink
           url: https://m.media-amazon.com/images/I/211m85ieOwS._AC_.jpg
-        price: 15.7
-        retrieved: 2025-12-07
+        price: 17.45
+        retrieved: 2026-11-27
         retailer:
           name: Amazon.com
-          url: https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1
+          url: https://www.amazon.com/dp/B093DXJDY2
         colors:
           - Pink
       - id: mukai-b-chatter-chartreuse
         name: Mukai B-Chatter Chartreuse
-        url: https://www.amazon.com/Mukai-B-Chater-Chart/dp/B096QZTNVC/ref=pd_bxgy_thbs_d_sccl_1/144-7738306-4786265?pd_rd_w=IKPYV&content-id=amzn1.sym.de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_p=de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_r=QGJHA95C3QBVPYNJAGH3&pd_rd_wg=OfkJi&pd_rd_r=0a4b15b4-31cd-4940-875d-2d92f0c2919e&pd_rd_i=B096QZTNVC&th=1
+        url: https://www.amazon.com/dp/B096QZTNVC
         image:
           alt: Mukai Chatter Bait Chartreuse
           url: https://m.media-amazon.com/images/I/21tAzNNPqTS._AC_.jpg
-        price: 15.2
-        retrieved: 2025-12-07
+        price: 12.39
+        retrieved: 2026-11-27
         retailer:
           name: Amazon.com
-          url: https://www.amazon.com/Mukai-B-CHATTER-Solid-Color-0-08/dp/B096QZTNVC?th=1
+          url: https://www.amazon.com/dp/B096QZTNVC
         colors:
           - Chartreuse
       - id: rapala-x-rap-xr04
@@ -288,8 +288,8 @@ categories:
         image:
           alt: XR04
           url: https://www.rapala.eu/img/940/940/resize/catalog/product/c/f/cf01e8ce7c6cef_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png
-        price: 12.49
-        retrieved: 2025-12-07
+        price: 12.99
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Rapala-XRap-Lures/
@@ -305,11 +305,11 @@ categories:
         image:
           alt: Ultra Light Crank
           url: https://www.rapala.eu/img/940/940/resize/catalog/product/4/2/4233508eeb5f0e_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png
-        price: 8.49
-        retrieved: 2025-12-10
+        price: 7.99
+        retrieved: 2026-11-27
         retailer:
-          name: FishUSA.com
-          url: https://www.fishusa.com/rapala-ultra-light-cranks/
+          name: ShopTackleShack.com
+          url: https://shoptackleshack.com/products/rapala-ultra-light-crank
         colors:
           - Pink clown
           - name: yellow perch
@@ -325,7 +325,7 @@ categories:
           alt: Ultra Light Minnow
           url: https://www.rapala.eu/img/940/940/resize/catalog/product/8/0/80ebcd13205371_aek37cgis1183a528ah21f8m3n_91b3a5b7.png
         price: 8.49
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Rapala-Ultra-Light-Minnow-Lures/
@@ -341,7 +341,7 @@ categories:
           alt: Ultra Light Shad
           url: https://www.rapala.eu/img/940/940/resize/catalog/product/9/6/96af7e4a3efa11_ob6o9fscit01nai09e5d2f9v7k_bc511499.png
         price: 8.49
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/rapala-ultra-light-shad/
@@ -350,15 +350,15 @@ categories:
         size: 1-1/2''
       - id: widowmaker-tungsten-jig-heads
         name: Tungsten Jig Heads
-        url: https://widowmakerlures.com/
+        url: https://widowmakerlures.com/products/tungsten-jig-heads-pack.html
         image:
           alt: Jig head
           url: https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/198/954/All_3_colors_copy__02689.1698245574.jpg?c=2
-        price: 7.99
-        retrieved: 2025-02-13
+        price: 5.99
+        retrieved: 2026-11-27
         retailer:
           name: WidowMakerLures.com
-          url: https://widowmakerlures.com/
+          url: https://widowmakerlures.com/products/tungsten-jig-heads-pack.html
         colors:
           - Gold/black
           - firetiger
@@ -371,7 +371,7 @@ categories:
           alt: Stoneflies
           url: https://nikko-fishing.myshopify.com/cdn/shop/files/4580269449551.MAIN_1024x1024@2x.png?v=1739916853
         price: 7.99
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Nikko-Dappy-Stonefly/
@@ -384,7 +384,7 @@ categories:
           alt: Caddisfly
           url: https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478
         price: 7.99
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Nikko-Caddisfly_3/
@@ -396,8 +396,8 @@ categories:
         image:
           alt: Pin Fry
           url: https://cdn11.bigcommerce.com/s-ep43zhbw9d/images/stencil/220x220/products/1243/7888/RTPF-13__33745.1726165145.jpg?c=2
-        price: 6.99
-        retrieved: 2025-12-10
+        price: 7.99
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/
@@ -414,7 +414,7 @@ categories:
           alt: Warbird Jig
           url: https://jenkofishing.com/cdn/shop/products/WarbirdColors.jpg?v=1627656398
         price: 5.99
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Jenko-Warbird-Hand-Tied-Jigs/
@@ -430,7 +430,7 @@ categories:
           alt: Burro Bug
           url: https://www.mulefishing.com/cdn/shop/products/5612_540x.jpg?v=1678185043
         price: 5.99
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: MuleFishing.com
           url: https://www.mulefishing.com/collections/mule-fishing/products/burro-bug
@@ -445,7 +445,7 @@ categories:
           alt: Trout Worms
           url: https://www.berkley-fishing.com/cdn/shop/files/1265859.jpg?v=1713987567&width=600
         price: 5.99
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/berkley-gulp-2-fat-floating-trout-worm/
@@ -460,7 +460,7 @@ categories:
           alt: Road Runner Head
           url: https://ttiblakemore.com/wp-content/uploads/2019/07/033-Web-Scaled.jpg
         price: 5.79
-        retrieved: 2025-12-10
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/road-runner-original-jig-heads/
@@ -475,15 +475,15 @@ categories:
         size: 1/16 oz.
       - id: zman-shad-fryz
         name: Shad FryZ
-        url: https://zmanfishing.com/collections/elaztech-plastics/products/shad-fryz#
+        url: https://zmanfishing.com/products/shad-fryz
         image:
           alt: Shad
           url: https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795
-        price: 4.49
-        retrieved: 2025-12-10
+        price: 3.99
+        retrieved: 2026-11-27
         retailer:
-          name: FishUSA.com
-          url: https://www.fishusa.com/Z-Man-Shad-Fryz/
+          name: ZManFishing.com
+          url: https://zmanfishing.com/products/shad-fryz
         colors:
           - Blue glimmer sparkle
           - name: bumblebee
@@ -498,11 +498,11 @@ categories:
         image:
           alt: Worm
           url: https://zmanfishing.com/cdn/shop/files/MMW-238PK8_3200x.jpg?v=1734521943
-        price: 4.49
-        retrieved: 2025-12-11
+        price: 3.99
+        retrieved: 2026-11-27
         retailer:
-          name: FishUSA.com
-          url: https://www.fishusa.com/Z-Man-Micro-Finesse-Micro-Wormz/
+          name: ZManFishing.com
+          url: https://zmanfishing.com/products/microwormz
         colors:
           - name: Coppertreuse
             purchased: true
@@ -516,7 +516,7 @@ categories:
           alt: Hawken Float
           url: https://hawkenfishing.com/cdn/shop/products/AF8.jpg?v=1593468707&width=900
         price: 4.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Hawken-Aero-Float-AF-8-Series-Float/
@@ -528,7 +528,7 @@ categories:
           alt: Thill Bobber
           url: https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/original/products/1811/17730/media__03729.1660243203.jpg?c=1
         price: 4.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Thill-Wobble-Bobbers/
@@ -540,25 +540,25 @@ categories:
           alt: Chatterbait
           url: https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603
         price: 4.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
-          name: TackleWarehouse.com
-          url: https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05
+          name: ZManFishing.com
+          url: https://zmanfishing.com/products/flashback-r-mini
         colors:
           - Chartreuse rainbow
           - gold black
           - silver natural
       - id: bobby-garland-dock-shootr-pull-tabs
         name: Bobby Garland Dock Shoot'R Pull Tabs
-        url: https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/
+        url: https://rogerssportinggoods.com/bobby-garland-dock-shootr-pull-tabs-24-pack/
         image:
           alt: Pull Tabs
           url: https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg
-        price: 4.87
-        retrieved: 2025-12-10
+        price: 5.99
+        retrieved: 2026-11-27
         retailer:
-          name: FishUSA.com
-          url: https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/
+          name: RogersSportingGoods.com
+          url: https://rogerssportinggoods.com/bobby-garland-dock-shootr-pull-tabs-24-pack/
         colors:
           - Holographic scale
           - natural fin
@@ -569,7 +569,7 @@ categories:
           alt: Mule Jig
           url: https://www.mulefishing.com/cdn/shop/products/1304_540x.jpg?v=1637104830
         price: 4.49
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: MuleFishing.com
           url: https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz
@@ -586,7 +586,7 @@ categories:
           alt: Mule Jig
           url: https://www.mulefishing.com/cdn/shop/products/180group_1024x1024@2x.png?v=1636452662
         price: 4.49
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: MuleFishing.com
           url: https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz
@@ -602,24 +602,24 @@ categories:
         image:
           alt: Slab Slanger
           url: https://mrcrappie.com/cdn/shop/products/MRCSS-48.jpg?v=1519842248&width=750
-        price: 4.49
-        retrieved: 2025-12-11
+        price: 3.99
+        retrieved: 2026-11-27
         retailer:
-          name: FishUSA.com
-          url: https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/
+          name: MrCrappie.com
+          url: https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger
         colors:
           - Pumpkinseed/chartreuse
       - id: widowmaker-tungsten-bugger-2-pack
         name: Tungsten Bugger 2-Pack
-        url: https://widowmakerlures.com/year-round-ice-jigs/
+        url: https://widowmakerlures.com/products/tungsten-bugger-2-pack.html
         image:
           alt: Bugger
           url: https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/216/1092/Colalge_all_6__42278.1730214311.jpg?c=2
-        price: 4.39
-        retrieved: 2025-12-11
+        price: 3.19
+        retrieved: 2026-11-27
         retailer:
           name: WidowMakerLures.com
-          url: https://widowmakerlures.com/year-round-ice-jigs/
+          url: https://widowmakerlures.com/products/tungsten-bugger-2-pack.html
         colors:
           - Pink/white
           - red/yellow
@@ -627,15 +627,15 @@ categories:
         size: 1/32 oz.
       - id: zman-micro-trd
         name: Micro TRD
-        url: https://zmanfishing.com/collections/best-sellers/products/micro-trd#
+        url: https://zmanfishing.com/products/micro-trd
         image:
           alt: Micro TRD
           url: https://cdn.shopify.com/s/files/1/0666/9582/3662/products/MTRD-238PK8_540x.jpg?v=1679330319
-        price: 4.24
-        retrieved: 2024-12-11
+        price: 3.99
+        retrieved: 2026-11-27
         retailer:
           name: DiscountTackle.com
-          url: https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0
+          url: https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait
         colors:
           - The Deal
           - fire craw
@@ -647,7 +647,7 @@ categories:
           alt: Bernie
           url: https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png
         price: 3.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/
@@ -663,7 +663,7 @@ categories:
           alt: Coconut Crab
           url: https://www.rapala.eu/img/940/940/resize/catalog/product/b/7/b756ec5e43a697_f4jf2po04p6ot7jvf9hj157h0b_55a78ba6.png
         price: 3.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/
@@ -677,7 +677,7 @@ categories:
           alt: Road runner
           url: https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png
         price: 3.79
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/
@@ -694,7 +694,7 @@ categories:
           alt: Brush Bandit
           url: https://static.wixstatic.com/media/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg/v1/fill/w_296,h_222,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d3322_6a5bd962e5a147a482783949940951cc~mv2.jpg
         price: 3.29
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: FishUSA.com
           url: https://www.fishusa.com/BrushPile-Jigs-Bandit-Soft-Bait/
@@ -749,7 +749,7 @@ categories:
           alt: Swimbait
           url: https://rorolure.com/cdn/shop/products/softBait05_590x.png?v=1642036746
         price: 2.99
-        retrieved: 2025-12-11
+        retrieved: 2026-11-27
         retailer:
           name: RoroLure.com
           url: https://rorolure.com/products/roro-swimbait-micro-finesse-1-6
@@ -780,15 +780,15 @@ categories:
         quantity: 3
       - id: widowmaker-tungsten-dropper
         name: Tungsten Dropper
-        url: https://widowmakerlures.com/year-round-ice-jigs/
+        url: https://widowmakerlures.com/products/tungsten-dropper.html
         image:
           alt: Dropper
           url: https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2
-        price: 1.99
-        retrieved: 2025-12-11
+        price: 1.89
+        retrieved: 2026-11-27
         retailer:
           name: WidowMakerLures.com
-          url: https://widowmakerlures.com/year-round-ice-jigs/
+          url: https://widowmakerlures.com/products/tungsten-dropper.html
         colors:
           - "23"
           - "27"
@@ -812,15 +812,15 @@ categories:
           url: https://rticoutdoors.com/Ice-Bucket?color=Stainless
       - id: new-star-flexible-grill-spatula-14-5
         name: New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White
-        url: https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1
+        url: https://www.amazon.com/dp/B00NHMQ5U2
         image:
           alt: Spatula
           url: https://m.media-amazon.com/images/I/21XscpkHKiL.jpg
-        price: 14.26
-        retrieved: 2025-12-11
+        price: 14.99
+        retrieved: 2026-11-27
         retailer:
           name: Amazon.com
-          url: https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1
+          url: https://www.amazon.com/dp/B00NHMQ5U2
         colors:
           - White
         quantity: 2
@@ -830,8 +830,8 @@ categories:
         image:
           alt: Container
           url: https://static.velkybrands.com/i/items/1749686769.jpg?width=1000&height=1000&fit=bounds
-        price: 10.39
-        retrieved: 2025-12-11
+        price: 12.99
+        retrieved: 2026-11-27
         retailer:
           name: RTIC.com
           url: https://rticoutdoors.com/Lunch-Container?color=Olive
@@ -906,12 +906,12 @@ categories:
     items:
       - id: bulletpoint-rubigrid-v2-ram-truck
         name: RubiGrid® V2 2019+ RAM Truck
-        url: https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925
+        url: https://www.bulletpointmountingsolutions.com/products/rubigrid-v2-2019-ram-truck-1500-2500-3500-4500-5500-trx-dash-mount?variant=41335573741683
         image:
           alt: Truck Grid
           url: https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925
         price: 44.99
-        retrieved: 2025-02-08
+        retrieved: 2026-11-27
         retailer:
           name: bulletpointmountingsolutions.com
           url: https://www.bulletpointmountingsolutions.com/products/rubigrid-v2-2019-ram-truck-1500-2500-3500-4500-5500-trx-dash-mount?variant=41335573741683
