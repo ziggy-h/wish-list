@@ -534,6 +534,201 @@ export function formatStats(stats, currency = 'USD') {
   return `${lines.join('\n')}\n`;
 }
 
+export const DEFAULT_IMAGE_TIMEOUT_MS = 10_000;
+export const DEFAULT_IMAGE_CONCURRENCY = 6;
+const IMAGE_USER_AGENT =
+  'Mozilla/5.0 (compatible; ziggy-h-wishlist-image-checker/1.0; +https://github.com/ziggy-h/wish-list)';
+
+/**
+ * Test whether a single image URL is reachable and serves an image response.
+ * Tries HEAD first and falls back to GET when servers reject HEAD (403/405/501)
+ * or omit Content-Type on HEAD.
+ * @param {string} url
+ * @param {{ timeoutMs?: number, fetchImpl?: typeof fetch }} [options]
+ */
+export async function checkImageUrl(
+  url,
+  { timeoutMs = DEFAULT_IMAGE_TIMEOUT_MS, fetchImpl = fetch } = {},
+) {
+  const attempt = async (method) => {
+    const res = await fetchImpl(url, {
+      method,
+      redirect: 'follow',
+      headers: {
+        'user-agent': IMAGE_USER_AGENT,
+        accept: 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+      },
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+    if (res.body && typeof res.body.cancel === 'function') {
+      await res.body.cancel().catch(() => {});
+    }
+    return res;
+  };
+
+  try {
+    let res = await attempt('HEAD');
+    let methodUsed = 'HEAD';
+    const headContentType = (res.headers?.get('content-type') || '').toLowerCase();
+
+    if (
+      res.status === 403 ||
+      res.status === 405 ||
+      res.status === 501 ||
+      (res.ok && !headContentType)
+    ) {
+      res = await attempt('GET');
+      methodUsed = 'GET';
+    }
+
+    const contentType = (res.headers?.get('content-type') || '').split(';')[0].trim().toLowerCase();
+
+    if (!res.ok) {
+      return {
+        ok: false,
+        status: res.status,
+        contentType: contentType || null,
+        method: methodUsed,
+        reason: `HTTP ${res.status}`,
+      };
+    }
+
+    if (contentType && !contentType.startsWith('image/')) {
+      return {
+        ok: false,
+        status: res.status,
+        contentType,
+        method: methodUsed,
+        reason: `Non-image content-type: ${contentType}`,
+      };
+    }
+
+    return {
+      ok: true,
+      status: res.status,
+      contentType: contentType || null,
+      method: methodUsed,
+      reason: null,
+    };
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    return {
+      ok: false,
+      status: null,
+      contentType: null,
+      method: null,
+      reason: message,
+    };
+  }
+}
+
+/**
+ * Check image URLs across matching wishlist items with bounded concurrency.
+ * @param {object} data
+ * @param {{
+ *   categoryIds?: string[],
+ *   itemIds?: string[],
+ *   includePurchased?: boolean,
+ *   timeoutMs?: number,
+ *   concurrency?: number,
+ *   fetchImpl?: typeof fetch,
+ * }} [options]
+ */
+export async function checkImages(
+  data,
+  {
+    categoryIds = [],
+    itemIds = [],
+    includePurchased = false,
+    timeoutMs = DEFAULT_IMAGE_TIMEOUT_MS,
+    concurrency = DEFAULT_IMAGE_CONCURRENCY,
+    fetchImpl = fetch,
+  } = {},
+) {
+  if (!Number.isInteger(timeoutMs) || timeoutMs <= 0) {
+    throw new Error(`--timeout must be a positive integer (got ${timeoutMs})`);
+  }
+  if (!Number.isInteger(concurrency) || concurrency <= 0) {
+    throw new Error(`--concurrency must be a positive integer (got ${concurrency})`);
+  }
+
+  const categoryFilter = categoryIds.length > 0 ? new Set(categoryIds) : null;
+  const itemFilter = itemIds.length > 0 ? new Set(itemIds) : null;
+
+  const targets = [];
+  for (const category of data.categories) {
+    if (categoryFilter && !categoryFilter.has(category.id)) continue;
+    for (const item of category.items) {
+      if (!includePurchased && item.purchased) continue;
+      if (itemFilter && !itemFilter.has(item.id)) continue;
+      targets.push({ category, item });
+    }
+  }
+
+  const results = new Array(targets.length);
+  let cursor = 0;
+
+  async function worker() {
+    while (cursor < targets.length) {
+      const idx = cursor++;
+      const { category, item } = targets[idx];
+      const check = await checkImageUrl(item.image.url, { timeoutMs, fetchImpl });
+      results[idx] = {
+        id: item.id,
+        name: item.name,
+        categoryId: category.id,
+        categoryName: category.name,
+        imageUrl: item.image.url,
+        manufacturerUrl: item.url,
+        retailerName: item.retailer.name,
+        retailerUrl: item.retailer.url,
+        ...check,
+      };
+    }
+  }
+
+  const workerCount = Math.min(concurrency, targets.length);
+  await Promise.all(Array.from({ length: workerCount }, () => worker()));
+
+  const deadList = results.filter((r) => !r.ok);
+  return {
+    checked: results.length,
+    alive: results.length - deadList.length,
+    dead: deadList.length,
+    results,
+    deadList,
+  };
+}
+
+/**
+ * Format an image check report for terminal output.
+ * @param {Awaited<ReturnType<typeof checkImages>>} report
+ * @returns {string}
+ */
+export function formatImageCheckReport(report) {
+  const lines = [`Image Check: ${report.alive}/${report.checked} alive, ${report.dead} dead`];
+  if (report.deadList.length > 0) {
+    lines.push('', `Dead Images (${report.deadList.length}):`);
+    for (const entry of report.deadList) {
+      lines.push(
+        `  - [${entry.categoryId}] ${entry.id} (${entry.name}) — ${entry.reason}`,
+        `    Dead image: ${entry.imageUrl}`,
+        `    Manufacturer page: ${entry.manufacturerUrl}`,
+        `    Retailer (${entry.retailerName}): ${entry.retailerUrl}`,
+      );
+    }
+  }
+  return `${lines.join('\n')}\n`;
+}
+
+function parseCsvFlag(value) {
+  if (typeof value !== 'string') return [];
+  return value
+    .split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+
 function parseFlags(args) {
   const flags = {};
   for (const arg of args) {
@@ -542,7 +737,13 @@ function parseFlags(args) {
     if (eqIndex === -1) {
       flags[arg.slice(2)] = true;
     } else {
-      flags[arg.slice(2, eqIndex)] = arg.slice(eqIndex + 1);
+      const key = arg.slice(2, eqIndex);
+      const val = arg.slice(eqIndex + 1);
+      if (flags[key] !== undefined && typeof flags[key] === 'string') {
+        flags[key] = `${flags[key]},${val}`;
+      } else {
+        flags[key] = val;
+      }
     }
   }
   return flags;
@@ -561,10 +762,15 @@ Commands:
 
   stats [--stale-days=90] [--as-of=YYYY-MM-DD] [--input=wishlist.yaml] [--json]
       Print summary totals, per-category breakdown, and stale price report.
+
+  check-images [--category=id] [--id=item-id] [--include-purchased]
+               [--timeout=10000] [--concurrency=6] [--input=wishlist.yaml] [--json]
+      Verify image URLs return 2xx image/* responses; list dead images with
+      manufacturer page URLs for replacement lookup.
 `);
 }
 
-export function runCli(argv = process.argv.slice(2)) {
+export async function runCli(argv = process.argv.slice(2)) {
   const [command, ...rest] = argv;
   if (!command || command === '--help' || command === '-h') {
     printHelp();
@@ -643,6 +849,32 @@ export function runCli(argv = process.argv.slice(2)) {
     return 0;
   }
 
+  if (command === 'check-images') {
+    const data = loadWishlist(inputPath);
+    const categoryIds = parseCsvFlag(flags.category);
+    const itemIds = parseCsvFlag(flags.id);
+    const includePurchased = Boolean(flags['include-purchased']);
+    const timeoutMs =
+      flags.timeout !== undefined ? Number(flags.timeout) : DEFAULT_IMAGE_TIMEOUT_MS;
+    const concurrency =
+      flags.concurrency !== undefined ? Number(flags.concurrency) : DEFAULT_IMAGE_CONCURRENCY;
+
+    const report = await checkImages(data, {
+      categoryIds,
+      itemIds,
+      includePurchased,
+      timeoutMs,
+      concurrency,
+    });
+
+    if (flags.json) {
+      console.log(JSON.stringify(report, null, 2));
+    } else {
+      process.stdout.write(formatImageCheckReport(report));
+    }
+    return report.dead > 0 ? 1 : 0;
+  }
+
   console.error(`Unknown command: "${command}"`);
   printHelp();
   return 1;
@@ -652,10 +884,12 @@ const isMainModule =
   process.argv[1] && path.resolve(process.argv[1]) === path.resolve(__filename);
 
 if (isMainModule) {
-  try {
-    process.exitCode = runCli();
-  } catch (err) {
-    console.error(`Error: ${err instanceof Error ? err.message : String(err)}`);
-    process.exitCode = 1;
-  }
+  runCli()
+    .then((code) => {
+      process.exitCode = code;
+    })
+    .catch((err) => {
+      console.error(`Error: ${err instanceof Error ? err.message : String(err)}`);
+      process.exitCode = 1;
+    });
 }

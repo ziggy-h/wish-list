@@ -12,6 +12,7 @@
     "validate": "node scripts/wishlist.mjs validate",
     "lint:md": "markdownlint-cli2 \"**/*.md\"",
     "check": "npm run validate && node scripts/wishlist.mjs render --check && npm run lint:md",
+    "check:images": "node scripts/wishlist.mjs check-images",
     "stats": "node scripts/wishlist.mjs stats",
     "test": "node --test test/*.test.mjs"
   },

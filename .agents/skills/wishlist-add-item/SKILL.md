@@ -1,6 +1,6 @@
 ---
 name: wishlist-add-item
-description: Add a new item to the ziggy-h/wish-list repository from a product URL, product name, or description, updating wishlist.yaml and regenerating a mobile-optimized README.md. Use when the user asks to add an item to their wish list.
+description: Add a new item to the ziggy-h/wish-list repository from a product URL, product name, or description, verifying live images (with manufacturer-page fallback), updating wishlist.yaml, and regenerating a mobile-optimized README.md. Use when the user asks to add an item to their wish list.
 ---
 
 # Wishlist: Add Item
@@ -26,8 +26,20 @@ Use this skill when adding one or more new items to `ziggy-h/wish-list`.
    - Create a concise, lowercase kebab-case `id` that is globally unique across `wishlist.yaml`.
    - Set `retrieved` to today's date in ISO `YYYY-MM-DD` format.
 
-4. **Update, render mobile-optimized `README.md`, and verify**:
+4. **Update `wishlist.yaml` and test for dead images**:
    - Append the new item to the chosen category in `wishlist.yaml` (order in YAML does not affect `README.md`; rendering automatically assigns the price tier and sorts descending by price).
+   - Verify the new item's `image.url` is live and serves an `image/*` response:
+
+     ```bash
+     npm run check:images -- --id=<item-id>
+     ```
+
+   - If the image URL is dead (non-2xx HTTP status, network/DNS error, or soft-404 returning non-image content such as `text/html`):
+     1. Check the **manufacturer's official product page** (`item.url`, or search for the official manufacturer page if `item.url` points to a retailer) to find a working, clean, mobile-friendly product image URL (300–600px wide when available).
+     2. Never bypass CAPTCHAs or anti-bot walls — if the manufacturer page is blocked or has no usable image, fall back to a working image from `retailer.url` or another reputable retailer, or ask the user.
+     3. Update `image.url` in `wishlist.yaml` and re-run `npm run check:images -- --id=<item-id>` to confirm the replacement image is live.
+
+5. **Render mobile-optimized `README.md` and verify**:
    - Run:
 
      ```bash
@@ -39,4 +51,4 @@ Use this skill when adding one or more new items to `ziggy-h/wish-list`.
      - Bounded mobile thumbnails (`<img ... width="180" />`) instead of oversized full-width images.
      - Compact single-line price, buy link, and checked date summary (no wide Markdown tables that force horizontal scrolling on phones).
      - Back-to-top anchor links at the end of each category.
-   - Report the added item's category, assigned price tier, price, and retailer back to the user, and offer to commit on a branch and open a PR (or open the PR directly if requested).
+   - Report the added item's category, assigned price tier, price, retailer, and image check status back to the user, and offer to commit on a branch and open a PR (or open the PR directly if requested).
