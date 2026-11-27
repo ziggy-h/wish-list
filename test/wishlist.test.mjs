@@ -7,9 +7,11 @@ import YAML from 'yaml';
 import {
   DEFAULT_INPUT,
   DEFAULT_OUTPUT,
+  MOBILE_IMAGE_WIDTH,
   assignPriceTier,
   computeStats,
   daysBetweenIsoDates,
+  escapeHtmlAttr,
   formatColors,
   formatPrice,
   formatStats,
@@ -18,6 +20,7 @@ import {
   loadWishlist,
   renderMarkdown,
   runCli,
+  slugifyHeading,
   validateWishlist,
 } from '../scripts/wishlist.mjs';
 
@@ -274,11 +277,22 @@ describe('renderMarkdown', () => {
     const cheapPos = md.indexOf('#### 2. [Cheap Item]');
     assert.ok(midPos > 0 && cheapPos > midPos);
 
+    // Check mobile-first quick-jump nav, bounded thumbnail, compact summary line, and back-to-top link
+    assert.match(md, /\*\*Jump to:\*\* \[Gear \(3\)\]\(#gear\)/);
+    assert.match(md, new RegExp(`<img src="https://example\\.com/expensive\\.jpg" alt="Expensive" width="${MOBILE_IMAGE_WIDTH}" />`));
+    assert.match(md, /\*\*\$125\.50\*\* · \[Buy at Example\]\(https:\/\/example\.com\/buy\/expensive\) · _Checked 2026-11-20_/);
+    assert.match(md, /\[↑ Back to top\]\(#test-wishlist\)/);
+
     // Check struck color and optional attributes
-    assert.match(md, /- Colors: Red, ~~Blue~~, and Green/);
-    assert.match(md, /- Quantity: 2/);
-    assert.match(md, /- Notes: Check holiday sale/);
-    assert.match(md, /- Lowest price: \$125\.50/);
+    assert.match(md, /- \*\*Colors:\*\* Red, ~~Blue~~, and Green/);
+    assert.match(md, /- \*\*Quantity:\*\* 2/);
+    assert.match(md, /- \*\*Notes:\*\* Check holiday sale/);
+  });
+
+  it('escapes HTML attributes safely and generates GitHub-compatible heading slugs', () => {
+    assert.equal(escapeHtmlAttr('4" x 6" & <pro>'), '4&quot; x 6&quot; &amp; &lt;pro&gt;');
+    assert.equal(slugifyHeading('2026 X-mas Wishlist'), '2026-x-mas-wishlist');
+    assert.equal(slugifyHeading('Fishing tackle'), 'fishing-tackle');
   });
 });
 
