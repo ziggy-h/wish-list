@@ -1,5 +1,7 @@
 # 2026 X-mas Wishlist
 
+<!-- Generated from wishlist.yaml via "npm run render". Do not edit manually. -->
+
 ## Kayak
 
 ### $100+
@@ -9,7 +11,7 @@
 ##### ![Fishing Crate](https://cdn11.bigcommerce.com/s-z9gt0fu/products/802/images/9140/blackpak-pro-kayak-fishing-crate-13-x-13-battleship-grey__80496.1713883723.400.400.jpg?c=2)
 
 - Lowest price: $124.95
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [Amazon.com](https://www.amazon.com/YakAttack-BlackPak-Kayak-Fishing-Crate/dp/B0D78SQPZR/ref=asc_df_B0D78SQPZR?tag=bingshoppinga-20&linkCode=df0&hvadid=80814295299931&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413766404433&psc=1&msclkid=7c65c4ceb3e81051cbbaa3978096c51a)
 
 ---
@@ -21,7 +23,7 @@
 ##### ![ShortStak Upgrade Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/products/776/images/9231/13x13-shortstak-upgrade-kit-for-blackpak-pro-battleship-grey__87969.1713884085.400.400.jpg?c=2)
 
 - Lowest price: $56.95
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [Amazon.com](https://www.amazon.com/YakAttack-ShortStak-Upgrade-BlackPak-BLP-AC-0009-BG/dp/B0D952X4H3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Y4TNLhx_pMvUC5vgjIxM3R7iB9PELtwqe9JwVW3nbbM.oN3F9qsQDIVTsxLAoGNUxX9vTX6WnCjh0Tq3PbfgKOM&dib_tag=se&keywords=13x13+ShortStak+Upgrade+Kit+for+BlackPak+Pro%2C+Battleship+Grey&qid=1733901286&sr=8-2)
 
 #### 2. [Rectangular Fish Finder Mount with Track Mounted LockNLoad™ Mounting System](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
@@ -29,7 +31,7 @@
 ##### ![Fish Finder Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/543/images/4116/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system-ffp-1003__00925.1710893336.400.400.jpg?c=2)
 
 - Lowest price: $52.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/rectangular-fish-finder-mount-with-track-mounted-locknload-mounting-system/)
 
 #### 3. [TracPak Combo Kit, Two Boxes and Quick Release Base, Orange](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
@@ -37,7 +39,7 @@
 ##### ![TracPak Combo Kit](https://cdn11.bigcommerce.com/s-z9gt0fu/images/stencil/500x500/products/799/9175/tracpak-combo-kit-two-boxes-and-quick-release-base-orange__00154.1713883946.jpg?c=2)
 
 - Lowest price: $52.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/tracpak-combo-kit-two-boxes-and-quick-release-base-orange/)
 
 ---
@@ -49,7 +51,7 @@
 ##### ![Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/557/images/4164/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system-rhm-1004__36599.1711019918.400.400.jpg?c=2)
 
 - Lowest price: $43.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/zooka-ii-rod-holder-with-track-mounted-locknload-mounting-system/)
 
 #### 2. [TracPak with PicPocket QuickDraw and Track Mount](https://www.yakattack.us/tracpak-with-picpocket-quickdraw-and-track-mount/)
@@ -57,7 +59,7 @@
 ##### ![TracPak with PicPocket QuickDraw and Track Mount](https://cdn11.bigcommerce.com/s-z9gt0fu/products/743/images/7733/tracpak-with-picpocket-quickdraw-and-track-mount__59817.1702116391.400.400.jpg?c=2)
 
 - Lowest price: $42.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/tracpak-with-picpocket-quickdraw-and-track-mount/)
 
 #### 3. [DoubleHeader with Dual RotoGrip Paddle Holders](https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/)
@@ -65,7 +67,7 @@
 ##### ![Paddle Holders](https://cdn11.bigcommerce.com/s-z9gt0fu/products/594/images/5221/doubleheader-with-dual-rotogrip-paddle-holders-tma-1002__85783.1661622469.400.400.jpg?c=2)
 
 - Lowest price: $36.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/doubleheader-with-dual-rotogrip-paddle-holders/)
 
 #### 4. [7.75" Gear Track Kit 25Q/45Q](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
@@ -73,7 +75,7 @@
 ##### ![Gear Track Kit 25Q/45Q](https://cdn11.bigcommerce.com/s-6xk5gybgv2/images/stencil/210x280/products/624/1275/91952__48869.1595392857.jpg?c=1)
 
 - Lowest price: $29.99
-- Retrieved 12/18/2024
+- Retrieved 2024-12-18
 - [JacksonKayak.com](https://jacksonkayak.com/7-75-gear-track-kit-25q-45q/)
 
 #### 5. [TetherTube Rod Holder- Two Pack with Mounting Hardware](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
@@ -81,7 +83,7 @@
 ##### ![TetherTube Rod Holder](https://cdn11.bigcommerce.com/s-z9gt0fu/products/608/images/10827/tethertube-rod-holder-two-pack-with-mounting-hardware__90818.1726513257.400.400.jpg?c=2)
 
 - Lowest price: $26.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/tethertube-rod-holder-two-pack-with-mounting-hardware/)
 
 ---
@@ -93,7 +95,7 @@
 ##### ![GridLoc MightyMount with 90 Degree Adapter](https://cdn11.bigcommerce.com/s-z9gt0fu/products/612/images/5290/gridloc-mightymount-with-90-degree-adapter-mmgl-1002__80881.1662054855.400.400.jpg?c=2)
 
 - Lowest price: $22.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/gridloc-mightymount-with-90-degree-adapter/)
 
 #### 2. [KnotLoc Bungee Dividers, 6-Pack](https://www.yakattack.us/knotloc-bungee-dividers-6-pack/)
@@ -101,7 +103,7 @@
 ##### ![Bungee Dividers](https://cdn11.bigcommerce.com/s-z9gt0fu/products/617/images/5267/knotloc-bungee-dividers-6-pack-blp-ac-0008__42200.1662054825.400.400.jpg?c=2)
 
 - Lowest price: $20.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/knotloc-bungee-dividers-6-pack/)
 
 #### 3. [Rigging Bullet™, 8-32 Threads](https://www.yakattack.us/RB0832_p/rb0832.htm)
@@ -109,7 +111,7 @@
 ##### ![Rigging Bullet 8-32 Threads](https://cdn11.bigcommerce.com/s-z9gt0fu/products/333/images/4672/rigging-bullet-8-32-threads-rb0832__65467.1710027348.400.400.jpg?c=2)
 
 - Lowest price: $18.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/RB0832_p/rb0832.htm)
 
 #### 4. [Orion Cooler Gasket](https://jacksonkayak.com/orion-cooler-gasket/)
@@ -118,7 +120,7 @@
 
 - Size: 25 quart
 - Lowest price: $15.99
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [JacksonKayak.com](https://jacksonkayak.com/orion-cooler-gasket/)
 
 #### 5. [GTSL90 GearTrac 4'' Black](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
@@ -127,7 +129,7 @@
 
 - Quantity: 2
 - Lowest price: $12.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/GTSL90_BK04_p/gtsl90-bk04.htm)
 
 #### 6. [FullBack™ Backing Plate for GT90, GTTL90, GTSL90 4'' GearTrac](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
@@ -136,14 +138,14 @@
 
 - Quantity: 2
 - Lowest price: $12.00
-- Retrieved 12/4/2025
+- Retrieved 2025-12-04
 - [YakAttack.us](https://www.yakattack.us/FB_GT90_04_p/fb-gt90-04.htm)
 
 ---
 
 ## Fishing tackle
 
-### Under $100
+### $50+
 
 #### 1. [Scheels Outfitters Daiwa Tournament LT Spinning Reel](https://www.scheels.com/p/04317844819?queryID=449f85c78c9d2dcd)
 
@@ -151,18 +153,18 @@
 
 - Model: 1000
 - Lowest price: $99.99
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [Scheels.com](https://www.scheels.com/p/04317844819?queryID=449f85c78c9d2dcd)
 
 #### 2. [FishUSA Flagship BFS Casting Rod](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
-##### ![Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/1280w/products/16617/54667/BFS-Variant__11513.1739218380.jpg?c=1%201280w)
+##### ![Rod](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/1280w/products/16617/54667/BFS-Variant__11513.1739218380.jpg?c=1)
 
 - Size: 6 foot 6 inches
 - Power: Light
 - Action: Fast
 - Lowest price: $82.49
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [FishUSA.com](https://www.fishusa.com/FishUSA-Flagship-BFS-Casting-Rod/)
 
 #### 3. [Dexter Outdoors® SG133-7EG 7 inch SOFGRIP® flexible fillet knife with Edge Guard](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
@@ -170,39 +172,39 @@
 ##### ![Flexible Fillet Knife](https://cdn11.bigcommerce.com/s-p47pziauz6/images/stencil/960w/products/324/1099/SG133-7EG_ASIN_B0853FDFPV_copy__56671.1752257046.jpg?c=1)
 
 - Lowest price: $54.99
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [DexterOutdoors.com](https://dexteroutdoors.com/sg133-7eg-7-inch-sofgrip-flexible-fillet-knife-with-edge-guard/)
 
 ---
 
-### Under $25
+### $10+
 
 #### 1. [Bottom Magic](https://jackson-quon.com/product/2083/)
 
 ##### ![Plug](https://s3.ap-northeast-1.amazonaws.com/cdn.jackson-quon.com/wordpress/wp-content/uploads/2019/03/24123039/gal.jpg)
 
-- Color: Red glow chart pink, and about shad iii
+- Colors: Red glow chart pink and about shad iii
 - Model: Light tune
 - Lowest price: $18.99
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [BaitFinesseEmpire.com](https://baitfinesseempire.com/product/jackson-bottom-magic-light-tune/)
 
-#### 2. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
-
-##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
-
-- Lowest price: $15.27
-- Retrieved 12/7/2025
-- [DicksSportingGoods.com](https://www.dickssportinggoods.com/p/flambeau-terminal-ultimate-slim-waterproof-tuff-tainer-22fmbutrmnlltmttftbx/22fmbutrmnlltmttftbx?sku=24229557&camp=CSE:DSG_2301622352571_PLA_pla-4583383006479164&gclid=6a750d5125ad173be72664643dac8da9&gclsrc=3p.ds&msclkid=6a750d5125ad173be72664643dac8da9)
-
-#### 3. [Mukai B-Chatter Pink](https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1)
+#### 2. [Mukai B-Chatter Pink](https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1)
 
 ##### ![Mukai Chatter Bait Pink](https://m.media-amazon.com/images/I/211m85ieOwS._AC_.jpg)
 
 - Color: Pink
 - Lowest price: $15.70
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [Amazon.com](https://www.amazon.com/%E3%83%A0%E3%82%AB%E3%82%A4-Mukai-B-Chater-Light-Pink/dp/B093DXJDY2/ref=pd_lpo_d_sccl_1/144-7738306-4786265?pd_rd_w=sxEGj&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=Z7HC9ECKS36XAW5NG3QS&pd_rd_wg=gxRYp&pd_rd_r=8dbe3130-e609-4840-ad6e-95010e97318b&pd_rd_i=B093DXJDY2&th=1&psc=1)
+
+#### 3. [Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/terminal-slim-waterproof-ultimate-tuff-tainer)
+
+##### ![Terminal Slim Waterproof Ultimate Tuff Tainer](https://www.flambeauoutdoors.com/resize/shared/images/product/Screenshot-2023-06-15-at-4.27.07-PM.png?bh=250)
+
+- Lowest price: $15.27
+- Retrieved 2025-12-07
+- [DicksSportingGoods.com](https://www.dickssportinggoods.com/p/flambeau-terminal-ultimate-slim-waterproof-tuff-tainer-22fmbutrmnlltmttftbx/22fmbutrmnlltmttftbx?sku=24229557&camp=CSE:DSG_2301622352571_PLA_pla-4583383006479164&gclid=6a750d5125ad173be72664643dac8da9&gclsrc=3p.ds&msclkid=6a750d5125ad173be72664643dac8da9)
 
 #### 4. [Mukai B-Chatter Chartreuse](https://www.amazon.com/Mukai-B-Chater-Chart/dp/B096QZTNVC/ref=pd_bxgy_thbs_d_sccl_1/144-7738306-4786265?pd_rd_w=IKPYV&content-id=amzn1.sym.de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_p=de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_r=QGJHA95C3QBVPYNJAGH3&pd_rd_wg=OfkJi&pd_rd_r=0a4b15b4-31cd-4940-875d-2d92f0c2919e&pd_rd_i=B096QZTNVC&th=1)
 
@@ -210,31 +212,31 @@
 
 - Color: Chartreuse
 - Lowest price: $15.20
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [Amazon.com](https://www.amazon.com/Mukai-B-CHATTER-Solid-Color-0-08/dp/B096QZTNVC?th=1)
 
 #### 5. [X-Rap XR04](https://www.rapala.com/us_en/x-rap?childSku=us-XR04BTR)
 
 ##### ![XR04](https://www.rapala.eu/img/940/940/resize/catalog/product/c/f/cf01e8ce7c6cef_qfdi7l5hlp141aj5bfdhlfv13h_95aa090b.png)
 
-- Color: Yellow perch, glass ghost, brown trout, and brook trout
+- Colors: Yellow perch, glass ghost, brown trout, and brook trout
 - Size: 1-1/2''
 - Lowest price: $12.49
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [FishUSA.com](https://www.fishusa.com/Rapala-XRap-Lures/)
 
 ---
 
-### Under $10
+### $5+
 
 #### 1. [Rapala Ultra Light Crank](https://www.rapala.com/us_en/ultra-light-crank?childSku=us-ULC03PCL)
 
 ##### ![Ultra Light Crank](https://www.rapala.eu/img/940/940/resize/catalog/product/4/2/4233508eeb5f0e_uu6e89lo2h53b8u3fjstv6js55_de5c2e1b.png)
 
-- Colors: Pink clown, ~~yellow perch, shad~~, and gold
+- Colors: Pink clown, ~~yellow perch~~, ~~shad~~, and gold
 - Size: 1-1/2''
 - Lowest price: $8.49
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/rapala-ultra-light-cranks/)
 
 #### 2. [Rapala Ultra Light Minnow](https://www.rapala.com/us_en/ultra-light-minnow?childSku=us-ULM04YP)
@@ -244,45 +246,45 @@
 - Colors: Pink clown, yellow perch, and shad
 - Size: 1-1/2''
 - Lowest price: $8.49
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Rapala-Ultra-Light-Minnow-Lures/)
 
 #### 3. [Rapala Ultra Light Shad](https://www.rapala.com/us_en/ultra-light-shad?childSku=us-ULS04CLN)
 
 ##### ![Ultra Light Shad](https://www.rapala.eu/img/940/940/resize/catalog/product/9/6/96af7e4a3efa11_ob6o9fscit01nai09e5d2f9v7k_bc511499.png)
 
-- Colors: Brown trout
+- Color: Brown trout
 - Size: 1-1/2''
 - Lowest price: $8.49
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/rapala-ultra-light-shad/)
 
 #### 4. [Tungsten Jig Heads](https://widowmakerlures.com/)
 
 ##### ![Jig head](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/198/954/All_3_colors_copy__02689.1698245574.jpg?c=2)
 
-- Size: 1/32 oz.
 - Colors: Gold/black, firetiger, and pink/white
+- Size: 1/32 oz.
 - Lowest price: $7.99
-- Retrieved 2/13/2025
+- Retrieved 2025-02-13
 - [WidowMakerLures.com](https://widowmakerlures.com/)
 
 #### 5. [Stoneflies](https://nikko-fishing.myshopify.com/collections/stoneflies)
 
 ##### ![Stoneflies](https://nikko-fishing.myshopify.com/cdn/shop/files/4580269449551.MAIN_1024x1024@2x.png?v=1739916853)
 
-- Colors: Mudbug (#955)
+- Color: Mudbug (#955)
 - Lowest price: $7.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Nikko-Dappy-Stonefly/)
 
 #### 6. [Caddisfly 1.5](https://nikko-fishing.myshopify.com/products/caddisfly-1-5-mudbug-943)
 
 ##### ![Caddisfly](https://nikko-fishing.myshopify.com/cdn/shop/products/7222200_540x.jpg?v=1669771478)
 
-- Colors: Mudbug (#943)
+- Color: Mudbug (#943)
 - Lowest price: $7.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Nikko-Caddisfly_3/)
 
 #### 7. [Northland Rigged Tungsten Pin Fry](https://shop.northlandtackle.com/panfish-tungsten/rigged-tungsten-pin-fry/)
@@ -292,17 +294,17 @@
 - Colors: Fruit fly, glo white, gold, and woodtick
 - Weight: 1/28 oz.
 - Lowest price: $6.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Northland-Rigged-Tungsten-Pin-Fry/)
 
 #### 8. [Warbird Hand Tied Jigs](https://jenkofishing.com/products/warbird-hand-tied-jigs)
 
 ##### ![Warbird Jig](https://jenkofishing.com/cdn/shop/products/WarbirdColors.jpg?v=1627656398)
 
-- Size: 1/32 oz.
 - Colors: Blue white pink, pink pink white, and white white chart
+- Size: 1/32 oz.
 - Lowest price: $5.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Jenko-Warbird-Hand-Tied-Jigs/)
 
 #### 9. [Burro Bug](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
@@ -311,85 +313,85 @@
 
 - Colors: GP black flake, pasture fire, and rodeo clown
 - Lowest price: $5.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/burro-bug)
 
 #### 10. [Berkley Gulp! Fat Floating Trout Worms](https://www.berkley-fishing.com/products/gulp-fat-floating-trout-worm?variant=42291118473355)
 
-##### ![Trout Worms](https://www.berkley-fishing.com/cdn/shop/files/1265859.jpg?v=1713987567&amp;width=600)
+##### ![Trout Worms](https://www.berkley-fishing.com/cdn/shop/files/1265859.jpg?v=1713987567&width=600)
 
-- Colors: Bubblegum, chartreuse, nightcrawler
+- Colors: Bubblegum, chartreuse, and nightcrawler
 - Lowest price: $5.99
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/berkley-gulp-2-fat-floating-trout-worm/)
 
 #### 11. [Original Road Runner Heads](https://ttiblakemore.com/product/road-runner/road-runner-heads/original-road-runner-heads-road-runner-heads/original-road-runner-heads-4pk/)
 
 ##### ![Road Runner Head](https://ttiblakemore.com/wp-content/uploads/2019/07/033-Web-Scaled.jpg)
 
-- Size: 1/16 oz.
 - Colors: ~~Chartreuse~~, flourescent orange, ~~pink~~, and ~~white~~
+- Size: 1/16 oz.
 - Lowest price: $5.79
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/road-runner-original-jig-heads/)
 
 ---
 
 ### Under $5
 
-#### 1. [Shad FryZ](https://zmanfishing.com/collections/elaztech-plastics/products/shad-fryz#)
-
-##### ![Shad](https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795)
-
-- Colors: Blue glimmer sparkle, ~~bumblebee~~, firetreuse, ~~smelt~~, and pearl
-- Lowest price: $4.49
-- Retrieved 12/10/2025
-- [FishUSA.com](https://www.fishusa.com/Z-Man-Shad-Fryz/)
-
-#### 2. [Micro WormZ](https://zmanfishing.com/products/microwormz)
-
-##### ![Worm](https://zmanfishing.com/cdn/shop/files/MMW-238PK8_3200x.jpg?v=1734521943)
-
-- Colors: ~~Coppertreuse~~, ~~green pumpkin~~, and hot chartreuse
-- Lowest price: $4.49
-- Retrieved 12/11/2025
-- [FishUSA.com](https://www.fishusa.com/Z-Man-Micro-Finesse-Micro-Wormz/)
-
-#### 3. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
+#### 1. [Aero-Float AF-8 Series](https://hawkenfishing.com/products/copy-of-aero-float-af-1-series)
 
 ##### ![Hawken Float](https://hawkenfishing.com/cdn/shop/products/AF8.jpg?v=1593468707&width=900)
 
 - Size: 1/32 oz.
 - Lowest price: $4.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/Hawken-Aero-Float-AF-8-Series-Float/)
 
-#### 4. [Thill Wobble Bobber](https://www.fishusa.com/Thill-Wobble-Bobbers/)
+#### 2. [Thill Wobble Bobber](https://www.fishusa.com/Thill-Wobble-Bobbers/)
 
 ##### ![Thill Bobber](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/original/products/1811/17730/media__03729.1660243203.jpg?c=1)
 
 - Size: 1/16 oz.
 - Lowest price: $4.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/Thill-Wobble-Bobbers/)
 
-#### 5. [Flashback Mini](https://zmanfishing.com/products/flashback-r-mini)
+#### 3. [Flashback Mini](https://zmanfishing.com/products/flashback-r-mini)
 
 ##### ![Chatterbait](https://zmanfishing.com/cdn/shop/files/CB-FBMINI18-06_6e66c61e-9fc5-42ab-8a9b-3ae8def81bf8_3200x.jpg?v=1734518603)
 
-- Colors: Chartreuse rainbow, gold black, silver natural
+- Colors: Chartreuse rainbow, gold black, and silver natural
 - Lowest price: $4.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [TackleWarehouse.com](https://www.tacklewarehouse.com/Z-Man_Chatterbait_Flashback_Mini/descpage-ZCFM.html?msockid=3a3e9e0599e36a7823d18b73988c6b05)
 
-#### 6. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/)
+#### 4. [Bobby Garland Dock Shoot'R Pull Tabs](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/)
 
 ##### ![Pull Tabs](https://cdn11.bigcommerce.com/s-s2ydjd5yv9/images/stencil/400w/attribute_rule_images/48993_source_1667181124.jpg)
 
 - Colors: Holographic scale and natural fin
 - Lowest price: $4.87
-- Retrieved 12/10/2025
+- Retrieved 2025-12-10
 - [FishUSA.com](https://www.fishusa.com/Bobby-Garland-Dock-ShootR-Pull-Tabs/)
+
+#### 5. [Shad FryZ](https://zmanfishing.com/collections/elaztech-plastics/products/shad-fryz#)
+
+##### ![Shad](https://zmanfishing.com/cdn/shop/products/MSH-353PK8_3200x.jpg?v=1734521795)
+
+- Colors: Blue glimmer sparkle, ~~bumblebee~~, firetreuse, ~~smelt~~, and pearl
+- Lowest price: $4.49
+- Retrieved 2025-12-10
+- [FishUSA.com](https://www.fishusa.com/Z-Man-Shad-Fryz/)
+
+#### 6. [Micro WormZ](https://zmanfishing.com/products/microwormz)
+
+##### ![Worm](https://zmanfishing.com/cdn/shop/files/MMW-238PK8_3200x.jpg?v=1734521943)
+
+- Colors: ~~Coppertreuse~~, ~~green pumpkin~~, and hot chartreuse
+- Lowest price: $4.49
+- Retrieved 2025-12-11
+- [FishUSA.com](https://www.fishusa.com/Z-Man-Micro-Finesse-Micro-Wormz/)
 
 #### 7. [Mule Jig (1/32oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
@@ -397,7 +399,7 @@
 
 - Colors: Chartreuse, white, fire red, pink, and green pumpkin
 - Lowest price: $4.49
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-32oz)
 
 #### 8. [Mule Jig (1/80oz)](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
@@ -406,16 +408,16 @@
 
 - Colors: Chartreuse, white, fire red, pink, and green pumpkin
 - Lowest price: $4.49
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [MuleFishing.com](https://www.mulefishing.com/collections/mule-fishing/products/mule-jig-1-80oz)
 
 #### 9. [Slab Slanger](https://store.mrcrappie.com/collections/mr-crappie-by-strike-king-lures/products/mr-crappie-slab-slanger)
 
 ##### ![Slab Slanger](https://mrcrappie.com/cdn/shop/products/MRCSS-48.jpg?v=1519842248&width=750)
 
-- Colors: Pumpkinseed/chartreuse
+- Color: Pumpkinseed/chartreuse
 - Lowest price: $4.49
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/Strike-King-Mr-Crappie-Slab-Slangers/)
 
 #### 10. [Tungsten Bugger 2-Pack](https://widowmakerlures.com/year-round-ice-jigs/)
@@ -425,7 +427,7 @@
 - Colors: Pink/white, red/yellow, and yellow/black
 - Size: 1/32 oz.
 - Lowest price: $4.39
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
 #### 11. [Micro TRD](https://zmanfishing.com/collections/best-sellers/products/micro-trd#)
@@ -434,16 +436,16 @@
 
 - Colors: The Deal, fire craw, and pb&j
 - Lowest price: $4.24
-- Retrieved 12/11/2024
+- Retrieved 2024-12-11
 - [DiscountTackle.com](https://discounttackle.com/products/z-man-micro-trd-micro-finesse-bait?_pos=1&_psq=micro+trd&_ss=e&_v=1.0)
 
 #### 12. [Bernie](https://www.rapala.com/us_en/bernie)
 
 ##### ![Bernie](https://www.rapala.com/img/324/489/resize/catalog/product/a/5/a5c7c205bf69b8_vkgq48d0c17rv6eev2umf5m47f_00f24967.png)
 
-- Colors: Black magic, radioactive pickle, snozberry, white no. 1
+- Colors: Black magic, radioactive pickle, snozberry, and white no. 1
 - Lowest price: $3.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/13-fishing-bernie-superior-soft-plastics/)
 
 #### 13. [Coconut Crab](https://www.rapala.com/us_en/coconut-crab)
@@ -452,17 +454,17 @@
 
 - Colors: Panfish whiskey sour and radioactive pickle
 - Lowest price: $3.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/13-Fishing-Coconut-Crab-Superior-Soft-Plastics/)
 
 #### 14. [Trout Runner Road Runner](https://ttiblakemore.com/product/road-runner/road-runner-lures-rigged/trout-runner-road-runner/)
 
 ##### ![Road runner](https://ttiblakemore.com/wp-content/uploads/2020/09/Trout-Runner-195-Cajun-Cricket-WEB-SCALED.png)
 
-- Size: 1/16 oz.
 - Colors: Glacier, ice out, pink/white, and white
+- Size: 1/16 oz.
 - Lowest price: $3.79
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/Road-Runner-Trout-Runner-w-Itty-Bit-SwimR/)
 
 #### 15. [BrushPile Jigs Brush Bandit](https://www.brushpilejig.com/brush-bandit)
@@ -471,7 +473,7 @@
 
 - Colors: Glow blue, glow chartreuse, glow pink, and orange sunrise
 - Lowest price: $3.29
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [FishUSA.com](https://www.fishusa.com/BrushPile-Jigs-Bandit-Soft-Bait/)
 
 #### 16. [Crawdad Orange Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
@@ -481,7 +483,7 @@
 - Size: 10
 - Quantity: 3
 - Lowest price: $3.15
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [Etsy.com](https://www.etsy.com/listing/1853512855/pine-squirrel-leech-size-10-crawdad)
 
 #### 17. [Olive Tungsten Pine Squirrel Leech Jig](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
@@ -491,7 +493,7 @@
 - Size: 10
 - Quantity: 3
 - Lowest price: $3.15
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [Etsy.com](https://www.etsy.com/listing/1839322144/pine-squirrel-leech-size-10-olive)
 
 #### 18. [Olive Tungsten Pine Squirrel Rubber Leg Leech](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
@@ -501,55 +503,57 @@
 - Size: 10
 - Quantity: 3
 - Lowest price: $3.15
-- Retrieved 12/7/2025
+- Retrieved 2025-12-07
 - [Etsy.com](https://www.etsy.com/listing/1839932946/pine-squirrel-rubber-leg-leech-size-10)
 
 #### 19. [Roro Swimbait Micro Finesse 1.6″](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
 
 ##### ![Swimbait](https://rorolure.com/cdn/shop/products/softBait05_590x.png?v=1642036746)
 
-- Colors: A, c, k, g, p, q
+- Colors: A, c, k, g, p, and q
 - Lowest price: $2.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [RoroLure.com](https://rorolure.com/products/roro-swimbait-micro-finesse-1-6)
 
 #### 20. [Jiggy Flash Woolly Bugger](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
 ##### ![Woolly Bugger](https://i.etsystatic.com/15780174/r/il/f6e942/6613153960/il_794xN.6613153960_jewa.jpg)
 
-- Colors: White, black, olive, brown
+- Colors: White, black, olive, and brown
 - Size: 10
 - Quantity: 3
 - Lowest price: $2.19
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [Etsy.com](https://www.etsy.com/listing/1827968040/jiggy-flash-woolly-bugger-streamer-flies?click_key=9f711e4c9058045bbae7d2b606970c2739e1474a%3A1827968040&click_sum=920bf42d&ref=related-2&sts=1&variation0=4972842143&variation1=4972842145)
 
 #### 21. [Tungsten Dropper](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ##### ![Dropper](https://cdn11.bigcommerce.com/s-pcnmu107/images/stencil/160w/products/97/396/Dropper_Colors__30046.1660651623.jpg?c=2)
 
-- Colors: 23, 27, 29, 30
+- Colors: 23, 27, 29, and 30
 - Size: 10
 - Quantity: 3
 - Lowest price: $1.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [WidowMakerLures.com](https://widowmakerlures.com/year-round-ice-jigs/)
 
 ---
 
 ## Grilling
 
-### Under $150
+### $50+
 
 #### 1. [RTIC Ice Bucket](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
-##### ![Ice Bucket](https://static.velkybrands.com/i/items/3409668941.jpg?width=1000&amp;height=1000&amp;fit=bounds)
+##### ![Ice Bucket](https://static.velkybrands.com/i/items/3409668941.jpg?width=1000&height=1000&fit=bounds)
 
 - Lowest price: $62.99
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [RTIC.com](https://rticoutdoors.com/Ice-Bucket?color=Stainless)
 
-### Under $20
+---
+
+### $10+
 
 #### 1. [New Star Foodservice 36213 Plastic Handle Flexible Grill Turner/Spatula, 14.5-Inch, White](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
@@ -558,23 +562,23 @@
 - Color: White
 - Quantity: 2
 - Lowest price: $14.26
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [Amazon.com](https://www.amazon.com/New-Star-Foodservice-36213-14-5-Inch/dp/B00NHMQ5U2/134-4604163-8197142?pd_rd_w=w5WhD&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=YVW5C5SDFZ14D1ZM7R9F&pd_rd_wg=U5WDu&pd_rd_r=33c37564-d254-433f-b801-bda5f506ea93&pd_rd_i=B00NHMQ5U2&psc=1)
 
 #### 2. [RTIC Day Cooler Lunch Container](https://rticoutdoors.com/Lunch-Container?color=Olive)
 
-##### ![Container](https://static.velkybrands.com/i/items/1749686769.jpg?width=1000&amp;height=1000&amp;fit=bounds)
+##### ![Container](https://static.velkybrands.com/i/items/1749686769.jpg?width=1000&height=1000&fit=bounds)
 
 - Color: Olive
 - Lowest price: $10.39
-- Retrieved 12/11/2025
+- Retrieved 2025-12-11
 - [RTIC.com](https://rticoutdoors.com/Lunch-Container?color=Olive)
 
 ---
 
 ## Guitar
 
-### Above $1000
+### $1,000+
 
 #### 1. [Forever Guitar](https://usa.yamaha.com/musical-instruments/guitars-basses-amps/products/electric-guitars/rs-2022/index.html#d1775149)
 
@@ -582,28 +586,28 @@
 
 - Color: Sunset Burst
 - Lowest price: $2,199.99
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/RevstarP20SB--yamaha-revstar-professional-rsp20-electric-guitar-sunset-burst)
 
-### Around $1000
-
-#### 1. [Metal Guitar](https://www.schecterguitars.com/Damien-Platinum-6-FR-S)
+#### 2. [Metal Guitar](https://www.schecterguitars.com/Damien-Platinum-6-FR-S)
 
 ##### ![Schecter Guitar Research, Inc. Damien Platinum-6 FR S](https://www.schecterguitars.com/images/Damien%20Platinum-6%20FR%20S.01.png)
 
-- Lowest price: $1149.00
-- Retrieved 11/23/2026
+- Lowest price: $1,149.00
+- Retrieved 2026-11-23
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/DMP6FRSSBK--schecter-damien-platinum-6-with-floyd-rose-and-sustaniac-satin-black)
 
-#### 2. [Amp Head and Cabinet](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
+#### 3. [Amp Head and Cabinet](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
 
 ##### ![Boss Katana Artist Gen 3 100-watt Amplifier Head and Katana 150-watt 2 x 12-inch Cabinet](https://media.sweetwater.com/m/products/image/133bd78bc0uuAPqxlcZW4C4IsOaysJ71eDVOjf0j.png?quality=82&height=750&ha=133bd78bc00a493d)
 
-- Lowest price: $1109.98
-- Retrieved 11/23/2026
+- Lowest price: $1,109.98
+- Retrieved 2026-11-23
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/KataHdArt3Bn1--boss-katana-artist-gen-3-100-watt-amplifier-head-and-katana-150-watt-2-by-12-inch-cabinet)
 
-### Around $700
+---
+
+### $500+
 
 #### 1. [Beatles/Oasis Guitar](https://sire-usa.com/products/h7)
 
@@ -611,7 +615,7 @@
 
 - Color: Cherry Sunburst
 - Lowest price: $799.99
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/LCH7CS--sire-larry-carlton-h7-semi-hollow-electric-guitar-cherry-sunburst)
 
 #### 2. [PRS SE McCarty 594 Electric Guitar - Vintage Sunburst](https://prsguitars.com/electrics/model/se_mccarty_594)
@@ -620,14 +624,14 @@
 
 - Color: Black Gold Burst
 - Lowest price: $799.20
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [Sweetwater.com](https://www.sweetwater.com/store/detail/SEMC594BGS--prs-se-mccarty-594-electric-guitar-black-gold-burst?serial=CTII019438)
 
 ---
 
 ## Trucking
 
-### Around $50
+### $25+
 
 #### 1. [RubiGrid® V2 2019+ RAM Truck](https://www.bulletpointmountingsolutions.com/cdn/shop/files/BulletpointRAMTruckRubiGridv2DashMountwithAMPSBall_400x.jpg?v=1707504925)
 
@@ -635,14 +639,14 @@
 
 - Option: Base Only with 1 AMPS Ball
 - Lowest price: $44.99
-- Retrieved 2/8/2025
+- Retrieved 2025-02-08
 - [bulletpointmountingsolutions.com](https://www.bulletpointmountingsolutions.com/products/rubigrid-v2-2019-ram-truck-1500-2500-3500-4500-5500-trx-dash-mount?variant=41335573741683)
 
 ---
 
 ## Decorations
 
-### Around $100
+### $50+
 
 #### 1. [Ancient Carp Print](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
 
@@ -650,14 +654,18 @@
 
 - Size: Premium 18 inches by 24 inches
 - Lowest price: $80.00
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [OMA Store](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
 
-#### 2. [Badfish Poster](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
+---
+
+### $10+
+
+#### 1. [Badfish Poster](https://www.originalmagicart.store/products/ancient-carp-print?variant=28036597678167)
 
 ##### ![Badfish Print](https://i5.walmartimages.com/seo/Sublime-Music-Poster-Everything-Under-The-Sun-Album-Cover-Sun-Fish-Size-24-x-36_4500aa89-86f7-49f7-91ff-74e718b33786.35d5d4fe4ce3873d7d56975825448132.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 
 - Size: Premium 24 inches by 36 inches
 - Lowest price: $15.99
-- Retrieved 11/23/2026
+- Retrieved 2026-11-23
 - [Walmart.com](https://www.walmart.com/ip/Sublime-Music-Poster-Everything-Under-The-Sun-Album-Cover-Sun-Fish-Size-24-x-36/16664905999?wmlspartner=wlpa&selectedSellerId=7804&wmlspartner=wlpa&cn=FY25-ENTP-PMAX_cnv_dps_dsn_dis_ad_entp_e_n&gclsrc=aw.ds&adid=2222222229716664905999_7804_6736816237_21407473164&wl0=&wl1=g&wl2=c&wl3=&wl4=&wl5=9019031&wl6=&wl7=&wl8=&wl9=pla&wl10=115068638&wl11=online&wl12=16664905999_7804&veh=sem&gad_source=1&gad_campaignid=21690411341&gbraid=0AAAAADmfBIq2WWpyBBdtAp3mnaTtI987w&gclid=EAIaIQobChMI_IPHzrSfmAMV1jhECB3hHjQxEAQYAyABEgJUo_D_BwE)

@@ -1,0 +1,24 @@
+{
+  "name": "wish-list",
+  "version": "1.0.0",
+  "description": "Structured YAML-backed wish list with deterministic README rendering, schema validation, stats, and Markdown linting.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render": "node scripts/wishlist.mjs render",
+    "validate": "node scripts/wishlist.mjs validate",
+    "lint:md": "markdownlint-cli2 \"**/*.md\"",
+    "check": "npm run validate && node scripts/wishlist.mjs render --check && npm run lint:md",
+    "stats": "node scripts/wishlist.mjs stats",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "markdownlint-cli2": "^0.17.2",
+    "yaml": "^2.7.0"
+  }
+}
