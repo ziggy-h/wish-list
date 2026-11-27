@@ -221,12 +221,42 @@ export function formatColors(colors) {
   return { label: 'Colors', value: `${head}, and ${tail}` };
 }
 
+export const MOBILE_IMAGE_WIDTH = 180;
+
 /**
- * Render a validated wishlist object into deterministic Markdown.
- * @param {object} data
+ * Escape special characters for safe use inside an HTML attribute value.
+ * @param {string} value
  * @returns {string}
  */
-export function renderMarkdown(data) {
+export function escapeHtmlAttr(value) {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('"', '&quot;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;');
+}
+
+/**
+ * Compute GitHub-compatible heading anchor slug for quick-jump links.
+ * @param {string} text
+ * @returns {string}
+ */
+export function slugifyHeading(text) {
+  return String(text)
+    .toLowerCase()
+    .trim()
+    .replace(/[^\p{L}\p{N}\s-]/gu, '')
+    .replace(/\s+/g, '-');
+}
+
+/**
+ * Render a validated wishlist object into deterministic, mobile-optimized Markdown.
+ * @param {object} data
+ * @param {{ imageWidth?: number }} [options]
+ * @returns {string}
+ */
+export function renderMarkdown(data, { imageWidth = MOBILE_IMAGE_WIDTH } = {}) {
+  const topAnchor = slugifyHeading(data.title);
   const lines = [
     `# ${data.title}`,
     '',
@@ -240,12 +270,16 @@ export function renderMarkdown(data) {
     }))
     .filter((category) => category.activeItems.length > 0);
 
+  if (activeCategories.length > 0) {
+    const jumpLinks = activeCategories.map(
+      (cat) => `[${cat.name} (${cat.activeItems.length})](#${slugifyHeading(cat.name)})`,
+    );
+    lines.push('', `**Jump to:** ${jumpLinks.join(' · ')}`);
+  }
+
   for (let catIdx = 0; catIdx < activeCategories.length; catIdx++) {
     const category = activeCategories[catIdx];
-    if (catIdx > 0) {
-      lines.push('', '---');
-    }
-    lines.push('', `## ${category.name}`);
+    lines.push('', '---', '', `## ${category.name}`);
 
     // Group items by descending price tier
     const tierBuckets = data.price_tiers.map((tier) => ({
@@ -273,34 +307,40 @@ export function renderMarkdown(data) {
 
       for (let itemIdx = 0; itemIdx < sortedItems.length; itemIdx++) {
         const item = sortedItems[itemIdx];
+        const imgSrc = escapeHtmlAttr(item.image.url);
+        const imgAlt = escapeHtmlAttr(item.image.alt);
+        const formattedPrice = formatPrice(item.price, data.currency);
+
         lines.push(
           '',
           `#### ${itemIdx + 1}. [${item.name}](${item.url})`,
           '',
-          `##### ![${item.image.alt}](${item.image.url})`,
+          `<img src="${imgSrc}" alt="${imgAlt}" width="${imageWidth}" />`,
           '',
+          `**${formattedPrice}** · [Buy at ${item.retailer.name}](${item.retailer.url}) · _Checked ${item.retrieved}_`,
         );
 
+        const detailLines = [];
         if (item.colors && item.colors.length > 0) {
           const { label, value } = formatColors(item.colors);
-          lines.push(`- ${label}: ${value}`);
+          detailLines.push(`- **${label}:** ${value}`);
         }
-        if (item.size !== undefined) lines.push(`- Size: ${item.size}`);
-        if (item.weight !== undefined) lines.push(`- Weight: ${item.weight}`);
-        if (item.model !== undefined) lines.push(`- Model: ${item.model}`);
-        if (item.power !== undefined) lines.push(`- Power: ${item.power}`);
-        if (item.action !== undefined) lines.push(`- Action: ${item.action}`);
-        if (item.option !== undefined) lines.push(`- Option: ${item.option}`);
-        if (item.quantity !== undefined) lines.push(`- Quantity: ${item.quantity}`);
-        if (item.notes !== undefined) lines.push(`- Notes: ${item.notes}`);
+        if (item.size !== undefined) detailLines.push(`- **Size:** ${item.size}`);
+        if (item.weight !== undefined) detailLines.push(`- **Weight:** ${item.weight}`);
+        if (item.model !== undefined) detailLines.push(`- **Model:** ${item.model}`);
+        if (item.power !== undefined) detailLines.push(`- **Power:** ${item.power}`);
+        if (item.action !== undefined) detailLines.push(`- **Action:** ${item.action}`);
+        if (item.option !== undefined) detailLines.push(`- **Option:** ${item.option}`);
+        if (item.quantity !== undefined) detailLines.push(`- **Quantity:** ${item.quantity}`);
+        if (item.notes !== undefined) detailLines.push(`- **Notes:** ${item.notes}`);
 
-        lines.push(
-          `- Lowest price: ${formatPrice(item.price, data.currency)}`,
-          `- Retrieved ${item.retrieved}`,
-          `- [${item.retailer.name}](${item.retailer.url})`,
-        );
+        if (detailLines.length > 0) {
+          lines.push('', ...detailLines);
+        }
       }
     }
+
+    lines.push('', `[↑ Back to top](#${topAnchor})`);
   }
 
   return `${lines.join('\n')}\n`;

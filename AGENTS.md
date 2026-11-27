@@ -19,6 +19,7 @@ Instructions for AI coding agents maintaining `ziggy-h/wish-list`.
 - **Colors**: `colors` is a list where each entry is either a plain string (`"Pink clown"`) or an object (`{ name: "yellow perch", purchased: true }`) rendered with Markdown strikethrough (`~~yellow perch~~`).
 - **Purchased items**: Set `purchased: true` (and optionally `purchased_date: "YYYY-MM-DD"`) to hide an item from `README.md` while keeping purchase history in `wishlist.yaml`. Empty tiers and categories are omitted automatically.
 - **Clean URLs**: Strip tracking/referral query parameters (`msclkid`, `gclid`, `fbclid`, `utm_*`, `ref=`, `pd_rd_*`, `pf_rd_*`, `dib=`, `wmlspartner`, `gad_*`) on new or updated URLs while preserving functional variant parameters (`variant=`, `color=`, `childSku=`, `sku=`). Never store HTML-escaped `&amp;` or trailing `srcset` width descriptors (e.g., `%201280w`) in `image.url`.
+- **Mobile-first README display**: `scripts/wishlist.mjs` renders `README.md` for narrow mobile screens using a wrapping category quick-jump bar, bounded `180px` `<img ... width="180" />` thumbnails (permitted by `MD033` allowlist in `.markdownlint-cli2.jsonc`), compact single-line price/buy/checked summaries, no wide tables, and back-to-top links. Prefer lightweight mobile-sized CDN image URLs (around 300–600px wide when available) and concise titles/notes.
 
 ## Commands
 
